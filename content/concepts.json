@@ -1,0 +1,358 @@
+[
+  {
+    "id": "MI01",
+    "title": "Last-hitting",
+    "slug": "last-hitting",
+    "aliases": [
+      "time-the-last-hit-before-the-health-bar-empties"
+    ]
+  },
+  {
+    "id": "MI06",
+    "title": "Trading",
+    "slug": "trading",
+    "aliases": [
+      "trade-inside-an-observed-cooldown-window"
+    ]
+  },
+  {
+    "id": "MI07",
+    "title": "Spacing",
+    "slug": "spacing",
+    "aliases": [
+      "punish-a-last-hit-commitment-safely"
+    ]
+  },
+  {
+    "id": "MI09",
+    "title": "Dodging",
+    "slug": "dodging",
+    "aliases": [
+      "dodge-a-linear-skillshot-toward-safety"
+    ]
+  },
+  {
+    "id": "MI10",
+    "title": "Kiting",
+    "slug": "kiting",
+    "aliases": [
+      "move-between-attacks-without-cancelling-them"
+    ]
+  },
+  {
+    "id": "MA02",
+    "title": "Recalling",
+    "slug": "recalling",
+    "aliases": [
+      "choose-a-safe-recall-window"
+    ]
+  },
+  {
+    "id": "MA04",
+    "title": "Lane priority",
+    "slug": "lane-priority",
+    "aliases": [
+      "check-whether-lane-priority-is-usable"
+    ]
+  },
+  {
+    "id": "MA05",
+    "title": "Warding",
+    "slug": "warding",
+    "aliases": [
+      "place-a-ward-to-answer-your-next-question"
+    ]
+  },
+  {
+    "id": "MA06",
+    "title": "Jungle tracking",
+    "slug": "jungle-tracking",
+    "aliases": [
+      "track-the-jungler-without-pretending-to-know"
+    ]
+  },
+  {
+    "id": "MA10",
+    "title": "Objective control",
+    "slug": "objective-control",
+    "aliases": [
+      "prepare-an-objective-before-committing-to-it"
+    ]
+  },
+  {
+    "id": "MA11",
+    "title": "Freezing",
+    "slug": "freezing",
+    "aliases": []
+  },
+  {
+    "id": "MA12",
+    "title": "Slow pushing",
+    "slug": "slow-pushing",
+    "aliases": []
+  },
+  {
+    "id": "MA13",
+    "title": "Fast pushing",
+    "slug": "fast-pushing",
+    "aliases": []
+  },
+  {
+    "id": "MA14",
+    "title": "Roaming",
+    "slug": "roaming",
+    "aliases": []
+  },
+  {
+    "id": "MA15",
+    "title": "Split pushing",
+    "slug": "split-pushing",
+    "aliases": []
+  },
+  {
+    "id": "MI11",
+    "title": "Peeling",
+    "slug": "peeling",
+    "aliases": []
+  },
+  {
+    "id": "MA16",
+    "title": "Wave crashing",
+    "slug": "wave-crashing",
+    "aliases": []
+  },
+  {
+    "id": "MA17",
+    "title": "Wave bouncing",
+    "slug": "wave-bouncing",
+    "aliases": []
+  },
+  {
+    "id": "MI12",
+    "title": "Positioning",
+    "slug": "positioning",
+    "aliases": []
+  },
+  {
+    "id": "MI13",
+    "title": "Engaging",
+    "slug": "engaging",
+    "aliases": []
+  },
+  {
+    "id": "MA18",
+    "title": "Flanking",
+    "slug": "flanking",
+    "aliases": []
+  },
+  {
+    "id": "MA19",
+    "title": "Vision denial",
+    "slug": "vision-denial",
+    "aliases": []
+  },
+  {
+    "id": "MI14",
+    "title": "Skillshots",
+    "slug": "skillshots",
+    "aliases": []
+  },
+  {
+    "id": "MI15",
+    "title": "Cooldown tracking",
+    "slug": "cooldown-tracking",
+    "aliases": []
+  },
+  {
+    "id": "MI16",
+    "title": "Resource management",
+    "slug": "resource-management",
+    "aliases": []
+  },
+  {
+    "id": "MI17",
+    "title": "All-ins",
+    "slug": "all-ins",
+    "aliases": []
+  },
+  {
+    "id": "MI18",
+    "title": "Poking",
+    "slug": "poking",
+    "aliases": []
+  },
+  {
+    "id": "MI19",
+    "title": "Zoning",
+    "slug": "zoning",
+    "aliases": []
+  },
+  {
+    "id": "MI20",
+    "title": "Body blocking",
+    "slug": "body-blocking",
+    "aliases": []
+  },
+  {
+    "id": "MI21",
+    "title": "Crowd control",
+    "slug": "crowd-control",
+    "aliases": []
+  },
+  {
+    "id": "MI22",
+    "title": "Target selection",
+    "slug": "target-selection",
+    "aliases": []
+  },
+  {
+    "id": "MI23",
+    "title": "Disengaging",
+    "slug": "disengaging",
+    "aliases": []
+  },
+  {
+    "id": "MI24",
+    "title": "Baiting",
+    "slug": "baiting",
+    "aliases": []
+  },
+  {
+    "id": "MI25",
+    "title": "Combos",
+    "slug": "combos",
+    "aliases": []
+  },
+  {
+    "id": "MA20",
+    "title": "Power spikes",
+    "slug": "power-spikes",
+    "aliases": []
+  },
+  {
+    "id": "MA21",
+    "title": "Itemization",
+    "slug": "itemization",
+    "aliases": []
+  },
+  {
+    "id": "MA22",
+    "title": "Tempo",
+    "slug": "tempo",
+    "aliases": []
+  },
+  {
+    "id": "MA23",
+    "title": "Resets",
+    "slug": "resets",
+    "aliases": []
+  },
+  {
+    "id": "MA24",
+    "title": "Rotations",
+    "slug": "rotations",
+    "aliases": []
+  },
+  {
+    "id": "MA25",
+    "title": "Lane assignments",
+    "slug": "lane-assignments",
+    "aliases": []
+  },
+  {
+    "id": "MA26",
+    "title": "Cross-map trading",
+    "slug": "cross-map-trading",
+    "aliases": []
+  },
+  {
+    "id": "MA27",
+    "title": "Ganking",
+    "slug": "ganking",
+    "aliases": []
+  },
+  {
+    "id": "MA28",
+    "title": "Counterganking",
+    "slug": "counterganking",
+    "aliases": []
+  },
+  {
+    "id": "MA29",
+    "title": "Jungle pathing",
+    "slug": "jungle-pathing",
+    "aliases": []
+  },
+  {
+    "id": "MA30",
+    "title": "Invading",
+    "slug": "invading",
+    "aliases": []
+  },
+  {
+    "id": "MA31",
+    "title": "Counterjungling",
+    "slug": "counterjungling",
+    "aliases": []
+  },
+  {
+    "id": "MA32",
+    "title": "Collapsing",
+    "slug": "collapsing",
+    "aliases": []
+  },
+  {
+    "id": "MA33",
+    "title": "Picks",
+    "slug": "picks",
+    "aliases": []
+  },
+  {
+    "id": "MA34",
+    "title": "Sieging",
+    "slug": "sieging",
+    "aliases": []
+  },
+  {
+    "id": "MA35",
+    "title": "Diving",
+    "slug": "diving",
+    "aliases": []
+  },
+  {
+    "id": "MA36",
+    "title": "Win conditions",
+    "slug": "win-conditions",
+    "aliases": []
+  },
+  {
+    "id": "MA37",
+    "title": "Weak side",
+    "slug": "weak-side",
+    "aliases": []
+  },
+  {
+    "id": "MA38",
+    "title": "Experience",
+    "slug": "experience",
+    "aliases": []
+  },
+  {
+    "id": "MA39",
+    "title": "Map awareness",
+    "slug": "map-awareness",
+    "aliases": []
+  },
+  {
+    "id": "MI26",
+    "title": "Summoner spells",
+    "slug": "summoner-spells",
+    "aliases": []
+  },
+  {
+    "id": "MA40",
+    "title": "Wave management",
+    "slug": "wave-management",
+    "aliases": []
+  }
+]

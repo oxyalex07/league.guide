@@ -1,0 +1,16 @@
+{
+  "lessons": 16,
+  "micro": 6,
+  "macro": 10,
+  "new_concepts": [
+    "MA11",
+    "MA12",
+    "MA13",
+    "MA14",
+    "MA15",
+    "MI11"
+  ],
+  "markdown_links": "all local targets exist",
+  "new_sections": "all present",
+  "new_SVGs": "12 parse successfully"
+}

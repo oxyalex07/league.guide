@@ -1,0 +1,442 @@
+[
+  {
+    "title": "Lane foundations",
+    "goal": "Read your resources, levels, reach and map before committing.",
+    "ids": [
+      "MI01",
+      "MI07",
+      "MA38",
+      "MI16",
+      "MI14",
+      "MI09",
+      "MI10",
+      "MA39"
+    ],
+    "check": "Review three lane decisions. Identify farm or experience gained or conceded, your available resources, a range threat and map information that changed your action.",
+    "extension": {
+      "title": "A contested last hit",
+      "scenario": "You are low on health. A minion is about to die inside the opponent\u2019s attack range, and an enemy has disappeared from the map. Taking the gold would also mean stepping away from your safe route.",
+      "walkthrough": "Separate the reward from the exposure. Check the visible threat, your resources and the missing enemy before moving. Concede the last hit if the approach is unsafe; look for a safer position from which to keep learning what the opponent is doing. A missed minion is a decision to review, not a reason to force the next trade.",
+      "drill": "Pause before three contested minions. Write down the reward, the threat and your exit. Compare the choice with what you knew at the time, not with enemies revealed later in the replay."
+    },
+    "quiz": [
+      {
+        "prompt": "What matters before stepping up for this minion?",
+        "options": [
+          "Only its remaining health",
+          "Your reach, available resources and visible or missing threats",
+          "Whether the previous minion was missed"
+        ],
+        "answer": 1,
+        "explanation": "The last hit has value, but its cost depends on reach, resources and information.",
+        "review": "MI07"
+      },
+      {
+        "prompt": "You cannot safely reach the minion. Which choice fits the scenario?",
+        "options": [
+          "Force the attack to recover lost gold",
+          "Spend every ability without checking the map",
+          "Concede this last hit and keep a safer position"
+        ],
+        "answer": 2,
+        "explanation": "Do not turn a small resource loss into a larger commitment you cannot support.",
+        "review": "MA38"
+      },
+      {
+        "prompt": "Which replay view best tests your map awareness?",
+        "options": [
+          "Your player view at the time of the decision",
+          "Full enemy vision after the fight",
+          "Only the final score"
+        ],
+        "answer": 0,
+        "explanation": "Judge the information you could actually use when you chose to move.",
+        "review": "MA39"
+      }
+    ]
+  },
+  {
+    "title": "Combat tools",
+    "goal": "Choose a cast or commitment from observed information.",
+    "ids": [
+      "MI15",
+      "MI21",
+      "MI26",
+      "MI25",
+      "MI06",
+      "MI18",
+      "MI17",
+      "MI19",
+      "MI24"
+    ],
+    "check": "Review a missed spell, a short trade and a committed fight. Name the tool, opening and stop condition. Repeat the drill for the choice you cannot explain.",
+    "extension": {
+      "title": "A missed spell is an opening, not a command",
+      "scenario": "Your opponent misses a key spell. You have a short window to act, but your own escape is unavailable and the opponent still has other tools.",
+      "walkthrough": "Name the missing tool and the tools that remain. A short trade may be possible if you can leave after it. Do not turn the exchange into an all-in merely because one spell missed. Stop when your safe reach ends or new information changes the fight.",
+      "drill": "Find a trade in a replay. Pause after the first cast and name your next action and stop condition. Compare a short exchange with a full commitment; explain what additional evidence the commitment would need."
+    },
+    "quiz": [
+      {
+        "prompt": "What does observing a key enemy cast tell you?",
+        "options": [
+          "Every enemy ability is unavailable",
+          "That specific tool was used; other threats still need checking",
+          "The opponent cannot fight"
+        ],
+        "answer": 1,
+        "explanation": "Track the observed tool, not an imagined absence of all danger.",
+        "review": "MI21"
+      },
+      {
+        "prompt": "Your escape is unavailable. What should change?",
+        "options": [
+          "Your acceptable commitment and exit plan",
+          "Nothing if you can deal damage",
+          "You must immediately all-in"
+        ],
+        "answer": 0,
+        "explanation": "A trade needs a way to end. Losing an escape changes the risk you can accept.",
+        "review": "MI18"
+      },
+      {
+        "prompt": "What makes a combo useful?",
+        "options": [
+          "Casting all abilities as quickly as possible",
+          "Using the same sequence in every situation",
+          "Ordering tools for the effect and follow-up you need"
+        ],
+        "answer": 2,
+        "explanation": "The sequence should serve the current job, such as control or a safe exchange.",
+        "review": "MI25"
+      }
+    ]
+  },
+  {
+    "title": "Waves and purchases",
+    "goal": "Choose a wave plan, leave safely and turn income into useful strength.",
+    "ids": [
+      "MA40",
+      "MA13",
+      "MA12",
+      "MA16",
+      "MA17",
+      "MA11",
+      "MA02",
+      "MA21",
+      "MA20"
+    ],
+    "check": "Review three wave decisions and one purchase. Name the wave plan, actual result, departure cost and what the bought item or new level enables.",
+    "extension": {
+      "title": "A recall with a wave cost",
+      "scenario": "You can afford a useful purchase, but your wave has not reached the enemy turret. Your opponent can still influence where the next wave meets.",
+      "walkthrough": "Choose the wave plan before assuming you have a free departure. Check whether you can finish the push safely and whether it actually reaches the turret. If you cannot, compare the cost of leaving now with the danger of staying. On return, ask which action your purchase enables instead of treating any purchase as permission to fight.",
+      "drill": "Review one recall. Record the wave position before leaving and on return, what you bought, and the resource you lost. State one alternative and its risk. A good review can accept a loss when staying was worse."
+    },
+    "quiz": [
+      {
+        "prompt": "You intended to crash a wave. What must you check?",
+        "options": [
+          "Whether you used an ability on the wave",
+          "Whether you bought an item afterward",
+          "Whether the wave actually reached the enemy turret"
+        ],
+        "answer": 2,
+        "explanation": "Intention is not the result. Verify the crash before using it to explain your departure.",
+        "review": "MA16"
+      },
+      {
+        "prompt": "You cannot finish the push safely. What is the next decision?",
+        "options": [
+          "Compare leaving costs with the risk of staying",
+          "Stay until every minion is gone regardless of danger",
+          "Assume the wave will fix itself"
+        ],
+        "answer": 0,
+        "explanation": "Wave plans are conditional; survival and resources can justify an imperfect recall.",
+        "review": "MA02"
+      },
+      {
+        "prompt": "How should a purchase affect your next choice?",
+        "options": [
+          "Any purchase makes an all-in correct",
+          "Identify which specific problem it solves or action it enables",
+          "Ignore the opposing champion\u2019s resources"
+        ],
+        "answer": 1,
+        "explanation": "Usable strength depends on the purchase and situation, not just spending gold.",
+        "review": "MA21"
+      }
+    ]
+  },
+  {
+    "title": "Map information",
+    "goal": "Use observed information to decide whether movement is safe.",
+    "ids": [
+      "MA05",
+      "MA19",
+      "MA06",
+      "MA04",
+      "MA37"
+    ],
+    "check": "Before three map moves, name a known enemy position, an unknown approach, reachable allied help and a retreat point. Use player view in replays.",
+    "extension": {
+      "title": "The unwarded approach",
+      "scenario": "You want to ward near a contested area. Two opponents are missing, your nearby ally is moving away, and the nearest brush has no friendly vision.",
+      "walkthrough": "A ward gives information after placement; it does not make the approach safe. Choose a route with support or settle for a safer position that still answers a useful question. State what the ward should reveal. If support leaves, reconsider the plan instead of finishing it out of habit.",
+      "drill": "Review three wards in player view. For each, name the question it answered, what you knew before approaching and the escape route. Separate useful information from a dangerous placement that happened to go unpunished."
+    },
+    "quiz": [
+      {
+        "prompt": "What is the main problem with this ward attempt?",
+        "options": [
+          "Wards cannot reveal information",
+          "The approach is uncertain and allied support is leaving",
+          "The ward must be placed as deep as possible"
+        ],
+        "answer": 1,
+        "explanation": "Placement value does not remove approach risk. Check access before entering.",
+        "review": "MA05"
+      },
+      {
+        "prompt": "A missing enemy was last seen elsewhere. What is that?",
+        "options": [
+          "Evidence to update, not a guaranteed current position",
+          "Proof that this brush is safe",
+          "A reason to ignore all other information"
+        ],
+        "answer": 0,
+        "explanation": "Last-seen information ages. Keep unknown routes in your decision.",
+        "review": "MA06"
+      },
+      {
+        "prompt": "What makes a ward purposeful?",
+        "options": [
+          "It is always in the same spot",
+          "It is far from your team",
+          "It answers a question relevant to the next action"
+        ],
+        "answer": 2,
+        "explanation": "Connect vision to the route or threat your team needs to understand.",
+        "review": "MA05"
+      }
+    ]
+  },
+  {
+    "title": "Jungle decisions",
+    "goal": "Connect jungle routes to lane readiness and safe access.",
+    "ids": [
+      "MA29",
+      "MA27",
+      "MA28",
+      "MA30",
+      "MA31"
+    ],
+    "check": "Review a route, a lane approach and an enemy-jungle entry. Name the purpose, evidence, alternative task and exit. Non-junglers can use a teammate replay.",
+    "extension": {
+      "title": "A gank that loses its setup",
+      "scenario": "You plan to approach a lane, but your laner has spent their resources and must retreat. An available camp offers a different task. The enemy jungle entrance is unobserved.",
+      "walkthrough": "Update the route when the lane changes. A gank needs reachable follow-up, not just your arrival. Compare continuing, taking an available camp or preparing another approach. Entering enemy territory needs a separate purpose and exit; it is not a default answer to a cancelled gank.",
+      "drill": "Pause before a lane approach. Name the ally who can follow, the enemy escape route and your alternative task. Then review whether you changed plans when any of those conditions changed."
+    },
+    "quiz": [
+      {
+        "prompt": "Your laner can no longer help. What should you do first?",
+        "options": [
+          "Proceed because you already walked there",
+          "Reassess the gank and compare available alternatives",
+          "Enter the enemy jungle immediately"
+        ],
+        "answer": 1,
+        "explanation": "The value of a route depends on current lane readiness, not the time already spent walking.",
+        "review": "MA27"
+      },
+      {
+        "prompt": "What distinguishes a prepared countergank from waiting without a plan?",
+        "options": [
+          "The amount of time spent in brush",
+          "Ignoring your own resources",
+          "Evidence of the approach and reachable support"
+        ],
+        "answer": 2,
+        "explanation": "Preparation needs evidence, positioning and a useful response if the attack occurs.",
+        "review": "MA28"
+      },
+      {
+        "prompt": "What is needed before an invade?",
+        "options": [
+          "A purpose, information, support assessment and an exit",
+          "Only an empty-looking entrance",
+          "A cancelled gank"
+        ],
+        "answer": 0,
+        "explanation": "An entry creates new exposure. Check whether the task and escape are available.",
+        "review": "MA30"
+      }
+    ]
+  },
+  {
+    "title": "Connected pressure",
+    "goal": "Coordinate movement and resource collection across the map.",
+    "ids": [
+      "MA22",
+      "MA23",
+      "MA14",
+      "MA25",
+      "MA24",
+      "MA15",
+      "MA26"
+    ],
+    "check": "Review one reset, rotation and side-lane action. Identify the useful window, the duty left behind and whether teammates could act at the same time.",
+    "extension": {
+      "title": "Side pressure while allies reset",
+      "scenario": "You want to push a side lane, but several allies are recalling. Your push would take you past the information your team controls.",
+      "walkthrough": "Pressure works when teammates can act during the same window. If allies are unavailable, reduce exposure and decide who will collect the next wave. Communicate the plan, then check the map again before advancing. Giving up distance can preserve your ability to apply pressure when the team returns.",
+      "drill": "Review a side-lane death or retreat. Mark when allies became available and when you crossed into uncertain space. Describe a position that would keep useful farm without assuming teammates could act immediately."
+    },
+    "quiz": [
+      {
+        "prompt": "Why does allied recall timing matter to a side push?",
+        "options": [
+          "It can remove the team\u2019s ability to act during your pressure window",
+          "Recalls always mean you should dive",
+          "Side lanes never depend on teammates"
+        ],
+        "answer": 0,
+        "explanation": "Connected pressure needs overlapping opportunities; unavailable allies change the window.",
+        "review": "MA23"
+      },
+      {
+        "prompt": "What should a lane assignment clarify?",
+        "options": [
+          "Who has the most kills",
+          "Who owns the wave and the nearby map duty",
+          "Who must always group"
+        ],
+        "answer": 1,
+        "explanation": "Assignments connect resources to responsibilities and reduce unattended waves.",
+        "review": "MA25"
+      },
+      {
+        "prompt": "A direct contest is poor. What makes a cross-map alternative useful?",
+        "options": [
+          "Taking any fight elsewhere",
+          "Walking farther from the team",
+          "An achievable resource with access and an acceptable cost"
+        ],
+        "answer": 2,
+        "explanation": "A trade should produce something real without creating a worse loss.",
+        "review": "MA26"
+      }
+    ]
+  },
+  {
+    "title": "Team fights",
+    "goal": "Match position, target and tools to the current team job.",
+    "ids": [
+      "MI12",
+      "MI22",
+      "MI20",
+      "MI11",
+      "MI13",
+      "MI23",
+      "MA18",
+      "MA32"
+    ],
+    "check": "Review three fights. Name your job, reachable targets, the main threat and the exit. Explain one moment when changing your target or job would help.",
+    "extension": {
+      "title": "Changing your job during a fight",
+      "scenario": "You start a fight planning to damage the frontline. An enemy then approaches your vulnerable teammate from the side. Chasing a distant target would take you away from that teammate.",
+      "walkthrough": "Reassess the job as threats move. If your tools can interrupt the approach, protecting your teammate may be more valuable than reaching a distant target. Keep track of your safe position and exit. A target that is valuable but unreachable is not automatically a good target for you.",
+      "drill": "Pause a fight at its start and at the first major threat change. Name your job, reachable target and escape at both moments. Explain whether your next cast supported the job you named."
+    },
+    "quiz": [
+      {
+        "prompt": "A threat reaches your vulnerable teammate. What should you reassess?",
+        "options": [
+          "Only your damage total",
+          "Your job, available tools and reachable targets",
+          "Nothing after the fight begins"
+        ],
+        "answer": 1,
+        "explanation": "The useful job can change from damage to protection as the fight develops.",
+        "review": "MI13"
+      },
+      {
+        "prompt": "Which target is usually a better starting point for this decision?",
+        "options": [
+          "A valuable target you cannot reach safely",
+          "Any target with the lowest health",
+          "A target you can affect while performing your current job"
+        ],
+        "answer": 2,
+        "explanation": "Target value must be balanced with reach, safety and the team job.",
+        "review": "MI22"
+      },
+      {
+        "prompt": "What should trigger a disengage review?",
+        "options": [
+          "Your intended fight conditions or safe exit are disappearing",
+          "You have not used every ability yet",
+          "An enemy is visible anywhere"
+        ],
+        "answer": 0,
+        "explanation": "Reassess before contact becomes harder to end; sunk effort is not a reason to continue.",
+        "review": "MI23"
+      }
+    ]
+  },
+  {
+    "title": "Closing games",
+    "goal": "Turn temporary advantages into safe progress toward the base.",
+    "ids": [
+      "MA36",
+      "MA33",
+      "MA10",
+      "MA34",
+      "MA35"
+    ],
+    "check": "State your current win condition, then review two attempts to make progress. Name the setup, achievable gain and cancellation condition; include an option when behind.",
+    "extension": {
+      "title": "After the successful fight",
+      "scenario": "Your team wins a fight near an objective, but has low health and some teammates are far away. A structure is tempting, while enemy return routes are uncertain.",
+      "walkthrough": "Convert the opening into a gain you can finish. Compare a nearby objective, a wave or structure, and a reset using health, arrival times and access. Name the point at which the plan must end. When behind, a smaller safe gain can be better than a contest that requires enemies to make another mistake.",
+      "drill": "Review two won fights. Record the first planned follow-up, whether your team could reach and finish it, and the signal to leave. Judge the conversion separately from winning the fight itself."
+    },
+    "quiz": [
+      {
+        "prompt": "What should follow a won fight?",
+        "options": [
+          "An automatic dive",
+          "A chase until every enemy is gone",
+          "A check of which useful gain is achievable with current resources"
+        ],
+        "answer": 2,
+        "explanation": "A fight creates a window; resources, access and time determine what fits inside it.",
+        "review": "MA10"
+      },
+      {
+        "prompt": "What is a useful cancellation condition for a siege?",
+        "options": [
+          "Your safe approach or ability to leave breaks down",
+          "You have already spent time walking there",
+          "The structure is still standing"
+        ],
+        "answer": 0,
+        "explanation": "A siege needs continued control of access; stop when the conditions that supported it disappear.",
+        "review": "MA34"
+      },
+      {
+        "prompt": "How should a win condition guide decisions while behind?",
+        "options": [
+          "Demand the same fight regardless of resources",
+          "Choose a realistic route to progress and preserve the tools it needs",
+          "Ignore waves and wait for a perfect fight"
+        ],
+        "answer": 1,
+        "explanation": "Adapt the next achievable gain to the current position rather than repeating an unavailable plan.",
+        "review": "MA36"
+      }
+    ]
+  }
+]

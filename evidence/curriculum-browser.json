@@ -1,0 +1,12 @@
+{
+  "checks": [
+    "experience figure loaded at 1440",
+    "map-awareness figure loaded at 1440",
+    "summoner-spells figure loaded at 1440",
+    "wave-management figure loaded at 1440",
+    "experience figure loaded at 320",
+    "map-awareness figure loaded at 320",
+    "summoner-spells figure loaded at 320",
+    "wave-management figure loaded at 320"
+  ]
+}

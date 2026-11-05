@@ -1,0 +1,11 @@
+<svg class="champion-diagram" viewBox="0 0 460 290" role="img" aria-labelledby="diagram-title-karthus diagram-desc-karthus" xmlns="http://www.w3.org/2000/svg"><style>:root{--ink:#182a40;--blue:#224fc5;--foe:#ad3932;--muted:#536477;--surface:#fff;--tint:#f0f4fc;--line:#d9e0e9;color:var(--ink)}text{fill:var(--ink);font:24px system-ui,sans-serif}@media(prefers-color-scheme:dark){:root{--ink:#ededed;--blue:#9abaff;--foe:#ed9b91;--muted:#b5b5b5;--surface:#191919;--tint:#222;--line:#424242}}</style>
+<title id="diagram-title-karthus">Karthus: a possible teamfight formation</title><desc id="diagram-desc-karthus">Hold protected ground and influence the contested area. The dashed zone is a teaching area, not an exact ability size or range. Circles are allies, squares are enemies, and the outlined circle marked You is your position. The arrow is explained in the caption.</desc>
+<defs><marker id="arrow-karthus" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="currentColor"/></marker></defs>
+<rect x="1" y="1" width="458" height="288" rx="12" fill="var(--tint)" stroke="var(--line)"/>
+<rect x="260" y="100" width="165" height="120" rx="16" fill="none" stroke="var(--muted)" stroke-dasharray="5 6"/>
+<circle cx="65" cy="170" r="21" fill="var(--blue)"/><text x="65" y="217" text-anchor="middle">Ally</text>
+<circle cx="185" cy="140" r="21" fill="var(--blue)"/><text x="185" y="105" text-anchor="middle">Front</text>
+<rect x="340" y="140" width="38" height="38" fill="var(--foe)"/><text x="359" y="210" text-anchor="middle">Enemy</text>
+<path d="M65,65 L330,160" fill="none" stroke="currentColor" stroke-width="3" stroke-dasharray="8 5" marker-end="url(#arrow-karthus)"/>
+<circle cx="65" cy="65" r="25" fill="var(--surface)" stroke="var(--ink)" stroke-width="3"/><text x="65" y="73" text-anchor="middle">You</text>
+</svg>

@@ -1,0 +1,694 @@
+{
+  "Aatrox": {
+    "words": 489,
+    "markdownWords": 457
+  },
+  "Ahri": {
+    "words": 498,
+    "markdownWords": 470
+  },
+  "Akali": {
+    "words": 493,
+    "markdownWords": 463
+  },
+  "Akshan": {
+    "words": 488,
+    "markdownWords": 461
+  },
+  "Alistar": {
+    "words": 485,
+    "markdownWords": 460
+  },
+  "Ambessa": {
+    "words": 481,
+    "markdownWords": 449
+  },
+  "Amumu": {
+    "words": 496,
+    "markdownWords": 467
+  },
+  "Anivia": {
+    "words": 484,
+    "markdownWords": 472
+  },
+  "Annie": {
+    "words": 481,
+    "markdownWords": 457
+  },
+  "Aphelios": {
+    "words": 485,
+    "markdownWords": 453
+  },
+  "Ashe": {
+    "words": 479,
+    "markdownWords": 451
+  },
+  "AurelionSol": {
+    "words": 492,
+    "markdownWords": 462
+  },
+  "Aurora": {
+    "words": 495,
+    "markdownWords": 467
+  },
+  "Azir": {
+    "words": 472,
+    "markdownWords": 461
+  },
+  "Bard": {
+    "words": 489,
+    "markdownWords": 458
+  },
+  "Belveth": {
+    "words": 493,
+    "markdownWords": 460
+  },
+  "Blitzcrank": {
+    "words": 497,
+    "markdownWords": 470
+  },
+  "Brand": {
+    "words": 477,
+    "markdownWords": 453
+  },
+  "Braum": {
+    "words": 475,
+    "markdownWords": 444
+  },
+  "Briar": {
+    "words": 489,
+    "markdownWords": 455
+  },
+  "Caitlyn": {
+    "words": 486,
+    "markdownWords": 454
+  },
+  "Camille": {
+    "words": 488,
+    "markdownWords": 453
+  },
+  "Cassiopeia": {
+    "words": 485,
+    "markdownWords": 459
+  },
+  "Chogath": {
+    "words": 499,
+    "markdownWords": 474
+  },
+  "Corki": {
+    "words": 485,
+    "markdownWords": 457
+  },
+  "Darius": {
+    "words": 482,
+    "markdownWords": 454
+  },
+  "Diana": {
+    "words": 485,
+    "markdownWords": 455
+  },
+  "DrMundo": {
+    "words": 490,
+    "markdownWords": 457
+  },
+  "Draven": {
+    "words": 481,
+    "markdownWords": 451
+  },
+  "Ekko": {
+    "words": 497,
+    "markdownWords": 470
+  },
+  "Elise": {
+    "words": 507,
+    "markdownWords": 472
+  },
+  "Evelynn": {
+    "words": 489,
+    "markdownWords": 462
+  },
+  "Ezreal": {
+    "words": 487,
+    "markdownWords": 457
+  },
+  "Fiddlesticks": {
+    "words": 488,
+    "markdownWords": 462
+  },
+  "Fiora": {
+    "words": 487,
+    "markdownWords": 455
+  },
+  "Fizz": {
+    "words": 498,
+    "markdownWords": 467
+  },
+  "Galio": {
+    "words": 489,
+    "markdownWords": 456
+  },
+  "Gangplank": {
+    "words": 486,
+    "markdownWords": 473
+  },
+  "Garen": {
+    "words": 474,
+    "markdownWords": 446
+  },
+  "Gnar": {
+    "words": 477,
+    "markdownWords": 456
+  },
+  "Gragas": {
+    "words": 482,
+    "markdownWords": 454
+  },
+  "Graves": {
+    "words": 489,
+    "markdownWords": 459
+  },
+  "Gwen": {
+    "words": 495,
+    "markdownWords": 459
+  },
+  "Hecarim": {
+    "words": 497,
+    "markdownWords": 469
+  },
+  "Heimerdinger": {
+    "words": 496,
+    "markdownWords": 466
+  },
+  "Hwei": {
+    "words": 500,
+    "markdownWords": 471
+  },
+  "Illaoi": {
+    "words": 486,
+    "markdownWords": 450
+  },
+  "Irelia": {
+    "words": 491,
+    "markdownWords": 457
+  },
+  "Ivern": {
+    "words": 501,
+    "markdownWords": 472
+  },
+  "Janna": {
+    "words": 493,
+    "markdownWords": 463
+  },
+  "JarvanIV": {
+    "words": 498,
+    "markdownWords": 472
+  },
+  "Jax": {
+    "words": 488,
+    "markdownWords": 455
+  },
+  "Jayce": {
+    "words": 490,
+    "markdownWords": 448
+  },
+  "Jhin": {
+    "words": 483,
+    "markdownWords": 455
+  },
+  "Jinx": {
+    "words": 485,
+    "markdownWords": 456
+  },
+  "KSante": {
+    "words": 478,
+    "markdownWords": 448
+  },
+  "Kaisa": {
+    "words": 490,
+    "markdownWords": 462
+  },
+  "Kalista": {
+    "words": 483,
+    "markdownWords": 457
+  },
+  "Karma": {
+    "words": 484,
+    "markdownWords": 455
+  },
+  "Karthus": {
+    "words": 497,
+    "markdownWords": 471
+  },
+  "Kassadin": {
+    "words": 492,
+    "markdownWords": 464
+  },
+  "Katarina": {
+    "words": 489,
+    "markdownWords": 463
+  },
+  "Kayle": {
+    "words": 487,
+    "markdownWords": 458
+  },
+  "Kayn": {
+    "words": 493,
+    "markdownWords": 461
+  },
+  "Kennen": {
+    "words": 489,
+    "markdownWords": 459
+  },
+  "Khazix": {
+    "words": 493,
+    "markdownWords": 464
+  },
+  "Kindred": {
+    "words": 491,
+    "markdownWords": 459
+  },
+  "Kled": {
+    "words": 476,
+    "markdownWords": 442
+  },
+  "KogMaw": {
+    "words": 479,
+    "markdownWords": 450
+  },
+  "Leblanc": {
+    "words": 496,
+    "markdownWords": 468
+  },
+  "LeeSin": {
+    "words": 491,
+    "markdownWords": 456
+  },
+  "Leona": {
+    "words": 494,
+    "markdownWords": 467
+  },
+  "Lillia": {
+    "words": 486,
+    "markdownWords": 455
+  },
+  "Lissandra": {
+    "words": 495,
+    "markdownWords": 466
+  },
+  "Locke": {
+    "words": 494,
+    "markdownWords": 464
+  },
+  "Lucian": {
+    "words": 483,
+    "markdownWords": 455
+  },
+  "Lulu": {
+    "words": 494,
+    "markdownWords": 464
+  },
+  "Lux": {
+    "words": 478,
+    "markdownWords": 450
+  },
+  "Malphite": {
+    "words": 487,
+    "markdownWords": 460
+  },
+  "Malzahar": {
+    "words": 495,
+    "markdownWords": 466
+  },
+  "Maokai": {
+    "words": 503,
+    "markdownWords": 475
+  },
+  "MasterYi": {
+    "words": 488,
+    "markdownWords": 456
+  },
+  "Mel": {
+    "words": 491,
+    "markdownWords": 463
+  },
+  "Milio": {
+    "words": 493,
+    "markdownWords": 459
+  },
+  "MissFortune": {
+    "words": 480,
+    "markdownWords": 452
+  },
+  "Mordekaiser": {
+    "words": 492,
+    "markdownWords": 462
+  },
+  "Morgana": {
+    "words": 493,
+    "markdownWords": 462
+  },
+  "Naafiri": {
+    "words": 516,
+    "markdownWords": 484
+  },
+  "Nami": {
+    "words": 483,
+    "markdownWords": 451
+  },
+  "Nasus": {
+    "words": 487,
+    "markdownWords": 455
+  },
+  "Nautilus": {
+    "words": 492,
+    "markdownWords": 465
+  },
+  "Neeko": {
+    "words": 489,
+    "markdownWords": 463
+  },
+  "Nidalee": {
+    "words": 495,
+    "markdownWords": 460
+  },
+  "Nilah": {
+    "words": 486,
+    "markdownWords": 453
+  },
+  "Nocturne": {
+    "words": 498,
+    "markdownWords": 470
+  },
+  "Nunu": {
+    "words": 501,
+    "markdownWords": 473
+  },
+  "Olaf": {
+    "words": 486,
+    "markdownWords": 456
+  },
+  "Orianna": {
+    "words": 478,
+    "markdownWords": 468
+  },
+  "Ornn": {
+    "words": 495,
+    "markdownWords": 464
+  },
+  "Pantheon": {
+    "words": 499,
+    "markdownWords": 468
+  },
+  "Poppy": {
+    "words": 484,
+    "markdownWords": 453
+  },
+  "Pyke": {
+    "words": 517,
+    "markdownWords": 484
+  },
+  "Qiyana": {
+    "words": 500,
+    "markdownWords": 467
+  },
+  "Quinn": {
+    "words": 481,
+    "markdownWords": 453
+  },
+  "Rakan": {
+    "words": 483,
+    "markdownWords": 455
+  },
+  "Rammus": {
+    "words": 491,
+    "markdownWords": 463
+  },
+  "RekSai": {
+    "words": 488,
+    "markdownWords": 449
+  },
+  "Rell": {
+    "words": 497,
+    "markdownWords": 467
+  },
+  "Renata": {
+    "words": 487,
+    "markdownWords": 460
+  },
+  "Renekton": {
+    "words": 495,
+    "markdownWords": 462
+  },
+  "Rengar": {
+    "words": 488,
+    "markdownWords": 458
+  },
+  "Riven": {
+    "words": 493,
+    "markdownWords": 457
+  },
+  "Rumble": {
+    "words": 485,
+    "markdownWords": 459
+  },
+  "Ryze": {
+    "words": 492,
+    "markdownWords": 466
+  },
+  "Samira": {
+    "words": 489,
+    "markdownWords": 455
+  },
+  "Sejuani": {
+    "words": 491,
+    "markdownWords": 462
+  },
+  "Senna": {
+    "words": 496,
+    "markdownWords": 465
+  },
+  "Seraphine": {
+    "words": 484,
+    "markdownWords": 454
+  },
+  "Sett": {
+    "words": 476,
+    "markdownWords": 446
+  },
+  "Shaco": {
+    "words": 496,
+    "markdownWords": 468
+  },
+  "Shen": {
+    "words": 502,
+    "markdownWords": 471
+  },
+  "Shyvana": {
+    "words": 500,
+    "markdownWords": 471
+  },
+  "Singed": {
+    "words": 484,
+    "markdownWords": 454
+  },
+  "Sion": {
+    "words": 501,
+    "markdownWords": 470
+  },
+  "Sivir": {
+    "words": 482,
+    "markdownWords": 452
+  },
+  "Skarner": {
+    "words": 490,
+    "markdownWords": 460
+  },
+  "Smolder": {
+    "words": 490,
+    "markdownWords": 461
+  },
+  "Sona": {
+    "words": 492,
+    "markdownWords": 459
+  },
+  "Soraka": {
+    "words": 498,
+    "markdownWords": 471
+  },
+  "Swain": {
+    "words": 475,
+    "markdownWords": 444
+  },
+  "Sylas": {
+    "words": 486,
+    "markdownWords": 456
+  },
+  "Syndra": {
+    "words": 490,
+    "markdownWords": 462
+  },
+  "TahmKench": {
+    "words": 490,
+    "markdownWords": 460
+  },
+  "Taliyah": {
+    "words": 496,
+    "markdownWords": 469
+  },
+  "Talon": {
+    "words": 505,
+    "markdownWords": 477
+  },
+  "Taric": {
+    "words": 488,
+    "markdownWords": 460
+  },
+  "Teemo": {
+    "words": 491,
+    "markdownWords": 464
+  },
+  "Thresh": {
+    "words": 486,
+    "markdownWords": 457
+  },
+  "Tristana": {
+    "words": 491,
+    "markdownWords": 461
+  },
+  "Trundle": {
+    "words": 485,
+    "markdownWords": 455
+  },
+  "Tryndamere": {
+    "words": 492,
+    "markdownWords": 458
+  },
+  "TwistedFate": {
+    "words": 500,
+    "markdownWords": 474
+  },
+  "Twitch": {
+    "words": 482,
+    "markdownWords": 454
+  },
+  "Udyr": {
+    "words": 486,
+    "markdownWords": 455
+  },
+  "Urgot": {
+    "words": 487,
+    "markdownWords": 457
+  },
+  "Varus": {
+    "words": 498,
+    "markdownWords": 467
+  },
+  "Vayne": {
+    "words": 487,
+    "markdownWords": 460
+  },
+  "Veigar": {
+    "words": 494,
+    "markdownWords": 466
+  },
+  "Velkoz": {
+    "words": 474,
+    "markdownWords": 443
+  },
+  "Vex": {
+    "words": 494,
+    "markdownWords": 466
+  },
+  "Vi": {
+    "words": 500,
+    "markdownWords": 471
+  },
+  "Viego": {
+    "words": 492,
+    "markdownWords": 459
+  },
+  "Viktor": {
+    "words": 491,
+    "markdownWords": 464
+  },
+  "Vladimir": {
+    "words": 490,
+    "markdownWords": 460
+  },
+  "Volibear": {
+    "words": 492,
+    "markdownWords": 461
+  },
+  "Warwick": {
+    "words": 489,
+    "markdownWords": 456
+  },
+  "MonkeyKing": {
+    "words": 475,
+    "markdownWords": 445
+  },
+  "Xayah": {
+    "words": 473,
+    "markdownWords": 465
+  },
+  "Xerath": {
+    "words": 478,
+    "markdownWords": 447
+  },
+  "XinZhao": {
+    "words": 493,
+    "markdownWords": 462
+  },
+  "Yasuo": {
+    "words": 493,
+    "markdownWords": 456
+  },
+  "Yone": {
+    "words": 481,
+    "markdownWords": 465
+  },
+  "Yorick": {
+    "words": 503,
+    "markdownWords": 465
+  },
+  "Yunara": {
+    "words": 505,
+    "markdownWords": 463
+  },
+  "Yuumi": {
+    "words": 492,
+    "markdownWords": 461
+  },
+  "Zaahen": {
+    "words": 504,
+    "markdownWords": 471
+  },
+  "Zac": {
+    "words": 494,
+    "markdownWords": 466
+  },
+  "Zed": {
+    "words": 501,
+    "markdownWords": 483
+  },
+  "Zeri": {
+    "words": 483,
+    "markdownWords": 454
+  },
+  "Ziggs": {
+    "words": 488,
+    "markdownWords": 458
+  },
+  "Zilean": {
+    "words": 503,
+    "markdownWords": 472
+  },
+  "Zoe": {
+    "words": 499,
+    "markdownWords": 469
+  },
+  "Zyra": {
+    "words": 494,
+    "markdownWords": 467
+  }
+}
