@@ -42,6 +42,16 @@ Change the situation: you are nearly dead, clearing would spend your escape tool
 
 Figure files: [desktop SVG](../visuals/assets/ma02-desktop.svg) · [mobile SVG](../visuals/assets/ma02-mobile.svg) · [desktop PNG](../visuals/previews/ma02-desktop.png) · [mobile PNG](../visuals/previews/ma02-mobile.png).
 
+## Going deeper
+
+**Recall timing is wave timing.** The best recalls happen after you push a wave into the enemy turret, so you lose few minions while away. A recall with the wave pushing toward you can cost a lot of gold and experience.
+
+**Spend the gold well.** Recall when you can buy something meaningful, such as a component or a completed item. Returning without enough gold to change your strength wastes the trip.
+
+**Sync with your team.** Before objectives, recalling at the same time as teammates means your team arrives together and full. See the [Objective setup](MA41-objective-setup.md) lesson.
+
+**Watch the enemy's recall.** If your opponent recalls with more gold, expect them to be stronger when they return.
+
 ## Common mistake and correction
 
 **Mistake:** “Push before every back.” You keep clearing because leaving an awkward wave feels wrong.

@@ -51,6 +51,18 @@ Change one condition: your partner is occupied under the turret and cannot help.
 
 *Trading is a complete exchange: include the reply and the position afterward. This is a decision schematic, not a damage calculation.*
 
+<!-- Interactive: trading-window -->
+
+## Going deeper
+
+**Trade with your pattern, not theirs.** Every champion has a natural trade: a short burst, a few attacks between abilities, or poke from range. Learn your own pattern well enough that you can start it the moment a window appears.
+
+**The exit is part of the trade.** Decide where you will walk before you step in. Many lost trades were won exchanges that lasted too long.
+
+**Minions and position change the result.** A trade inside a large enemy wave includes the minion damage you take. See the [Minion aggro](MI27-minion-aggro.md) lesson. Trades near your own turret punish an opponent who follows you.
+
+**Use levels and items.** Reaching a level or completing an item before your opponent can briefly change who wins trades. Track their recall and gold to know when that window closes.
+
 ## Common mistake → correction
 
 **Mistake:** “Their important spell is down, so I keep chasing.”

@@ -2,7 +2,7 @@
 from pathlib import Path
 import json, re, html
 from champion_diagrams import special_diagram
-from champion_depth import extended_sections
+from champion_depth import extended_sections, DEPTH, COMMON
 ROOT=Path(__file__).resolve().parent
 DATA=ROOT/'content/champions'
 # These teaching patterns supplement each champion's individually written decisions.
@@ -16,6 +16,8 @@ PATTERNS={
 'control':dict(label='Area control and spell cycles',before='Choose the entrance or area your team wants to hold. Place yourself where you can affect that space without being the first target of an enemy engage.',during='Cast where movement is constrained or an ally has created setup. Keep a defensive response for the enemy who can bypass the zone, then reposition during cooldowns.',behind='Use spells to limit the enemy approach and clear safely. Do not walk into unknown ground to force a full damage sequence when a defensive zone can buy time.',after='Move the zone forward with your allies only after checking vision. Conserve enough resources for the next contest rather than spending every spell on a retreating target.',diagram='Hold protected ground and influence the contested area. The dashed zone is a teaching area, not an exact ability size or range.',lessons=['positioning','skillshots','zoning']),
 'poke':dict(label='Ranged pressure before commitment',before='Find a clear firing line and a safe location to move to after casting. Check flank routes before focusing on distant targets.',during='Use range to lower enemy health before a hard commitment. If a diver reaches you, switch to survival and repositioning instead of finishing a low-value long-range cast.',behind='Defend a clear line with allies and use safe wave pressure. Do not trade your life for one more spell on a distant opponent who can still return to safety.',after='Turn the health advantage into controlled space with the team. If enemies leave your range, advance only after allies secure the next approach.',diagram='Fire from protected distance while allies screen the approach. The arrow shows a spell line; keep a retreat route if the enemy closes.',lessons=['poking','skillshots','positioning'])
 }
+
+def DEPTH_COUNT(c):return DEPTH[c['pattern']]+[None]  # phase sections incl. the inserted worked decision
 
 def diagram(c):
  p=c['pattern']; flank=p in ('assassin','duelist'); front=p in ('engage','bruiser'); protect=p=='protect'
@@ -68,16 +70,28 @@ def build_champions(out):
   c['sections']=core_sections+depth_sections
   c['drill']=f'Review three teamfights as {raw["name"]}. Pause before your first committed move. Name your intended target, the enemy response you needed to respect and your route back. Compare the replay with the champion-specific plan above. Record whether your first move used the strength described here, exposed the weakness, or did both. Choose one change to practise in the next game; judge the decision using the information visible at the time, not the final score.'
   c['scenario']=f'Hypothetical: both teams approach a river entrance. One enemy moves forward while another remains out of sight. As {raw["name"]}, apply this rule before acting: {fight} If the missing enemy could interrupt that plan, keep your current safe position and wait for information or allied setup.'
-  c['html']=''.join(f'<section><h2>{html.escape(h)}</h2><p>{html.escape(t)}</p></section>' for h,t in sections)
+  def sec(h,t):return f'<section><h2>{html.escape(h)}</h2><p>{html.escape(t)}</p></section>'
+  def band(id,label,blurb):return f'<div class="cg-band" id="cg-{id}" data-group="{id}"><span>{label}</span><p>{blurb}</p></div>'
   chart,caption=special_diagram(c) or (diagram(c),p['diagram'])
   c['diagramCaption']=caption
   (mdroot/'diagrams').mkdir(exist_ok=True)
   svg_style=':root{--ink:#182a40;--blue:#224fc5;--foe:#ad3932;--muted:#536477;--surface:#fff;--tint:#f0f4fc;--line:#d9e0e9;color:var(--ink)}text{fill:var(--ink);font:24px system-ui,sans-serif}@media(prefers-color-scheme:dark){:root{--ink:#ededed;--blue:#9abaff;--foe:#ed9b91;--muted:#b5b5b5;--surface:#191919;--tint:#222;--line:#424242}}'
   (mdroot/'diagrams'/(slug+'.svg')).write_text(chart.replace('>', '><style>'+svg_style+'</style>',1))
-  c['html']+='<section><h2>Teamfight positioning</h2><figure>'+chart+f'<figcaption>{html.escape(caption)} Schematic only: no exact ranges, map coordinates or guaranteed outcome.</figcaption></figure></section>'
-  c['html']+='<section><h2>Apply it: a river contest</h2><p>'+html.escape(c['scenario'])+'</p></section>'
-  c['html']+=''.join(f'<section><h2>{html.escape(h)}</h2><p>{html.escape(t)}</p></section>' for h,t in depth_sections)
-  c['html']+='<details class="kit-reference"><summary>Ability names to recognise in game</summary><dl>'+''.join('<dt>'+html.escape(a['slot'])+'</dt><dd>'+html.escape(a['name'])+'</dd>' for a in c['abilities'])+'</dl><p class="note">Names are from the source snapshot below. Read the current in-game tooltips for numbers, targeting details and interactions.</p></details>'
+  fig='<section><h2>Teamfight positioning</h2><figure>'+chart+f'<figcaption>{html.escape(caption)} Schematic only: no exact ranges, map coordinates or guaranteed outcome.</figcaption></figure></section>'
+  river='<section><h2>Apply it: a river contest</h2><p>'+html.escape(c['scenario'])+'</p></section>'
+  nphase=len(DEPTH_COUNT(c))
+  phase=depth_sections[:nphase]; common=depth_sections[nphase:]
+  worked=[d for d in phase if d[0].startswith('Worked decision')]; phase=[d for d in phase if not d[0].startswith('Worked decision')]
+  tags=''.join(f'<li>{html.escape(t)}</li>' for t in c['tags'])
+  abil=''.join(f'<li><b>{"•" if a["slot"]=="Passive" else html.escape(a["slot"])}</b><span>{html.escape(a["name"])}</span><small>{"Passive" if a["slot"]=="Passive" else ""}</small></li>' for a in c['abilities'])
+  hero=f'<div class="champ-hero"><p class="champ-kind">{html.escape(p["label"])}</p><ul class="champ-tags" aria-label="Roles">{tags}</ul><p class="lead">{html.escape(play)}</p><ol class="champ-kit" aria-label="Ability names">{abil}</ol><p class="note champ-kit-note">Names from the source snapshot. Read in-game tooltips for numbers and interactions.</p></div>'
+  glance='<div class="champ-glance"><div><h3>Leans on</h3><p>'+html.escape(strong)+'</p></div><div><h3>Watch for</h3><p>'+html.escape(weak)+'</p></div><div><h3>Core plan</h3><p>'+html.escape(fight)+'</p></div></div>'
+  jump='<nav class="champ-jump" aria-label="On this page"><button type="button" data-jump="overview">Overview</button><button type="button" data-jump="fight">Teamfight</button><button type="button" data-jump="game">Across the game</button><button type="button" data-jump="practice">Practice</button></nav>'
+  c['html']=hero+glance+jump
+  c['html']+=band('overview','Overview','Who this champion is and what to be careful of.')+''.join(sec(h,t) for h,t in sections[:3])
+  c['html']+=band('fight','Teamfight','Before, during and after the fight, plus a positioning sketch.')+''.join(sec(h,t) for h,t in sections[3:])+fig
+  c['html']+=band('game','Across the game','How the plan changes by phase and game state.')+''.join(sec(h,t) for h,t in phase)
+  c['html']+=band('practice','Practice','Turn the plan into decisions you can rehearse and review.')+river+''.join(sec(h,t) for h,t in worked+common)
   # Standalone reading copies preserve the complete editorial guide.
   md=f'# {c["title"]}\n\n{c["kind"]}\n\n'+ '\n\n'.join('## '+h+'\n\n'+t for h,t in sections)
   md+='\n\n## Teamfight positioning\n\n'+caption+'\n\n![Teamfight positioning for '+c['title']+'](diagrams/'+slug+'.svg)\n\n## Apply it: a river contest\n\n'+c['scenario']

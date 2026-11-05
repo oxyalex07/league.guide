@@ -29,6 +29,14 @@ You stand behind your frontline, but an enemy approaches from a side entrance. T
 
 *Illustrative decision sequence for positioning; positions and timing are not game measurements.*
 
+## Going deeper
+
+**Position before the fight starts.** Most fights are decided by where players stand before the first ability lands. Choose your spot as the fight approaches, not after it begins.
+
+**Know who can reach you.** Track the enemies whose engage or dive can reach your position. Stand where they must use something or walk past your frontline first.
+
+**Fog and flanks.** Unwarded areas next to your position are danger. Check vision around you, especially before objectives.
+
 ## Common mistake and correction
 
 **Mistake:** Treating “behind the tank” as safe in every situation.

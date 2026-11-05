@@ -42,6 +42,14 @@ Your ally's wave position created an opportunity they chose to spend on recovery
 
 Figure files: [desktop SVG](../visuals/assets/ma04-desktop.svg) · [mobile SVG](../visuals/assets/ma04-mobile.svg) · [desktop PNG](../visuals/previews/ma04-desktop.png) · [mobile PNG](../visuals/previews/ma04-mobile.png).
 
+## Going deeper
+
+**Priority is the right to move first.** A lane with priority can leave to help a fight or objective before the opponent can follow. That is why priority in mid and the lanes near an objective matters so much.
+
+**Priority depends on the wave and the matchup.** A pushed wave gives priority; a champion with strong waveclear gets it more easily. Your team's plan should use the lanes that can move first.
+
+**Spend it, do not waste it.** Having priority but staying in lane after the wave crashes leaves the advantage unused. Ward, help your jungler or move to the next objective.
+
 ## Common mistake and correction
 
 **Mistake:** Counting two pushed lanes as two guaranteed teammates in a fight.

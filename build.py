@@ -37,8 +37,12 @@ for a in lessons:
  for block in blocks:
   if block.startswith('## '):
    if opened:out.append('</section>')
-   name=block[3:];cls='answer' if name=='Short answer' else 'practice' if name.startswith('Practice') else 'section'
+   name=block[3:];low=name.lower()
+   cls='answer' if name=='Short answer' else 'practice' if name.startswith('Practice') else 'section '+('mistake' if low.startswith('common mistake') else 'deeper' if low.startswith('going deeper') else 'example' if 'example' in low else 'related' if low.startswith('related') else 'sources' if low.startswith('sources') else 'limits' if low.startswith('limits') else 'core')
    out.append('<section class="'+cls+'"><h2>'+inline(name)+'</h2>');opened=True
+  elif block.startswith('<!-- Interactive:'):
+   name=re.search(r'<!-- Interactive: ([a-z-]+) -->',block)[1]
+   out.append('<div class="widget" data-widget="'+name+'"></div>')
   elif '<!-- Figure:' in block:
    m=re.search(r'!\[([^\]]+)\]\(([^)]+)\)',block);assert m
    stem=a['id'].lower();out.append('<figure><picture><source media="(max-width: 760px)" srcset="assets/'+stem+'-mobile.svg"><img src="assets/'+stem+'-desktop.svg" alt="'+html.escape(m[1],quote=True)+'" loading="lazy"></picture>')
@@ -59,9 +63,14 @@ dark_palette = {'#f5f7fb':'#191919', '#ffffff':'#222222', '#fff':'#222222', 'whi
 svg_css = '@media(prefers-color-scheme:dark){text{fill:#ededed}.label{fill:#9abaff}' + ''.join(
  '[%s="%s"]{%s:%s}' % (attribute, light, attribute, dark)
  for light,dark in dark_palette.items() for attribute in ('fill','stroke')) + '}'
+from figures import redraw
+redrawn=0
 for figure in (OUT/'assets').glob('*.svg'):
  svg = figure.read_text()
+ fresh = redraw(svg, figure.stem.endswith('-mobile'))
+ if fresh: figure.write_text(fresh); redrawn+=1; continue
  figure.write_text(svg.replace('</svg>', '<style>'+svg_css+'</style></svg>'))
+print(f'Redrew {redrawn} three-step lesson figures')
 
 # PNG download links from the reviewed package remain functional too.
 # Standalone rebuilds use the copied previews.
@@ -86,7 +95,7 @@ for stage in stages:
   assert len(q['options'])==3 and len(set(q['options']))==3
   assert type(q['answer']) is int and 0<=q['answer']<3
   assert q['prompt'] and q['explanation'] and q['review'] in stage['ids']
-(OUT/'path.js').write_text('const LEARNING_PATH = '+json.dumps(stages,ensure_ascii=False)+';\n')
+(OUT/'path.js').write_text('const LEARNING_PATH = '+json.dumps(stages,ensure_ascii=False)+';\nconst PREREQS = '+json.dumps(prerequisites)+';\n')
 
 from champions import build_champions
 build_champions(OUT)

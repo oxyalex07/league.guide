@@ -15,7 +15,7 @@
     "check": "Review three lane decisions. Identify farm or experience gained or conceded, your available resources, a range threat and map information that changed your action.",
     "extension": {
       "title": "A contested last hit",
-      "scenario": "You are low on health. A minion is about to die inside the opponent\u2019s attack range, and an enemy has disappeared from the map. Taking the gold would also mean stepping away from your safe route.",
+      "scenario": "You are low on health. A minion is about to die inside the opponent’s attack range, and an enemy has disappeared from the map. Taking the gold would also mean stepping away from your safe route.",
       "walkthrough": "Separate the reward from the exposure. Check the visible threat, your resources and the missing enemy before moving. Concede the last hit if the approach is unsafe; look for a safer position from which to keep learning what the opponent is doing. A missed minion is a decision to review, not a reason to force the next trade.",
       "drill": "Pause before three contested minions. Write down the reward, the threat and your exit. Compare the choice with what you knew at the time, not with enemies revealed later in the replay."
     },
@@ -64,6 +64,7 @@
       "MI26",
       "MI25",
       "MI06",
+      "MI27",
       "MI18",
       "MI17",
       "MI19",
@@ -161,7 +162,7 @@
         "options": [
           "Any purchase makes an all-in correct",
           "Identify which specific problem it solves or action it enables",
-          "Ignore the opposing champion\u2019s resources"
+          "Ignore the opposing champion’s resources"
         ],
         "answer": 1,
         "explanation": "Usable strength depends on the purchase and situation, not just spending gold.",
@@ -176,6 +177,7 @@
       "MA05",
       "MA19",
       "MA06",
+      "MA42",
       "MA04",
       "MA37"
     ],
@@ -298,7 +300,7 @@
       {
         "prompt": "Why does allied recall timing matter to a side push?",
         "options": [
-          "It can remove the team\u2019s ability to act during your pressure window",
+          "It can remove the team’s ability to act during your pressure window",
           "Recalls always mean you should dive",
           "Side lanes never depend on teammates"
         ],
@@ -393,6 +395,7 @@
       "MA36",
       "MA33",
       "MA10",
+      "MA41",
       "MA34",
       "MA35"
     ],
@@ -436,6 +439,61 @@
         "answer": 1,
         "explanation": "Adapt the next achievable gain to the current position rather than repeating an unavailable plan.",
         "review": "MA36"
+      }
+    ]
+  },
+  {
+    "title": "Climbing",
+    "goal": "Add the preparation, team play and habits that separate high-ranked players.",
+    "ids": [
+      "MI28",
+      "MA43",
+      "MA44",
+      "MA46",
+      "MA45",
+      "MA47",
+      "MA48"
+    ],
+    "check": "Pick one recent game. Name your matchup plan from loading, both teams' compositions, two useful pings you sent, the decisive late-game moment and the single practice focus you would take into the next game.",
+    "extension": {
+      "title": "From loading screen to final fight",
+      "scenario": "You are in loading for a ranked game. Your team has strong engage and a scaling marksman; the enemy has poke and an early-game jungler. Your lane opponent is strong at the earliest levels.",
+      "walkthrough": "Plan the lane around the enemy's early window: play safely through it and trade when their key cooldown is down. Read the drafts: your team wants close fights around objectives later, while the enemy wants to poke and take early objectives. Share the enemy jungler's likely early side with your team. In the late game, group with vision before Baron or Elder and avoid being caught alone. Between games, review one decisive moment and keep one focus.",
+      "drill": "For your next game, write your matchup plan, both teams' plans and one practice focus during loading. After the game, review whether each held and choose your next focus."
+    },
+    "quiz": [
+      {
+        "prompt": "Why do most high-ranked players keep a small champion pool?",
+        "options": [
+          "Small pools are required by ranked rules",
+          "Deep familiarity frees attention for the map, waves and enemy cooldowns",
+          "Large pools always lose lane"
+        ],
+        "answer": 1,
+        "explanation": "Knowing a champion deeply lets your attention go to the game instead of your own abilities.",
+        "review": "MA43"
+      },
+      {
+        "prompt": "Your team has strong engage but little poke; the enemy has long-range poke. Which fights suit your team?",
+        "options": [
+          "Long sieges at range",
+          "Close fights in tight areas where your engage reaches them",
+          "Any fight, as long as you start it first"
+        ],
+        "answer": 1,
+        "explanation": "Engage compositions want to close distance in tight spaces; poke compositions want long, ranged fights.",
+        "review": "MA44"
+      },
+      {
+        "prompt": "After losing several games in a row and feeling frustrated, what should you do?",
+        "options": [
+          "Queue immediately to win the points back",
+          "Follow your stopping rule, take a break and return with a clear focus",
+          "Play a new champion to change your luck"
+        ],
+        "answer": 1,
+        "explanation": "Frustration changes decision-making. A planned break protects your next games.",
+        "review": "MA48"
       }
     ]
   }

@@ -29,6 +29,14 @@ You plan to build a wave and recall. Before the wave reaches the enemy turret, y
 
 *Illustrative decision sequence for slow pushing; positions and timing are not game measurements.*
 
+## Going deeper
+
+**Slow pushes create time.** While a large wave builds and crashes, you can ward, help your jungler, take a camp or set up an objective. Plan what you will do with the time before the wave arrives.
+
+**A big wave makes trading easier.** Enemy minions die faster and your minions keep hitting the opponent's wave, so trading near a growing wave is usually safer. See the [Minion aggro](../micro/MI27-minion-aggro.md) lesson.
+
+**Watch the bounce.** After your wave crashes, the next enemy wave and survivors often come back toward you. Plan to be in lane for it or let it set up a freeze near your turret.
+
 ## Common mistake and correction
 
 **Mistake:** Continuing to build because a guide said to stack a certain number of waves.

@@ -42,6 +42,18 @@ You take a brief bottom-lane action with an exit available. Later, without anoth
 
 Figure files: [desktop SVG](../visuals/assets/ma06-desktop.svg) · [mobile SVG](../visuals/assets/ma06-mobile.svg) · [desktop PNG](../visuals/previews/ma06-desktop.png) · [mobile PNG](../visuals/previews/ma06-mobile.png).
 
+<!-- Interactive: jungle-tracking -->
+
+## Going deeper
+
+**Information expires.** Each sighting tells you where the jungler was, not where they are. Use the time since the sighting to widen the area they could have reached.
+
+**Start of game tracking.** Many junglers begin on one side and clear toward the other. Seeing their first camp or their laners' leash helps you predict their first gank or objective.
+
+**Camp clues.** Missing camps, lane pressure and where their laners are pushed all hint at the jungler's location. A lane that is pushed hard can be a sign their jungler is nearby to protect it.
+
+**Share it.** Tracking helps the whole team only when you ping it. See the [Communication](MA46-communication.md) lesson.
+
 ## Common mistake and correction
 
 **Mistake:** Turning one sighting into an exact camp sequence, then dismissing a surprising gank as impossible.

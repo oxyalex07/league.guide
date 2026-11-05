@@ -4,8 +4,8 @@
     {
       "id": "Aatrox",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1683,
-      "bodyRatio": 3.441717791411043,
+      "afterBodyWords": 1815,
+      "bodyRatio": 3.7116564417177913,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1662,
       "readingFormatsMatch": true
@@ -13,8 +13,8 @@
     {
       "id": "Ahri",
       "beforeBodyWords": 498,
-      "afterBodyWords": 1703,
-      "bodyRatio": 3.4196787148594376,
+      "afterBodyWords": 1833,
+      "bodyRatio": 3.680722891566265,
       "beforeMarkdownWords": 470,
       "afterMarkdownWords": 1686,
       "readingFormatsMatch": true
@@ -22,8 +22,8 @@
     {
       "id": "Akali",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1694,
-      "bodyRatio": 3.436105476673428,
+      "afterBodyWords": 1818,
+      "bodyRatio": 3.68762677484787,
       "beforeMarkdownWords": 463,
       "afterMarkdownWords": 1675,
       "readingFormatsMatch": true
@@ -31,8 +31,8 @@
     {
       "id": "Akshan",
       "beforeBodyWords": 488,
-      "afterBodyWords": 1699,
-      "bodyRatio": 3.4815573770491803,
+      "afterBodyWords": 1830,
+      "bodyRatio": 3.75,
       "beforeMarkdownWords": 461,
       "afterMarkdownWords": 1683,
       "readingFormatsMatch": true
@@ -40,8 +40,8 @@
     {
       "id": "Alistar",
       "beforeBodyWords": 485,
-      "afterBodyWords": 1680,
-      "bodyRatio": 3.463917525773196,
+      "afterBodyWords": 1805,
+      "bodyRatio": 3.7216494845360826,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1666,
       "readingFormatsMatch": true
@@ -49,8 +49,8 @@
     {
       "id": "Ambessa",
       "beforeBodyWords": 481,
-      "afterBodyWords": 1671,
-      "bodyRatio": 3.474012474012474,
+      "afterBodyWords": 1794,
+      "bodyRatio": 3.72972972972973,
       "beforeMarkdownWords": 449,
       "afterMarkdownWords": 1650,
       "readingFormatsMatch": true
@@ -58,8 +58,8 @@
     {
       "id": "Amumu",
       "beforeBodyWords": 496,
-      "afterBodyWords": 1688,
-      "bodyRatio": 3.403225806451613,
+      "afterBodyWords": 1819,
+      "bodyRatio": 3.6673387096774195,
       "beforeMarkdownWords": 467,
       "afterMarkdownWords": 1670,
       "readingFormatsMatch": true
@@ -67,8 +67,8 @@
     {
       "id": "Anivia",
       "beforeBodyWords": 484,
-      "afterBodyWords": 1679,
-      "bodyRatio": 3.46900826446281,
+      "afterBodyWords": 1808,
+      "bodyRatio": 3.7355371900826446,
       "beforeMarkdownWords": 472,
       "afterMarkdownWords": 1678,
       "readingFormatsMatch": true
@@ -76,8 +76,8 @@
     {
       "id": "Annie",
       "beforeBodyWords": 481,
-      "afterBodyWords": 1676,
-      "bodyRatio": 3.4844074844074844,
+      "afterBodyWords": 1802,
+      "bodyRatio": 3.7463617463617465,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1663,
       "readingFormatsMatch": true
@@ -85,8 +85,8 @@
     {
       "id": "Aphelios",
       "beforeBodyWords": 485,
-      "afterBodyWords": 1700,
-      "bodyRatio": 3.5051546391752577,
+      "afterBodyWords": 1825,
+      "bodyRatio": 3.7628865979381443,
       "beforeMarkdownWords": 453,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -94,8 +94,8 @@
     {
       "id": "Ashe",
       "beforeBodyWords": 479,
-      "afterBodyWords": 1689,
-      "bodyRatio": 3.5260960334029225,
+      "afterBodyWords": 1811,
+      "bodyRatio": 3.780793319415449,
       "beforeMarkdownWords": 451,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -103,8 +103,8 @@
     {
       "id": "AurelionSol",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1684,
-      "bodyRatio": 3.4227642276422765,
+      "afterBodyWords": 1810,
+      "bodyRatio": 3.678861788617886,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1665,
       "readingFormatsMatch": true
@@ -112,8 +112,8 @@
     {
       "id": "Aurora",
       "beforeBodyWords": 495,
-      "afterBodyWords": 1691,
-      "bodyRatio": 3.416161616161616,
+      "afterBodyWords": 1827,
+      "bodyRatio": 3.690909090909091,
       "beforeMarkdownWords": 467,
       "afterMarkdownWords": 1674,
       "readingFormatsMatch": true
@@ -121,8 +121,8 @@
     {
       "id": "Azir",
       "beforeBodyWords": 472,
-      "afterBodyWords": 1682,
-      "bodyRatio": 3.5635593220338984,
+      "afterBodyWords": 1810,
+      "bodyRatio": 3.8347457627118646,
       "beforeMarkdownWords": 461,
       "afterMarkdownWords": 1682,
       "readingFormatsMatch": true
@@ -130,8 +130,8 @@
     {
       "id": "Bard",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1696,
-      "bodyRatio": 3.4683026584867074,
+      "afterBodyWords": 1825,
+      "bodyRatio": 3.7321063394683027,
       "beforeMarkdownWords": 458,
       "afterMarkdownWords": 1676,
       "readingFormatsMatch": true
@@ -139,8 +139,8 @@
     {
       "id": "Belveth",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1679,
-      "bodyRatio": 3.4056795131845843,
+      "afterBodyWords": 1810,
+      "bodyRatio": 3.6713995943204867,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1657,
       "readingFormatsMatch": true
@@ -148,8 +148,8 @@
     {
       "id": "Blitzcrank",
       "beforeBodyWords": 497,
-      "afterBodyWords": 1690,
-      "bodyRatio": 3.4004024144869214,
+      "afterBodyWords": 1821,
+      "bodyRatio": 3.6639839034205233,
       "beforeMarkdownWords": 470,
       "afterMarkdownWords": 1674,
       "readingFormatsMatch": true
@@ -157,8 +157,8 @@
     {
       "id": "Brand",
       "beforeBodyWords": 477,
-      "afterBodyWords": 1672,
-      "bodyRatio": 3.5052410901467503,
+      "afterBodyWords": 1797,
+      "bodyRatio": 3.7672955974842766,
       "beforeMarkdownWords": 453,
       "afterMarkdownWords": 1659,
       "readingFormatsMatch": true
@@ -166,8 +166,8 @@
     {
       "id": "Braum",
       "beforeBodyWords": 475,
-      "afterBodyWords": 1681,
-      "bodyRatio": 3.5389473684210526,
+      "afterBodyWords": 1801,
+      "bodyRatio": 3.791578947368421,
       "beforeMarkdownWords": 444,
       "afterMarkdownWords": 1661,
       "readingFormatsMatch": true
@@ -175,8 +175,8 @@
     {
       "id": "Briar",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1678,
-      "bodyRatio": 3.4314928425357873,
+      "afterBodyWords": 1808,
+      "bodyRatio": 3.6973415132924337,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1655,
       "readingFormatsMatch": true
@@ -184,8 +184,8 @@
     {
       "id": "Caitlyn",
       "beforeBodyWords": 486,
-      "afterBodyWords": 1693,
-      "bodyRatio": 3.483539094650206,
+      "afterBodyWords": 1821,
+      "bodyRatio": 3.746913580246914,
       "beforeMarkdownWords": 454,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -193,8 +193,8 @@
     {
       "id": "Camille",
       "beforeBodyWords": 488,
-      "afterBodyWords": 1682,
-      "bodyRatio": 3.44672131147541,
+      "afterBodyWords": 1811,
+      "bodyRatio": 3.7110655737704916,
       "beforeMarkdownWords": 453,
       "afterMarkdownWords": 1658,
       "readingFormatsMatch": true
@@ -202,8 +202,8 @@
     {
       "id": "Cassiopeia",
       "beforeBodyWords": 485,
-      "afterBodyWords": 1680,
-      "bodyRatio": 3.463917525773196,
+      "afterBodyWords": 1806,
+      "bodyRatio": 3.7237113402061857,
       "beforeMarkdownWords": 459,
       "afterMarkdownWords": 1665,
       "readingFormatsMatch": true
@@ -211,8 +211,8 @@
     {
       "id": "Chogath",
       "beforeBodyWords": 499,
-      "afterBodyWords": 1691,
-      "bodyRatio": 3.3887775551102206,
+      "afterBodyWords": 1826,
+      "bodyRatio": 3.659318637274549,
       "beforeMarkdownWords": 474,
       "afterMarkdownWords": 1677,
       "readingFormatsMatch": true
@@ -220,8 +220,8 @@
     {
       "id": "Corki",
       "beforeBodyWords": 485,
-      "afterBodyWords": 1696,
-      "bodyRatio": 3.4969072164948454,
+      "afterBodyWords": 1826,
+      "bodyRatio": 3.7649484536082474,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -229,8 +229,8 @@
     {
       "id": "Darius",
       "beforeBodyWords": 482,
-      "afterBodyWords": 1672,
-      "bodyRatio": 3.4688796680497926,
+      "afterBodyWords": 1801,
+      "bodyRatio": 3.736514522821577,
       "beforeMarkdownWords": 454,
       "afterMarkdownWords": 1655,
       "readingFormatsMatch": true
@@ -238,8 +238,8 @@
     {
       "id": "Diana",
       "beforeBodyWords": 485,
-      "afterBodyWords": 1676,
-      "bodyRatio": 3.4556701030927837,
+      "afterBodyWords": 1803,
+      "bodyRatio": 3.7175257731958764,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1657,
       "readingFormatsMatch": true
@@ -247,8 +247,8 @@
     {
       "id": "DrMundo",
       "beforeBodyWords": 490,
-      "afterBodyWords": 1679,
-      "bodyRatio": 3.426530612244898,
+      "afterBodyWords": 1808,
+      "bodyRatio": 3.6897959183673468,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1657,
       "readingFormatsMatch": true
@@ -256,8 +256,8 @@
     {
       "id": "Draven",
       "beforeBodyWords": 481,
-      "afterBodyWords": 1694,
-      "bodyRatio": 3.5218295218295217,
+      "afterBodyWords": 1818,
+      "bodyRatio": 3.7796257796257797,
       "beforeMarkdownWords": 451,
       "afterMarkdownWords": 1675,
       "readingFormatsMatch": true
@@ -265,8 +265,8 @@
     {
       "id": "Ekko",
       "beforeBodyWords": 497,
-      "afterBodyWords": 1700,
-      "bodyRatio": 3.420523138832998,
+      "afterBodyWords": 1831,
+      "bodyRatio": 3.6841046277665996,
       "beforeMarkdownWords": 470,
       "afterMarkdownWords": 1684,
       "readingFormatsMatch": true
@@ -274,8 +274,8 @@
     {
       "id": "Elise",
       "beforeBodyWords": 507,
-      "afterBodyWords": 1711,
-      "bodyRatio": 3.3747534516765287,
+      "afterBodyWords": 1843,
+      "bodyRatio": 3.6351084812623276,
       "beforeMarkdownWords": 472,
       "afterMarkdownWords": 1687,
       "readingFormatsMatch": true
@@ -283,8 +283,8 @@
     {
       "id": "Evelynn",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1690,
-      "bodyRatio": 3.4560327198364007,
+      "afterBodyWords": 1814,
+      "bodyRatio": 3.7096114519427403,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1674,
       "readingFormatsMatch": true
@@ -292,8 +292,8 @@
     {
       "id": "Ezreal",
       "beforeBodyWords": 487,
-      "afterBodyWords": 1701,
-      "bodyRatio": 3.4928131416837784,
+      "afterBodyWords": 1829,
+      "bodyRatio": 3.75564681724846,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1682,
       "readingFormatsMatch": true
@@ -301,8 +301,8 @@
     {
       "id": "Fiddlesticks",
       "beforeBodyWords": 488,
-      "afterBodyWords": 1679,
-      "bodyRatio": 3.4405737704918034,
+      "afterBodyWords": 1806,
+      "bodyRatio": 3.7008196721311477,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1664,
       "readingFormatsMatch": true
@@ -310,8 +310,8 @@
     {
       "id": "Fiora",
       "beforeBodyWords": 487,
-      "afterBodyWords": 1685,
-      "bodyRatio": 3.459958932238193,
+      "afterBodyWords": 1815,
+      "bodyRatio": 3.726899383983573,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1664,
       "readingFormatsMatch": true
@@ -319,8 +319,8 @@
     {
       "id": "Fizz",
       "beforeBodyWords": 498,
-      "afterBodyWords": 1702,
-      "bodyRatio": 3.4176706827309236,
+      "afterBodyWords": 1831,
+      "bodyRatio": 3.676706827309237,
       "beforeMarkdownWords": 467,
       "afterMarkdownWords": 1682,
       "readingFormatsMatch": true
@@ -328,8 +328,8 @@
     {
       "id": "Galio",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1694,
-      "bodyRatio": 3.4642126789366054,
+      "afterBodyWords": 1822,
+      "bodyRatio": 3.7259713701431494,
       "beforeMarkdownWords": 456,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -337,8 +337,8 @@
     {
       "id": "Gangplank",
       "beforeBodyWords": 486,
-      "afterBodyWords": 1686,
-      "bodyRatio": 3.4691358024691357,
+      "afterBodyWords": 1817,
+      "bodyRatio": 3.7386831275720165,
       "beforeMarkdownWords": 473,
       "afterMarkdownWords": 1684,
       "readingFormatsMatch": true
@@ -346,8 +346,8 @@
     {
       "id": "Garen",
       "beforeBodyWords": 474,
-      "afterBodyWords": 1665,
-      "bodyRatio": 3.5126582278481013,
+      "afterBodyWords": 1789,
+      "bodyRatio": 3.7742616033755274,
       "beforeMarkdownWords": 446,
       "afterMarkdownWords": 1648,
       "readingFormatsMatch": true
@@ -355,8 +355,8 @@
     {
       "id": "Gnar",
       "beforeBodyWords": 477,
-      "afterBodyWords": 1669,
-      "bodyRatio": 3.49895178197065,
+      "afterBodyWords": 1793,
+      "bodyRatio": 3.758909853249476,
       "beforeMarkdownWords": 456,
       "afterMarkdownWords": 1659,
       "readingFormatsMatch": true
@@ -364,8 +364,8 @@
     {
       "id": "Gragas",
       "beforeBodyWords": 482,
-      "afterBodyWords": 1678,
-      "bodyRatio": 3.4813278008298756,
+      "afterBodyWords": 1800,
+      "bodyRatio": 3.7344398340248963,
       "beforeMarkdownWords": 454,
       "afterMarkdownWords": 1661,
       "readingFormatsMatch": true
@@ -373,8 +373,8 @@
     {
       "id": "Graves",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1704,
-      "bodyRatio": 3.4846625766871164,
+      "afterBodyWords": 1833,
+      "bodyRatio": 3.7484662576687118,
       "beforeMarkdownWords": 459,
       "afterMarkdownWords": 1685,
       "readingFormatsMatch": true
@@ -382,8 +382,8 @@
     {
       "id": "Gwen",
       "beforeBodyWords": 495,
-      "afterBodyWords": 1690,
-      "bodyRatio": 3.414141414141414,
+      "afterBodyWords": 1827,
+      "bodyRatio": 3.690909090909091,
       "beforeMarkdownWords": 459,
       "afterMarkdownWords": 1665,
       "readingFormatsMatch": true
@@ -391,8 +391,8 @@
     {
       "id": "Hecarim",
       "beforeBodyWords": 497,
-      "afterBodyWords": 1696,
-      "bodyRatio": 3.4124748490945676,
+      "afterBodyWords": 1829,
+      "bodyRatio": 3.680080482897384,
       "beforeMarkdownWords": 469,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -400,8 +400,8 @@
     {
       "id": "Heimerdinger",
       "beforeBodyWords": 496,
-      "afterBodyWords": 1693,
-      "bodyRatio": 3.413306451612903,
+      "afterBodyWords": 1826,
+      "bodyRatio": 3.681451612903226,
       "beforeMarkdownWords": 466,
       "afterMarkdownWords": 1674,
       "readingFormatsMatch": true
@@ -409,8 +409,8 @@
     {
       "id": "Hwei",
       "beforeBodyWords": 500,
-      "afterBodyWords": 1696,
-      "bodyRatio": 3.392,
+      "afterBodyWords": 1832,
+      "bodyRatio": 3.664,
       "beforeMarkdownWords": 471,
       "afterMarkdownWords": 1678,
       "readingFormatsMatch": true
@@ -418,8 +418,8 @@
     {
       "id": "Illaoi",
       "beforeBodyWords": 486,
-      "afterBodyWords": 1678,
-      "bodyRatio": 3.4526748971193415,
+      "afterBodyWords": 1803,
+      "bodyRatio": 3.7098765432098766,
       "beforeMarkdownWords": 450,
       "afterMarkdownWords": 1653,
       "readingFormatsMatch": true
@@ -427,8 +427,8 @@
     {
       "id": "Irelia",
       "beforeBodyWords": 491,
-      "afterBodyWords": 1688,
-      "bodyRatio": 3.4378818737270875,
+      "afterBodyWords": 1819,
+      "bodyRatio": 3.704684317718941,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1665,
       "readingFormatsMatch": true
@@ -436,8 +436,8 @@
     {
       "id": "Ivern",
       "beforeBodyWords": 501,
-      "afterBodyWords": 1711,
-      "bodyRatio": 3.4151696606786426,
+      "afterBodyWords": 1850,
+      "bodyRatio": 3.6926147704590817,
       "beforeMarkdownWords": 472,
       "afterMarkdownWords": 1693,
       "readingFormatsMatch": true
@@ -445,8 +445,8 @@
     {
       "id": "Janna",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1698,
-      "bodyRatio": 3.4442190669371198,
+      "afterBodyWords": 1832,
+      "bodyRatio": 3.716024340770791,
       "beforeMarkdownWords": 463,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -454,8 +454,8 @@
     {
       "id": "JarvanIV",
       "beforeBodyWords": 498,
-      "afterBodyWords": 1694,
-      "bodyRatio": 3.4016064257028114,
+      "afterBodyWords": 1823,
+      "bodyRatio": 3.6606425702811247,
       "beforeMarkdownWords": 472,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -463,8 +463,8 @@
     {
       "id": "Jax",
       "beforeBodyWords": 488,
-      "afterBodyWords": 1684,
-      "bodyRatio": 3.4508196721311477,
+      "afterBodyWords": 1814,
+      "bodyRatio": 3.7172131147540983,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1662,
       "readingFormatsMatch": true
@@ -472,8 +472,8 @@
     {
       "id": "Jayce",
       "beforeBodyWords": 490,
-      "afterBodyWords": 1691,
-      "bodyRatio": 3.451020408163265,
+      "afterBodyWords": 1816,
+      "bodyRatio": 3.706122448979592,
       "beforeMarkdownWords": 448,
       "afterMarkdownWords": 1660,
       "readingFormatsMatch": true
@@ -481,8 +481,8 @@
     {
       "id": "Jhin",
       "beforeBodyWords": 483,
-      "afterBodyWords": 1693,
-      "bodyRatio": 3.505175983436853,
+      "afterBodyWords": 1820,
+      "bodyRatio": 3.7681159420289854,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1676,
       "readingFormatsMatch": true
@@ -490,8 +490,8 @@
     {
       "id": "Jinx",
       "beforeBodyWords": 485,
-      "afterBodyWords": 1694,
-      "bodyRatio": 3.492783505154639,
+      "afterBodyWords": 1824,
+      "bodyRatio": 3.760824742268041,
       "beforeMarkdownWords": 456,
       "afterMarkdownWords": 1676,
       "readingFormatsMatch": true
@@ -499,8 +499,8 @@
     {
       "id": "KSante",
       "beforeBodyWords": 478,
-      "afterBodyWords": 1686,
-      "bodyRatio": 3.5271966527196654,
+      "afterBodyWords": 1810,
+      "bodyRatio": 3.786610878661088,
       "beforeMarkdownWords": 448,
       "afterMarkdownWords": 1667,
       "readingFormatsMatch": true
@@ -508,8 +508,8 @@
     {
       "id": "Kaisa",
       "beforeBodyWords": 490,
-      "afterBodyWords": 1702,
-      "bodyRatio": 3.473469387755102,
+      "afterBodyWords": 1835,
+      "bodyRatio": 3.7448979591836733,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1685,
       "readingFormatsMatch": true
@@ -517,8 +517,8 @@
     {
       "id": "Kalista",
       "beforeBodyWords": 483,
-      "afterBodyWords": 1694,
-      "bodyRatio": 3.5072463768115942,
+      "afterBodyWords": 1821,
+      "bodyRatio": 3.770186335403727,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -526,8 +526,8 @@
     {
       "id": "Karma",
       "beforeBodyWords": 484,
-      "afterBodyWords": 1690,
-      "bodyRatio": 3.4917355371900825,
+      "afterBodyWords": 1820,
+      "bodyRatio": 3.760330578512397,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -535,8 +535,8 @@
     {
       "id": "Karthus",
       "beforeBodyWords": 497,
-      "afterBodyWords": 1693,
-      "bodyRatio": 3.4064386317907447,
+      "afterBodyWords": 1830,
+      "bodyRatio": 3.682092555331992,
       "beforeMarkdownWords": 471,
       "afterMarkdownWords": 1678,
       "readingFormatsMatch": true
@@ -544,8 +544,8 @@
     {
       "id": "Kassadin",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1696,
-      "bodyRatio": 3.4471544715447155,
+      "afterBodyWords": 1822,
+      "bodyRatio": 3.703252032520325,
       "beforeMarkdownWords": 464,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -553,8 +553,8 @@
     {
       "id": "Katarina",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1693,
-      "bodyRatio": 3.462167689161554,
+      "afterBodyWords": 1820,
+      "bodyRatio": 3.721881390593047,
       "beforeMarkdownWords": 463,
       "afterMarkdownWords": 1678,
       "readingFormatsMatch": true
@@ -562,8 +562,8 @@
     {
       "id": "Kayle",
       "beforeBodyWords": 487,
-      "afterBodyWords": 1700,
-      "bodyRatio": 3.490759753593429,
+      "afterBodyWords": 1829,
+      "bodyRatio": 3.75564681724846,
       "beforeMarkdownWords": 458,
       "afterMarkdownWords": 1682,
       "readingFormatsMatch": true
@@ -571,8 +571,8 @@
     {
       "id": "Kayn",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1685,
-      "bodyRatio": 3.417849898580122,
+      "afterBodyWords": 1819,
+      "bodyRatio": 3.689655172413793,
       "beforeMarkdownWords": 461,
       "afterMarkdownWords": 1664,
       "readingFormatsMatch": true
@@ -580,8 +580,8 @@
     {
       "id": "Kennen",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1681,
-      "bodyRatio": 3.4376278118609407,
+      "afterBodyWords": 1806,
+      "bodyRatio": 3.6932515337423313,
       "beforeMarkdownWords": 459,
       "afterMarkdownWords": 1662,
       "readingFormatsMatch": true
@@ -589,8 +589,8 @@
     {
       "id": "Khazix",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1693,
-      "bodyRatio": 3.4340770791075053,
+      "afterBodyWords": 1818,
+      "bodyRatio": 3.68762677484787,
       "beforeMarkdownWords": 464,
       "afterMarkdownWords": 1675,
       "readingFormatsMatch": true
@@ -598,8 +598,8 @@
     {
       "id": "Kindred",
       "beforeBodyWords": 491,
-      "afterBodyWords": 1705,
-      "bodyRatio": 3.4725050916496945,
+      "afterBodyWords": 1833,
+      "bodyRatio": 3.7331975560081467,
       "beforeMarkdownWords": 459,
       "afterMarkdownWords": 1684,
       "readingFormatsMatch": true
@@ -607,8 +607,8 @@
     {
       "id": "Kled",
       "beforeBodyWords": 476,
-      "afterBodyWords": 1668,
-      "bodyRatio": 3.504201680672269,
+      "afterBodyWords": 1787,
+      "bodyRatio": 3.754201680672269,
       "beforeMarkdownWords": 442,
       "afterMarkdownWords": 1645,
       "readingFormatsMatch": true
@@ -616,8 +616,8 @@
     {
       "id": "KogMaw",
       "beforeBodyWords": 479,
-      "afterBodyWords": 1690,
-      "bodyRatio": 3.528183716075157,
+      "afterBodyWords": 1815,
+      "bodyRatio": 3.789144050104384,
       "beforeMarkdownWords": 450,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -625,8 +625,8 @@
     {
       "id": "Leblanc",
       "beforeBodyWords": 496,
-      "afterBodyWords": 1700,
-      "bodyRatio": 3.4274193548387095,
+      "afterBodyWords": 1828,
+      "bodyRatio": 3.685483870967742,
       "beforeMarkdownWords": 468,
       "afterMarkdownWords": 1683,
       "readingFormatsMatch": true
@@ -634,8 +634,8 @@
     {
       "id": "LeeSin",
       "beforeBodyWords": 491,
-      "afterBodyWords": 1683,
-      "bodyRatio": 3.4276985743380854,
+      "afterBodyWords": 1810,
+      "bodyRatio": 3.6863543788187374,
       "beforeMarkdownWords": 456,
       "afterMarkdownWords": 1659,
       "readingFormatsMatch": true
@@ -643,8 +643,8 @@
     {
       "id": "Leona",
       "beforeBodyWords": 494,
-      "afterBodyWords": 1688,
-      "bodyRatio": 3.417004048582996,
+      "afterBodyWords": 1818,
+      "bodyRatio": 3.6801619433198383,
       "beforeMarkdownWords": 467,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -652,8 +652,8 @@
     {
       "id": "Lillia",
       "beforeBodyWords": 486,
-      "afterBodyWords": 1677,
-      "bodyRatio": 3.450617283950617,
+      "afterBodyWords": 1807,
+      "bodyRatio": 3.7181069958847734,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1657,
       "readingFormatsMatch": true
@@ -661,8 +661,8 @@
     {
       "id": "Lissandra",
       "beforeBodyWords": 495,
-      "afterBodyWords": 1690,
-      "bodyRatio": 3.414141414141414,
+      "afterBodyWords": 1817,
+      "bodyRatio": 3.6707070707070706,
       "beforeMarkdownWords": 466,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -670,8 +670,8 @@
     {
       "id": "Locke",
       "beforeBodyWords": 494,
-      "afterBodyWords": 1684,
-      "bodyRatio": 3.408906882591093,
+      "afterBodyWords": 1819,
+      "bodyRatio": 3.682186234817814,
       "beforeMarkdownWords": 464,
       "afterMarkdownWords": 1665,
       "readingFormatsMatch": true
@@ -679,8 +679,8 @@
     {
       "id": "Lucian",
       "beforeBodyWords": 483,
-      "afterBodyWords": 1696,
-      "bodyRatio": 3.5113871635610767,
+      "afterBodyWords": 1821,
+      "bodyRatio": 3.770186335403727,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -688,8 +688,8 @@
     {
       "id": "Lulu",
       "beforeBodyWords": 494,
-      "afterBodyWords": 1706,
-      "bodyRatio": 3.4534412955465585,
+      "afterBodyWords": 1841,
+      "bodyRatio": 3.7267206477732793,
       "beforeMarkdownWords": 464,
       "afterMarkdownWords": 1687,
       "readingFormatsMatch": true
@@ -697,8 +697,8 @@
     {
       "id": "Lux",
       "beforeBodyWords": 478,
-      "afterBodyWords": 1678,
-      "bodyRatio": 3.510460251046025,
+      "afterBodyWords": 1805,
+      "bodyRatio": 3.776150627615063,
       "beforeMarkdownWords": 450,
       "afterMarkdownWords": 1661,
       "readingFormatsMatch": true
@@ -706,8 +706,8 @@
     {
       "id": "Malphite",
       "beforeBodyWords": 487,
-      "afterBodyWords": 1681,
-      "bodyRatio": 3.4517453798767965,
+      "afterBodyWords": 1805,
+      "bodyRatio": 3.706365503080082,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1665,
       "readingFormatsMatch": true
@@ -715,8 +715,8 @@
     {
       "id": "Malzahar",
       "beforeBodyWords": 495,
-      "afterBodyWords": 1693,
-      "bodyRatio": 3.4202020202020202,
+      "afterBodyWords": 1825,
+      "bodyRatio": 3.686868686868687,
       "beforeMarkdownWords": 466,
       "afterMarkdownWords": 1675,
       "readingFormatsMatch": true
@@ -724,8 +724,8 @@
     {
       "id": "Maokai",
       "beforeBodyWords": 503,
-      "afterBodyWords": 1697,
-      "bodyRatio": 3.3737574552683895,
+      "afterBodyWords": 1831,
+      "bodyRatio": 3.640159045725646,
       "beforeMarkdownWords": 475,
       "afterMarkdownWords": 1680,
       "readingFormatsMatch": true
@@ -733,8 +733,8 @@
     {
       "id": "MasterYi",
       "beforeBodyWords": 488,
-      "afterBodyWords": 1683,
-      "bodyRatio": 3.4487704918032787,
+      "afterBodyWords": 1812,
+      "bodyRatio": 3.7131147540983607,
       "beforeMarkdownWords": 456,
       "afterMarkdownWords": 1662,
       "readingFormatsMatch": true
@@ -742,8 +742,8 @@
     {
       "id": "Mel",
       "beforeBodyWords": 491,
-      "afterBodyWords": 1691,
-      "bodyRatio": 3.443991853360489,
+      "afterBodyWords": 1828,
+      "bodyRatio": 3.7230142566191446,
       "beforeMarkdownWords": 463,
       "afterMarkdownWords": 1674,
       "readingFormatsMatch": true
@@ -751,8 +751,8 @@
     {
       "id": "Milio",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1703,
-      "bodyRatio": 3.4543610547667343,
+      "afterBodyWords": 1837,
+      "bodyRatio": 3.7261663286004056,
       "beforeMarkdownWords": 459,
       "afterMarkdownWords": 1680,
       "readingFormatsMatch": true
@@ -760,8 +760,8 @@
     {
       "id": "MissFortune",
       "beforeBodyWords": 480,
-      "afterBodyWords": 1691,
-      "bodyRatio": 3.5229166666666667,
+      "afterBodyWords": 1814,
+      "bodyRatio": 3.779166666666667,
       "beforeMarkdownWords": 452,
       "afterMarkdownWords": 1674,
       "readingFormatsMatch": true
@@ -769,8 +769,8 @@
     {
       "id": "Mordekaiser",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1686,
-      "bodyRatio": 3.426829268292683,
+      "afterBodyWords": 1821,
+      "bodyRatio": 3.701219512195122,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1667,
       "readingFormatsMatch": true
@@ -778,8 +778,8 @@
     {
       "id": "Morgana",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1699,
-      "bodyRatio": 3.4462474645030428,
+      "afterBodyWords": 1833,
+      "bodyRatio": 3.718052738336714,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -787,8 +787,8 @@
     {
       "id": "Naafiri",
       "beforeBodyWords": 516,
-      "afterBodyWords": 1718,
-      "bodyRatio": 3.3294573643410854,
+      "afterBodyWords": 1859,
+      "bodyRatio": 3.602713178294574,
       "beforeMarkdownWords": 484,
       "afterMarkdownWords": 1697,
       "readingFormatsMatch": true
@@ -796,8 +796,8 @@
     {
       "id": "Nami",
       "beforeBodyWords": 483,
-      "afterBodyWords": 1689,
-      "bodyRatio": 3.4968944099378882,
+      "afterBodyWords": 1814,
+      "bodyRatio": 3.7556935817805384,
       "beforeMarkdownWords": 451,
       "afterMarkdownWords": 1668,
       "readingFormatsMatch": true
@@ -805,8 +805,8 @@
     {
       "id": "Nasus",
       "beforeBodyWords": 487,
-      "afterBodyWords": 1678,
-      "bodyRatio": 3.4455852156057496,
+      "afterBodyWords": 1809,
+      "bodyRatio": 3.7145790554414786,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1657,
       "readingFormatsMatch": true
@@ -814,8 +814,8 @@
     {
       "id": "Nautilus",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1687,
-      "bodyRatio": 3.428861788617886,
+      "afterBodyWords": 1817,
+      "bodyRatio": 3.6930894308943087,
       "beforeMarkdownWords": 465,
       "afterMarkdownWords": 1671,
       "readingFormatsMatch": true
@@ -823,8 +823,8 @@
     {
       "id": "Neeko",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1684,
-      "bodyRatio": 3.443762781186094,
+      "afterBodyWords": 1811,
+      "bodyRatio": 3.703476482617587,
       "beforeMarkdownWords": 463,
       "afterMarkdownWords": 1669,
       "readingFormatsMatch": true
@@ -832,8 +832,8 @@
     {
       "id": "Nidalee",
       "beforeBodyWords": 495,
-      "afterBodyWords": 1695,
-      "bodyRatio": 3.4242424242424243,
+      "afterBodyWords": 1830,
+      "bodyRatio": 3.696969696969697,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1671,
       "readingFormatsMatch": true
@@ -841,8 +841,8 @@
     {
       "id": "Nilah",
       "beforeBodyWords": 486,
-      "afterBodyWords": 1682,
-      "bodyRatio": 3.460905349794239,
+      "afterBodyWords": 1810,
+      "bodyRatio": 3.7242798353909463,
       "beforeMarkdownWords": 453,
       "afterMarkdownWords": 1660,
       "readingFormatsMatch": true
@@ -850,8 +850,8 @@
     {
       "id": "Nocturne",
       "beforeBodyWords": 498,
-      "afterBodyWords": 1699,
-      "bodyRatio": 3.4116465863453813,
+      "afterBodyWords": 1830,
+      "bodyRatio": 3.674698795180723,
       "beforeMarkdownWords": 470,
       "afterMarkdownWords": 1682,
       "readingFormatsMatch": true
@@ -859,8 +859,8 @@
     {
       "id": "Nunu",
       "beforeBodyWords": 501,
-      "afterBodyWords": 1696,
-      "bodyRatio": 3.385229540918164,
+      "afterBodyWords": 1825,
+      "bodyRatio": 3.6427145708582835,
       "beforeMarkdownWords": 473,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -868,8 +868,8 @@
     {
       "id": "Olaf",
       "beforeBodyWords": 486,
-      "afterBodyWords": 1677,
-      "bodyRatio": 3.450617283950617,
+      "afterBodyWords": 1806,
+      "bodyRatio": 3.7160493827160495,
       "beforeMarkdownWords": 456,
       "afterMarkdownWords": 1658,
       "readingFormatsMatch": true
@@ -877,8 +877,8 @@
     {
       "id": "Orianna",
       "beforeBodyWords": 478,
-      "afterBodyWords": 1677,
-      "bodyRatio": 3.50836820083682,
+      "afterBodyWords": 1807,
+      "bodyRatio": 3.780334728033473,
       "beforeMarkdownWords": 468,
       "afterMarkdownWords": 1678,
       "readingFormatsMatch": true
@@ -886,8 +886,8 @@
     {
       "id": "Ornn",
       "beforeBodyWords": 495,
-      "afterBodyWords": 1690,
-      "bodyRatio": 3.414141414141414,
+      "afterBodyWords": 1816,
+      "bodyRatio": 3.6686868686868688,
       "beforeMarkdownWords": 464,
       "afterMarkdownWords": 1670,
       "readingFormatsMatch": true
@@ -895,8 +895,8 @@
     {
       "id": "Pantheon",
       "beforeBodyWords": 499,
-      "afterBodyWords": 1687,
-      "bodyRatio": 3.3807615230460923,
+      "afterBodyWords": 1822,
+      "bodyRatio": 3.6513026052104207,
       "beforeMarkdownWords": 468,
       "afterMarkdownWords": 1667,
       "readingFormatsMatch": true
@@ -904,8 +904,8 @@
     {
       "id": "Poppy",
       "beforeBodyWords": 484,
-      "afterBodyWords": 1693,
-      "bodyRatio": 3.4979338842975207,
+      "afterBodyWords": 1819,
+      "bodyRatio": 3.7582644628099175,
       "beforeMarkdownWords": 453,
       "afterMarkdownWords": 1673,
       "readingFormatsMatch": true
@@ -913,8 +913,8 @@
     {
       "id": "Pyke",
       "beforeBodyWords": 517,
-      "afterBodyWords": 1720,
-      "bodyRatio": 3.3268858800773695,
+      "afterBodyWords": 1860,
+      "bodyRatio": 3.597678916827853,
       "beforeMarkdownWords": 484,
       "afterMarkdownWords": 1698,
       "readingFormatsMatch": true
@@ -922,8 +922,8 @@
     {
       "id": "Qiyana",
       "beforeBodyWords": 500,
-      "afterBodyWords": 1700,
-      "bodyRatio": 3.4,
+      "afterBodyWords": 1828,
+      "bodyRatio": 3.656,
       "beforeMarkdownWords": 467,
       "afterMarkdownWords": 1678,
       "readingFormatsMatch": true
@@ -931,8 +931,8 @@
     {
       "id": "Quinn",
       "beforeBodyWords": 481,
-      "afterBodyWords": 1692,
-      "bodyRatio": 3.5176715176715176,
+      "afterBodyWords": 1818,
+      "bodyRatio": 3.7796257796257797,
       "beforeMarkdownWords": 453,
       "afterMarkdownWords": 1675,
       "readingFormatsMatch": true
@@ -940,8 +940,8 @@
     {
       "id": "Rakan",
       "beforeBodyWords": 483,
-      "afterBodyWords": 1678,
-      "bodyRatio": 3.474120082815735,
+      "afterBodyWords": 1798,
+      "bodyRatio": 3.722567287784679,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1661,
       "readingFormatsMatch": true
@@ -949,8 +949,8 @@
     {
       "id": "Rammus",
       "beforeBodyWords": 491,
-      "afterBodyWords": 1687,
-      "bodyRatio": 3.435845213849287,
+      "afterBodyWords": 1815,
+      "bodyRatio": 3.6965376782077395,
       "beforeMarkdownWords": 463,
       "afterMarkdownWords": 1670,
       "readingFormatsMatch": true
@@ -958,8 +958,8 @@
     {
       "id": "RekSai",
       "beforeBodyWords": 488,
-      "afterBodyWords": 1675,
-      "bodyRatio": 3.432377049180328,
+      "afterBodyWords": 1800,
+      "bodyRatio": 3.6885245901639343,
       "beforeMarkdownWords": 449,
       "afterMarkdownWords": 1647,
       "readingFormatsMatch": true
@@ -967,8 +967,8 @@
     {
       "id": "Rell",
       "beforeBodyWords": 497,
-      "afterBodyWords": 1692,
-      "bodyRatio": 3.404426559356137,
+      "afterBodyWords": 1822,
+      "bodyRatio": 3.6659959758551306,
       "beforeMarkdownWords": 467,
       "afterMarkdownWords": 1673,
       "readingFormatsMatch": true
@@ -976,8 +976,8 @@
     {
       "id": "Renata",
       "beforeBodyWords": 487,
-      "afterBodyWords": 1695,
-      "bodyRatio": 3.4804928131416837,
+      "afterBodyWords": 1824,
+      "bodyRatio": 3.7453798767967146,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -985,8 +985,8 @@
     {
       "id": "Renekton",
       "beforeBodyWords": 495,
-      "afterBodyWords": 1689,
-      "bodyRatio": 3.412121212121212,
+      "afterBodyWords": 1821,
+      "bodyRatio": 3.6787878787878787,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1667,
       "readingFormatsMatch": true
@@ -994,8 +994,8 @@
     {
       "id": "Rengar",
       "beforeBodyWords": 488,
-      "afterBodyWords": 1692,
-      "bodyRatio": 3.4672131147540983,
+      "afterBodyWords": 1816,
+      "bodyRatio": 3.721311475409836,
       "beforeMarkdownWords": 458,
       "afterMarkdownWords": 1673,
       "readingFormatsMatch": true
@@ -1003,8 +1003,8 @@
     {
       "id": "Riven",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1688,
-      "bodyRatio": 3.4239350912778903,
+      "afterBodyWords": 1818,
+      "bodyRatio": 3.68762677484787,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1663,
       "readingFormatsMatch": true
@@ -1012,8 +1012,8 @@
     {
       "id": "Rumble",
       "beforeBodyWords": 485,
-      "afterBodyWords": 1682,
-      "bodyRatio": 3.468041237113402,
+      "afterBodyWords": 1809,
+      "bodyRatio": 3.729896907216495,
       "beforeMarkdownWords": 459,
       "afterMarkdownWords": 1667,
       "readingFormatsMatch": true
@@ -1021,8 +1021,8 @@
     {
       "id": "Ryze",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1688,
-      "bodyRatio": 3.430894308943089,
+      "afterBodyWords": 1820,
+      "bodyRatio": 3.6991869918699187,
       "beforeMarkdownWords": 466,
       "afterMarkdownWords": 1673,
       "readingFormatsMatch": true
@@ -1030,8 +1030,8 @@
     {
       "id": "Samira",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1686,
-      "bodyRatio": 3.4478527607361964,
+      "afterBodyWords": 1816,
+      "bodyRatio": 3.7137014314928427,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1663,
       "readingFormatsMatch": true
@@ -1039,8 +1039,8 @@
     {
       "id": "Sejuani",
       "beforeBodyWords": 491,
-      "afterBodyWords": 1685,
-      "bodyRatio": 3.4317718940936865,
+      "afterBodyWords": 1808,
+      "bodyRatio": 3.6822810590631363,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1667,
       "readingFormatsMatch": true
@@ -1048,8 +1048,8 @@
     {
       "id": "Senna",
       "beforeBodyWords": 496,
-      "afterBodyWords": 1709,
-      "bodyRatio": 3.4455645161290325,
+      "afterBodyWords": 1841,
+      "bodyRatio": 3.711693548387097,
       "beforeMarkdownWords": 465,
       "afterMarkdownWords": 1689,
       "readingFormatsMatch": true
@@ -1057,8 +1057,8 @@
     {
       "id": "Seraphine",
       "beforeBodyWords": 484,
-      "afterBodyWords": 1694,
-      "bodyRatio": 3.5,
+      "afterBodyWords": 1819,
+      "bodyRatio": 3.7582644628099175,
       "beforeMarkdownWords": 454,
       "afterMarkdownWords": 1675,
       "readingFormatsMatch": true
@@ -1066,8 +1066,8 @@
     {
       "id": "Sett",
       "beforeBodyWords": 476,
-      "afterBodyWords": 1670,
-      "bodyRatio": 3.508403361344538,
+      "afterBodyWords": 1793,
+      "bodyRatio": 3.7668067226890756,
       "beforeMarkdownWords": 446,
       "afterMarkdownWords": 1651,
       "readingFormatsMatch": true
@@ -1075,8 +1075,8 @@
     {
       "id": "Shaco",
       "beforeBodyWords": 496,
-      "afterBodyWords": 1701,
-      "bodyRatio": 3.4294354838709675,
+      "afterBodyWords": 1831,
+      "bodyRatio": 3.691532258064516,
       "beforeMarkdownWords": 468,
       "afterMarkdownWords": 1684,
       "readingFormatsMatch": true
@@ -1084,8 +1084,8 @@
     {
       "id": "Shen",
       "beforeBodyWords": 502,
-      "afterBodyWords": 1712,
-      "bodyRatio": 3.410358565737052,
+      "afterBodyWords": 1850,
+      "bodyRatio": 3.685258964143426,
       "beforeMarkdownWords": 471,
       "afterMarkdownWords": 1692,
       "readingFormatsMatch": true
@@ -1093,8 +1093,8 @@
     {
       "id": "Shyvana",
       "beforeBodyWords": 500,
-      "afterBodyWords": 1695,
-      "bodyRatio": 3.39,
+      "afterBodyWords": 1835,
+      "bodyRatio": 3.67,
       "beforeMarkdownWords": 471,
       "afterMarkdownWords": 1677,
       "readingFormatsMatch": true
@@ -1102,8 +1102,8 @@
     {
       "id": "Singed",
       "beforeBodyWords": 484,
-      "afterBodyWords": 1677,
-      "bodyRatio": 3.4648760330578514,
+      "afterBodyWords": 1804,
+      "bodyRatio": 3.727272727272727,
       "beforeMarkdownWords": 454,
       "afterMarkdownWords": 1658,
       "readingFormatsMatch": true
@@ -1111,8 +1111,8 @@
     {
       "id": "Sion",
       "beforeBodyWords": 501,
-      "afterBodyWords": 1699,
-      "bodyRatio": 3.3912175648702596,
+      "afterBodyWords": 1831,
+      "bodyRatio": 3.654690618762475,
       "beforeMarkdownWords": 470,
       "afterMarkdownWords": 1679,
       "readingFormatsMatch": true
@@ -1120,8 +1120,8 @@
     {
       "id": "Sivir",
       "beforeBodyWords": 482,
-      "afterBodyWords": 1695,
-      "bodyRatio": 3.516597510373444,
+      "afterBodyWords": 1821,
+      "bodyRatio": 3.7780082987551866,
       "beforeMarkdownWords": 452,
       "afterMarkdownWords": 1676,
       "readingFormatsMatch": true
@@ -1129,8 +1129,8 @@
     {
       "id": "Skarner",
       "beforeBodyWords": 490,
-      "afterBodyWords": 1684,
-      "bodyRatio": 3.436734693877551,
+      "afterBodyWords": 1807,
+      "bodyRatio": 3.6877551020408164,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1665,
       "readingFormatsMatch": true
@@ -1138,8 +1138,8 @@
     {
       "id": "Smolder",
       "beforeBodyWords": 490,
-      "afterBodyWords": 1702,
-      "bodyRatio": 3.473469387755102,
+      "afterBodyWords": 1835,
+      "bodyRatio": 3.7448979591836733,
       "beforeMarkdownWords": 461,
       "afterMarkdownWords": 1684,
       "readingFormatsMatch": true
@@ -1147,8 +1147,8 @@
     {
       "id": "Sona",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1702,
-      "bodyRatio": 3.459349593495935,
+      "afterBodyWords": 1834,
+      "bodyRatio": 3.727642276422764,
       "beforeMarkdownWords": 459,
       "afterMarkdownWords": 1680,
       "readingFormatsMatch": true
@@ -1156,8 +1156,8 @@
     {
       "id": "Soraka",
       "beforeBodyWords": 498,
-      "afterBodyWords": 1709,
-      "bodyRatio": 3.431726907630522,
+      "afterBodyWords": 1849,
+      "bodyRatio": 3.71285140562249,
       "beforeMarkdownWords": 471,
       "afterMarkdownWords": 1693,
       "readingFormatsMatch": true
@@ -1165,8 +1165,8 @@
     {
       "id": "Swain",
       "beforeBodyWords": 475,
-      "afterBodyWords": 1667,
-      "bodyRatio": 3.5094736842105263,
+      "afterBodyWords": 1788,
+      "bodyRatio": 3.7642105263157895,
       "beforeMarkdownWords": 444,
       "afterMarkdownWords": 1647,
       "readingFormatsMatch": true
@@ -1174,8 +1174,8 @@
     {
       "id": "Sylas",
       "beforeBodyWords": 486,
-      "afterBodyWords": 1680,
-      "bodyRatio": 3.45679012345679,
+      "afterBodyWords": 1811,
+      "bodyRatio": 3.7263374485596708,
       "beforeMarkdownWords": 456,
       "afterMarkdownWords": 1661,
       "readingFormatsMatch": true
@@ -1183,8 +1183,8 @@
     {
       "id": "Syndra",
       "beforeBodyWords": 490,
-      "afterBodyWords": 1685,
-      "bodyRatio": 3.438775510204082,
+      "afterBodyWords": 1814,
+      "bodyRatio": 3.7020408163265306,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1668,
       "readingFormatsMatch": true
@@ -1192,8 +1192,8 @@
     {
       "id": "TahmKench",
       "beforeBodyWords": 490,
-      "afterBodyWords": 1694,
-      "bodyRatio": 3.4571428571428573,
+      "afterBodyWords": 1822,
+      "bodyRatio": 3.7183673469387757,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1675,
       "readingFormatsMatch": true
@@ -1201,8 +1201,8 @@
     {
       "id": "Taliyah",
       "beforeBodyWords": 496,
-      "afterBodyWords": 1694,
-      "bodyRatio": 3.4153225806451615,
+      "afterBodyWords": 1826,
+      "bodyRatio": 3.681451612903226,
       "beforeMarkdownWords": 469,
       "afterMarkdownWords": 1678,
       "readingFormatsMatch": true
@@ -1210,8 +1210,8 @@
     {
       "id": "Talon",
       "beforeBodyWords": 505,
-      "afterBodyWords": 1706,
-      "bodyRatio": 3.378217821782178,
+      "afterBodyWords": 1839,
+      "bodyRatio": 3.6415841584158417,
       "beforeMarkdownWords": 477,
       "afterMarkdownWords": 1689,
       "readingFormatsMatch": true
@@ -1219,8 +1219,8 @@
     {
       "id": "Taric",
       "beforeBodyWords": 488,
-      "afterBodyWords": 1700,
-      "bodyRatio": 3.4836065573770494,
+      "afterBodyWords": 1833,
+      "bodyRatio": 3.7561475409836067,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1683,
       "readingFormatsMatch": true
@@ -1228,8 +1228,8 @@
     {
       "id": "Teemo",
       "beforeBodyWords": 491,
-      "afterBodyWords": 1689,
-      "bodyRatio": 3.439918533604888,
+      "afterBodyWords": 1822,
+      "bodyRatio": 3.7107942973523422,
       "beforeMarkdownWords": 464,
       "afterMarkdownWords": 1673,
       "readingFormatsMatch": true
@@ -1237,8 +1237,8 @@
     {
       "id": "Thresh",
       "beforeBodyWords": 486,
-      "afterBodyWords": 1695,
-      "bodyRatio": 3.4876543209876543,
+      "afterBodyWords": 1826,
+      "bodyRatio": 3.757201646090535,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1677,
       "readingFormatsMatch": true
@@ -1246,8 +1246,8 @@
     {
       "id": "Tristana",
       "beforeBodyWords": 491,
-      "afterBodyWords": 1705,
-      "bodyRatio": 3.4725050916496945,
+      "afterBodyWords": 1838,
+      "bodyRatio": 3.743380855397149,
       "beforeMarkdownWords": 461,
       "afterMarkdownWords": 1686,
       "readingFormatsMatch": true
@@ -1255,8 +1255,8 @@
     {
       "id": "Trundle",
       "beforeBodyWords": 485,
-      "afterBodyWords": 1674,
-      "bodyRatio": 3.4515463917525775,
+      "afterBodyWords": 1802,
+      "bodyRatio": 3.7154639175257733,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1655,
       "readingFormatsMatch": true
@@ -1264,8 +1264,8 @@
     {
       "id": "Tryndamere",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1688,
-      "bodyRatio": 3.430894308943089,
+      "afterBodyWords": 1819,
+      "bodyRatio": 3.6971544715447155,
       "beforeMarkdownWords": 458,
       "afterMarkdownWords": 1665,
       "readingFormatsMatch": true
@@ -1273,8 +1273,8 @@
     {
       "id": "TwistedFate",
       "beforeBodyWords": 500,
-      "afterBodyWords": 1698,
-      "bodyRatio": 3.396,
+      "afterBodyWords": 1832,
+      "bodyRatio": 3.664,
       "beforeMarkdownWords": 474,
       "afterMarkdownWords": 1683,
       "readingFormatsMatch": true
@@ -1282,8 +1282,8 @@
     {
       "id": "Twitch",
       "beforeBodyWords": 482,
-      "afterBodyWords": 1695,
-      "bodyRatio": 3.516597510373444,
+      "afterBodyWords": 1821,
+      "bodyRatio": 3.7780082987551866,
       "beforeMarkdownWords": 454,
       "afterMarkdownWords": 1678,
       "readingFormatsMatch": true
@@ -1291,8 +1291,8 @@
     {
       "id": "Udyr",
       "beforeBodyWords": 486,
-      "afterBodyWords": 1680,
-      "bodyRatio": 3.45679012345679,
+      "afterBodyWords": 1808,
+      "bodyRatio": 3.720164609053498,
       "beforeMarkdownWords": 455,
       "afterMarkdownWords": 1660,
       "readingFormatsMatch": true
@@ -1300,8 +1300,8 @@
     {
       "id": "Urgot",
       "beforeBodyWords": 487,
-      "afterBodyWords": 1678,
-      "bodyRatio": 3.4455852156057496,
+      "afterBodyWords": 1807,
+      "bodyRatio": 3.7104722792607805,
       "beforeMarkdownWords": 457,
       "afterMarkdownWords": 1659,
       "readingFormatsMatch": true
@@ -1309,8 +1309,8 @@
     {
       "id": "Varus",
       "beforeBodyWords": 498,
-      "afterBodyWords": 1710,
-      "bodyRatio": 3.433734939759036,
+      "afterBodyWords": 1844,
+      "bodyRatio": 3.7028112449799195,
       "beforeMarkdownWords": 467,
       "afterMarkdownWords": 1690,
       "readingFormatsMatch": true
@@ -1318,8 +1318,8 @@
     {
       "id": "Vayne",
       "beforeBodyWords": 487,
-      "afterBodyWords": 1698,
-      "bodyRatio": 3.486652977412731,
+      "afterBodyWords": 1830,
+      "bodyRatio": 3.757700205338809,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1682,
       "readingFormatsMatch": true
@@ -1327,8 +1327,8 @@
     {
       "id": "Veigar",
       "beforeBodyWords": 494,
-      "afterBodyWords": 1688,
-      "bodyRatio": 3.417004048582996,
+      "afterBodyWords": 1820,
+      "bodyRatio": 3.6842105263157894,
       "beforeMarkdownWords": 466,
       "afterMarkdownWords": 1671,
       "readingFormatsMatch": true
@@ -1336,8 +1336,8 @@
     {
       "id": "Velkoz",
       "beforeBodyWords": 474,
-      "afterBodyWords": 1675,
-      "bodyRatio": 3.5337552742616034,
+      "afterBodyWords": 1796,
+      "bodyRatio": 3.789029535864979,
       "beforeMarkdownWords": 443,
       "afterMarkdownWords": 1655,
       "readingFormatsMatch": true
@@ -1345,8 +1345,8 @@
     {
       "id": "Vex",
       "beforeBodyWords": 494,
-      "afterBodyWords": 1692,
-      "bodyRatio": 3.425101214574899,
+      "afterBodyWords": 1825,
+      "bodyRatio": 3.694331983805668,
       "beforeMarkdownWords": 466,
       "afterMarkdownWords": 1675,
       "readingFormatsMatch": true
@@ -1354,8 +1354,8 @@
     {
       "id": "Vi",
       "beforeBodyWords": 500,
-      "afterBodyWords": 1692,
-      "bodyRatio": 3.384,
+      "afterBodyWords": 1824,
+      "bodyRatio": 3.648,
       "beforeMarkdownWords": 471,
       "afterMarkdownWords": 1674,
       "readingFormatsMatch": true
@@ -1363,8 +1363,8 @@
     {
       "id": "Viego",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1684,
-      "bodyRatio": 3.4227642276422765,
+      "afterBodyWords": 1817,
+      "bodyRatio": 3.6930894308943087,
       "beforeMarkdownWords": 459,
       "afterMarkdownWords": 1662,
       "readingFormatsMatch": true
@@ -1372,8 +1372,8 @@
     {
       "id": "Viktor",
       "beforeBodyWords": 491,
-      "afterBodyWords": 1688,
-      "bodyRatio": 3.4378818737270875,
+      "afterBodyWords": 1818,
+      "bodyRatio": 3.7026476578411405,
       "beforeMarkdownWords": 464,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -1381,8 +1381,8 @@
     {
       "id": "Vladimir",
       "beforeBodyWords": 490,
-      "afterBodyWords": 1679,
-      "bodyRatio": 3.426530612244898,
+      "afterBodyWords": 1811,
+      "bodyRatio": 3.695918367346939,
       "beforeMarkdownWords": 460,
       "afterMarkdownWords": 1660,
       "readingFormatsMatch": true
@@ -1390,8 +1390,8 @@
     {
       "id": "Volibear",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1681,
-      "bodyRatio": 3.4166666666666665,
+      "afterBodyWords": 1813,
+      "bodyRatio": 3.684959349593496,
       "beforeMarkdownWords": 461,
       "afterMarkdownWords": 1661,
       "readingFormatsMatch": true
@@ -1399,8 +1399,8 @@
     {
       "id": "Warwick",
       "beforeBodyWords": 489,
-      "afterBodyWords": 1679,
-      "bodyRatio": 3.4335378323108383,
+      "afterBodyWords": 1807,
+      "bodyRatio": 3.6952965235173822,
       "beforeMarkdownWords": 456,
       "afterMarkdownWords": 1657,
       "readingFormatsMatch": true
@@ -1408,8 +1408,8 @@
     {
       "id": "MonkeyKing",
       "beforeBodyWords": 475,
-      "afterBodyWords": 1666,
-      "bodyRatio": 3.5073684210526315,
+      "afterBodyWords": 1788,
+      "bodyRatio": 3.7642105263157895,
       "beforeMarkdownWords": 445,
       "afterMarkdownWords": 1647,
       "readingFormatsMatch": true
@@ -1417,8 +1417,8 @@
     {
       "id": "Xayah",
       "beforeBodyWords": 473,
-      "afterBodyWords": 1684,
-      "bodyRatio": 3.5602536997885834,
+      "afterBodyWords": 1814,
+      "bodyRatio": 3.8350951374207187,
       "beforeMarkdownWords": 465,
       "afterMarkdownWords": 1687,
       "readingFormatsMatch": true
@@ -1426,8 +1426,8 @@
     {
       "id": "Xerath",
       "beforeBodyWords": 478,
-      "afterBodyWords": 1678,
-      "bodyRatio": 3.510460251046025,
+      "afterBodyWords": 1801,
+      "bodyRatio": 3.7677824267782425,
       "beforeMarkdownWords": 447,
       "afterMarkdownWords": 1658,
       "readingFormatsMatch": true
@@ -1435,8 +1435,8 @@
     {
       "id": "XinZhao",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1685,
-      "bodyRatio": 3.417849898580122,
+      "afterBodyWords": 1816,
+      "bodyRatio": 3.683569979716024,
       "beforeMarkdownWords": 462,
       "afterMarkdownWords": 1665,
       "readingFormatsMatch": true
@@ -1444,8 +1444,8 @@
     {
       "id": "Yasuo",
       "beforeBodyWords": 493,
-      "afterBodyWords": 1692,
-      "bodyRatio": 3.4320486815415823,
+      "afterBodyWords": 1822,
+      "bodyRatio": 3.6957403651115617,
       "beforeMarkdownWords": 456,
       "afterMarkdownWords": 1666,
       "readingFormatsMatch": true
@@ -1453,8 +1453,8 @@
     {
       "id": "Yone",
       "beforeBodyWords": 481,
-      "afterBodyWords": 1677,
-      "bodyRatio": 3.4864864864864864,
+      "afterBodyWords": 1811,
+      "bodyRatio": 3.765072765072765,
       "beforeMarkdownWords": 465,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -1462,8 +1462,8 @@
     {
       "id": "Yorick",
       "beforeBodyWords": 503,
-      "afterBodyWords": 1703,
-      "bodyRatio": 3.3856858846918487,
+      "afterBodyWords": 1838,
+      "bodyRatio": 3.6540755467196817,
       "beforeMarkdownWords": 465,
       "afterMarkdownWords": 1676,
       "readingFormatsMatch": true
@@ -1471,8 +1471,8 @@
     {
       "id": "Yunara",
       "beforeBodyWords": 505,
-      "afterBodyWords": 1717,
-      "bodyRatio": 3.4,
+      "afterBodyWords": 1850,
+      "bodyRatio": 3.6633663366336635,
       "beforeMarkdownWords": 463,
       "afterMarkdownWords": 1686,
       "readingFormatsMatch": true
@@ -1480,8 +1480,8 @@
     {
       "id": "Yuumi",
       "beforeBodyWords": 492,
-      "afterBodyWords": 1702,
-      "bodyRatio": 3.459349593495935,
+      "afterBodyWords": 1835,
+      "bodyRatio": 3.7296747967479673,
       "beforeMarkdownWords": 461,
       "afterMarkdownWords": 1682,
       "readingFormatsMatch": true
@@ -1489,8 +1489,8 @@
     {
       "id": "Zaahen",
       "beforeBodyWords": 504,
-      "afterBodyWords": 1698,
-      "bodyRatio": 3.369047619047619,
+      "afterBodyWords": 1837,
+      "bodyRatio": 3.6448412698412698,
       "beforeMarkdownWords": 471,
       "afterMarkdownWords": 1676,
       "readingFormatsMatch": true
@@ -1498,8 +1498,8 @@
     {
       "id": "Zac",
       "beforeBodyWords": 494,
-      "afterBodyWords": 1689,
-      "bodyRatio": 3.419028340080972,
+      "afterBodyWords": 1819,
+      "bodyRatio": 3.682186234817814,
       "beforeMarkdownWords": 466,
       "afterMarkdownWords": 1672,
       "readingFormatsMatch": true
@@ -1507,8 +1507,8 @@
     {
       "id": "Zed",
       "beforeBodyWords": 501,
-      "afterBodyWords": 1705,
-      "bodyRatio": 3.403193612774451,
+      "afterBodyWords": 1837,
+      "bodyRatio": 3.6666666666666665,
       "beforeMarkdownWords": 483,
       "afterMarkdownWords": 1698,
       "readingFormatsMatch": true
@@ -1516,8 +1516,8 @@
     {
       "id": "Zeri",
       "beforeBodyWords": 483,
-      "afterBodyWords": 1698,
-      "bodyRatio": 3.515527950310559,
+      "afterBodyWords": 1824,
+      "bodyRatio": 3.7763975155279503,
       "beforeMarkdownWords": 454,
       "afterMarkdownWords": 1680,
       "readingFormatsMatch": true
@@ -1525,8 +1525,8 @@
     {
       "id": "Ziggs",
       "beforeBodyWords": 488,
-      "afterBodyWords": 1685,
-      "bodyRatio": 3.4528688524590163,
+      "afterBodyWords": 1817,
+      "bodyRatio": 3.723360655737705,
       "beforeMarkdownWords": 458,
       "afterMarkdownWords": 1666,
       "readingFormatsMatch": true
@@ -1534,8 +1534,8 @@
     {
       "id": "Zilean",
       "beforeBodyWords": 503,
-      "afterBodyWords": 1713,
-      "bodyRatio": 3.405566600397614,
+      "afterBodyWords": 1854,
+      "bodyRatio": 3.6858846918489068,
       "beforeMarkdownWords": 472,
       "afterMarkdownWords": 1693,
       "readingFormatsMatch": true
@@ -1543,8 +1543,8 @@
     {
       "id": "Zoe",
       "beforeBodyWords": 499,
-      "afterBodyWords": 1701,
-      "bodyRatio": 3.408817635270541,
+      "afterBodyWords": 1839,
+      "bodyRatio": 3.685370741482966,
       "beforeMarkdownWords": 469,
       "afterMarkdownWords": 1682,
       "readingFormatsMatch": true
@@ -1552,8 +1552,8 @@
     {
       "id": "Zyra",
       "beforeBodyWords": 494,
-      "afterBodyWords": 1691,
-      "bodyRatio": 3.423076923076923,
+      "afterBodyWords": 1826,
+      "bodyRatio": 3.6963562753036436,
       "beforeMarkdownWords": 467,
       "afterMarkdownWords": 1675,
       "readingFormatsMatch": true

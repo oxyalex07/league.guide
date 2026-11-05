@@ -29,6 +29,18 @@ You want to return to base. If you can safely clear and finish the crash, a fast
 
 *Illustrative choices for wave management; not measured game timing or positions.*
 
+<!-- Interactive: wave-states -->
+
+## Going deeper
+
+**Use the animation to compare plans.** Each scenario shows a different result from the same lane. Ask which one supports your next job, and what it costs.
+
+**Waves set up everything else.** Recalls, roams, dives and objective fights all depend on where waves are. Strong players plan the wave a minute or two ahead: "I will slow push this wave, crash it, then recall."
+
+**Read the opponent's wave too.** A wave that is about to crash into your turret limits where you can go. Before leaving lane, check what the enemy wave will do while you are gone.
+
+**Cannons and big waves.** Some waves are worth more than others. Crashing a large or valuable wave before a recall costs the opponent more than crashing a small one.
+
 ## Common mistake and correction
 
 **Mistake:** Always attacking the wave as fast as possible, or forcing a freeze regardless of the map.

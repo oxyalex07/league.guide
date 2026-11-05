@@ -29,6 +29,16 @@ You want to farm near your turret while the enemy jungler is unseen. The wave is
 
 *Illustrative decision sequence for freezing; positions and timing are not game measurements.*
 
+## Going deeper
+
+**Freezes work best against a lane that needs to farm.** Denying minions hurts an opponent who relies on gold and experience to keep up. Against a champion who roams well, a freeze can let them leave lane freely.
+
+**Holding the freeze.** When the enemy wave gets too small, the freeze breaks and the wave moves toward the enemy. Let a few more enemy minions arrive, or use [minion aggro](../micro/MI27-minion-aggro.md) to pull the wave back.
+
+**Know when to break it.** Before you recall or roam, you usually want to push the wave instead, so you do not lose minions to your turret while you are away.
+
+**Combine with your jungler.** An opponent forced to walk far up the lane to farm is easier to gank. Tell your jungler when you are holding a freeze.
+
 ## Common mistake and correction
 
 **Mistake:** Treating the frozen wave as something you must protect at any cost.

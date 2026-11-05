@@ -29,6 +29,14 @@ You crash a wave and move to help establish nearby vision. The opponent clears f
 
 *Illustrative decision sequence for tempo; arrows show decisions, not measured game positions or timing.*
 
+## Going deeper
+
+**Tempo is doing useful things in less time.** Teams that recall together, move with pushed waves and arrive at objectives first create tempo. Teams that walk around without purpose lose it.
+
+**Chain actions.** Push the wave, then ward, then help your jungler, then return for the next wave. Each action sets up the next instead of leaving gaps.
+
+**Tempo can matter more than a kill.** A kill that costs a wave, a recall timing and the next objective may not be worth it. Look at what happens in the next minute, not only the result of the fight.
+
 ## Common mistake and correction
 
 **Mistake:** Treating first movement as a permanent advantage.

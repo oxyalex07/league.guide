@@ -29,6 +29,14 @@ After pushing mid, you move toward a possible bot-lane gank. Halfway there, the 
 
 *Illustrative decision sequence for roaming; positions and timing are not game measurements.*
 
+## Going deeper
+
+**Push first, then roam.** Roaming after pushing your wave into the enemy turret means you lose little while you are away and the opponent cannot easily follow without losing minions.
+
+**Roam with information.** Check where the enemy jungler and the lane you are going to are. A roam into a lane that is already being ganked by the enemy can turn into a lost fight.
+
+**Have a return plan.** A roam that fails should still lead to something useful, such as a ward, a camp or a recall. Plan where you go if the kill does not happen.
+
 ## Common mistake and correction
 
 **Mistake:** Staying because you have already spent time walking.

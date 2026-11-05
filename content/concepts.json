@@ -354,5 +354,65 @@
     "title": "Wave management",
     "slug": "wave-management",
     "aliases": []
+  },
+  {
+    "id": "MI27",
+    "title": "Minion aggro",
+    "slug": "minion-aggro",
+    "aliases": []
+  },
+  {
+    "id": "MA42",
+    "title": "Timers",
+    "slug": "timers",
+    "aliases": []
+  },
+  {
+    "id": "MA41",
+    "title": "Objective setup",
+    "slug": "objective-setup",
+    "aliases": []
+  },
+  {
+    "id": "MI28",
+    "title": "Matchup preparation",
+    "slug": "matchup-preparation",
+    "aliases": []
+  },
+  {
+    "id": "MA43",
+    "title": "Champion pool",
+    "slug": "champion-pool",
+    "aliases": []
+  },
+  {
+    "id": "MA44",
+    "title": "Drafting",
+    "slug": "drafting",
+    "aliases": []
+  },
+  {
+    "id": "MA45",
+    "title": "Late-game macro",
+    "slug": "late-game-macro",
+    "aliases": []
+  },
+  {
+    "id": "MA46",
+    "title": "Communication",
+    "slug": "communication",
+    "aliases": []
+  },
+  {
+    "id": "MA47",
+    "title": "Deliberate practice",
+    "slug": "deliberate-practice",
+    "aliases": []
+  },
+  {
+    "id": "MA48",
+    "title": "Mental game",
+    "slug": "mental-game",
+    "aliases": []
   }
 ]

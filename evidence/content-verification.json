@@ -34,6 +34,14 @@
   "MA38: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
   "MA39: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
   "MA40: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MA41: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MA42: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MA43: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MA44: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MA45: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MA46: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MA47: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MA48: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
   "MI01: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
   "MI06: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
   "MI07: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
@@ -54,5 +62,7 @@
   "MI23: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
   "MI24: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
   "MI25: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
-  "MI26: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded"
+  "MI26: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MI27: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "MI28: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded"
 ]

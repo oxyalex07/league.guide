@@ -33,6 +33,14 @@ Your team struggles in grouped fights but has a strong side-lane duelist. You co
 
 *Illustrative decision sequence for win conditions; arrows show decisions, not measured game positions or timing.*
 
+## Going deeper
+
+**Read the draft first.** Your win condition often comes from the compositions: which team scales, which team wants to fight and who can split push. The [Drafting](MA44-drafting.md) lesson covers this.
+
+**Win conditions change during the game.** A lane that wins early may become your team's main threat, while a planned carry may fall behind. Revisit the plan after big fights and objectives.
+
+**Make your job clear.** Once you know the win condition, decide what you do to support it: protect a carry, create side pressure or set up objectives.
+
 ## Common mistake and correction
 
 **Mistake:** Following a pre-game plan despite changed resources.

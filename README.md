@@ -1,6 +1,6 @@
 # League.guide review build
 
-Open `dist/index.html` in a browser. No installation, account, server or network is required to read the 56 lessons, 173 champion guides and two matchup studies. Unzip the whole package first; keep assets beside the HTML. External source links require internet access.
+Open `dist/index.html` in a browser. No installation, account, server or network is required to read the 66 lessons, 173 champion guides, two matchup studies and the glossary. Unzip the whole package first; keep assets beside the HTML. External source links require internet access.
 
 Optional local HTTP preview (Python 3):
 
@@ -19,7 +19,7 @@ python3 build.py
 python3 verify_content.py
 ```
 
-No Python packages or build-time downloads are needed. `content/` contains the revised concept Markdown and assets. `src/` contains the HTML, styles and navigation code; `dist/` is the generated runnable site. Build supports the Markdown constructs used by this reviewed package; it is not a general Markdown editor. Add a renderer and content checks before introducing new Markdown syntax.
+No Python packages or build-time downloads are needed. `content/` contains the revised concept Markdown and assets. `src/` contains the HTML, styles and navigation code; `dist/` is the generated runnable site. Lessons can embed an animated diagram with a standalone `<!-- Interactive: name -->` block; the widgets live in `src/widgets.js`. Standard three-step figures are redrawn into the site's card style at build time by `figures.py`; the reviewed source SVGs are left unchanged. Build supports the Markdown constructs used by this reviewed package; it is not a general Markdown editor. Add a renderer and content checks before introducing new Markdown syntax.
 
 ## Browser verification
 

@@ -42,6 +42,14 @@ A second route remains uncovered. You collect only the portion of the wave that 
 
 Figure files: [desktop SVG](../visuals/assets/ma05-desktop.svg) · [mobile SVG](../visuals/assets/ma05-mobile.svg) · [desktop PNG](../visuals/previews/ma05-desktop.png) · [mobile PNG](../visuals/previews/ma05-mobile.png).
 
+## Going deeper
+
+**Ward for a decision.** A ward is useful when it tells you something you will act on: a gank path, an objective entrance or a flank. Place wards before you need the information.
+
+**Clear enemy vision too.** Removing enemy wards before objectives or ganks can be as important as placing your own. See the [Vision denial](MA19-vision-denial.md) lesson.
+
+**Use wards with timers.** Wards placed before an objective spawns give your team the information to start or contest it safely.
+
 ## Common mistake and correction
 
 **Mistake:** “I warded, so this area is safe.” You continue forward without checking what the ward can reveal.

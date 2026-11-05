@@ -33,14 +33,16 @@ function renderDirectory(state,initial){
  if(a){
   body=`<p class="lead">${esc(a.summary)}</p>`;
   if(mode==='champions')body=a.html;
-  else body+=`<section><h2>What to watch</h2><p>${esc(a.focus)}</p>${a.sides.map(([h,p])=>`<h3>${esc(h)}</h3><p>${esc(p)}</p>`).join('')}</section><section><h2>Pause and decide</h2><p>${esc(a.scenario)}</p></section>`;
+  else{const cs=a.champions.map(s=>CHAMPIONS.find(c=>c.slug===s));body=`<div class="versus">${cs.map((c,k)=>`${k?'<span class="vs" aria-hidden="true">vs</span>':''}<a href="${guideHref(c)}" class="vs-side">${avatar(c)}<strong>${esc(c.title)}</strong><small>${esc(c.kind)}</small></a>`).join('')}</div><p class="lead">${esc(a.summary)}</p><section><h2>What to watch</h2><p>${esc(a.focus)}</p><div class="sides">${a.sides.map(([h,p],k)=>`<div class="side" data-role="${esc(cs[k].tags[0])}"><h3>${esc(h)}</h3><p>${esc(p)}</p></div>`).join('')}</div></section>`;body+=`<section><h2>Pause and decide</h2><p>${esc(a.scenario)}</p></section>`;}
   body+=`<section class="practice"><h2>Replay exercise</h2><p>${esc(a.drill)}</p></section><section><h2>Build the underlying skills</h2><div class="guide-links">${a.lessons.map(slug=>{const l=LESSONS.find(l=>l.slug===slug);return l?`<a href="#/lesson/${slug}">${esc(l.title)}</a>`:'';}).join('')}</div></section>`;
   body+=`<section><h2>${mode==='champions'?'Related matchups':'Champion pages'}</h2>${mode==='champions'&&!MATCHUPS.some(m=>m.champions.includes(a.slug))?'<p>No dedicated matchup study is available for this champion yet.</p>':guideLinks(mode==='champions'?MATCHUPS.filter(m=>m.champions.includes(a.slug)):CHAMPIONS.filter(c=>a.champions.includes(c.slug)))}</section>`;
+  if(mode==='champions'){const i=CHAMPIONS.indexOf(a),pv=CHAMPIONS[i-1],nx=CHAMPIONS[i+1],like=CHAMPIONS.filter(c=>c!==a&&c.kind===a.kind&&c.tags.some(t=>a.tags.includes(t))).slice(0,4);
+   body+=`<section><h2>Similar champions</h2><p>Same teamfight style, so the same questions apply.</p><div class="champ-grid compact">${like.map(championCard).join('')}</div></section><nav class="pager" aria-label="Neighbouring champions">${pv?`<a href="${guideHref(pv)}"><small>← Previous</small><strong>${esc(pv.title)}</strong></a>`:'<span></span>'}${nx?`<a href="${guideHref(nx)}"><small>Next →</small><strong>${esc(nx.title)}</strong></a>`:'<span></span>'}</nav>`;}
   const sources=mode==='champions'?[a]:CHAMPIONS.filter(c=>a.champions.includes(c.slug));
   body+=`<section><h2>Sources and scope</h2><p class="note">Champion coverage and ability references use Riot Data Dragon ${esc(CHAMPIONS[0].version)}, cross-checked against Riot’s full champion directory on 5 November 2026 UTC (4 November Pacific). Tactical guidance, diagrams and hypothetical scenarios are editorial interpretations of the kits, not Riot recommendations or win-rate predictions. Check current in-game tooltips for numbers and changes.</p><div class="guide-links">${sources.map(c=>`<a href="${esc(c.riotUrl)}">Riot: ${esc(c.title)}</a><a href="${esc(c.source)}">${esc(c.title)} ability source</a>`).join('')}</div></section>`;
  }else if(detail)body=`<p>This guide is not in the collection.</p><a href="#/${mode}">Browse ${mode}</a>`;
  else body=`<p class="lead">${mode==='champions'?'Choose a champion to connect their kit to practical learning exercises.':'Choose a pair to practise reading the lane from both sides.'}</p><p>${mode==='champions'?'The complete verified roster has '+items.length+' guides, each with playstyle, strengths, weaknesses, a teamfight plan and a replay exercise.':'This starter matchup collection has '+items.length+' guides.'}</p>${guideLinks(items)}`;
- $('#content').innerHTML=`<article class="article"><div class="eyebrow">${mode==='champions'?'Champions / '+CHAMPIONS.length+' guides':'Matchups / Starter collection'}</div><h1 tabindex="-1">${esc(title)}</h1>${body}</article>`;
+ $('#content').innerHTML=`<article class="article"><div class="eyebrow">${mode==='champions'?'Champions / '+CHAMPIONS.length+' guides':'Matchups / Starter collection'}</div>${a&&mode==='champions'?`<div class="title-row">${avatar(a)}<h1 tabindex="-1">${esc(title)}</h1></div>`:`<h1 tabindex="-1">${esc(title)}</h1>`}${body}</article>`;
  document.title=title+' — League.guide';document.body.dataset.view=detail?'article':'list';
  if(a&&!matchesGuide(a,directoryQueries[mode]||''))directoryQueries[mode]='';
  updateIndex();
@@ -49,6 +51,7 @@ function renderDirectory(state,initial){
 }
 // App initialization follows this script and supplies the shared navigation helpers.
 document.addEventListener('DOMContentLoaded',()=>{
+ document.querySelector('#content').addEventListener('click',e=>{const b=e.target.closest('[data-jump]');if(!b)return;const t=document.getElementById('cg-'+b.dataset.jump);if(!t)return;t.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});document.querySelectorAll('[data-jump]').forEach(x=>x.setAttribute('aria-current',x===b));});
  document.querySelector('#directory-search').oninput=e=>{directoryQueries[indexMode()]=e.target.value;updateIndex();save();};
  document.querySelector('#directory-reset').onclick=()=>{directoryQueries[indexMode()]='';updateIndex();$('#directory-search').focus();save();};
 });
