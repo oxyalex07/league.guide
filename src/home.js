@@ -3,7 +3,7 @@
 const ROLES=['Mage','Fighter','Assassin','Tank','Support','Marksman'];
 let champFilter={q:'',role:'All',kind:'All'};
 
-function homeMode(){const h=location.hash;return h===''||h==='#/'||h==='#/home'?'home':h==='#/champions'?'grid':h==='#/matchups'?'mlist':h==='#/glossary'?'glossary':null;}
+function homeMode(){const h=location.hash;return h===''||h==='#/'||h==='#/home'?'home':h==='#/champions'?'grid':h==='#/matchups'?'mlist':h==='#/glossary'?'glossary':h==='#/dashboard'?'dashboard':null;}
 
 function avatar(c){return `<span class="avatar" data-role="${esc(c.tags[0]||'Mage')}" aria-hidden="true">${esc(c.title[0])}</span>`;}
 
@@ -60,6 +60,8 @@ function homeHtml(){
   <div class="champ-grid compact home-champs">${starters.map(championCard).join('')}</div>
  </section>
 
+ <section class="dash-teaser" aria-labelledby="dt-h"><div><p class="eyebrow">Your dashboard</p><h2 id="dt-h">Track your games and see what to practise</h2><p class="sec-lead">Log CS at 10, deaths and vision after each game, rate your skills, and get lesson suggestions based on your own goals. Stored only in this browser.</p></div><a class="btn primary" href="#/dashboard">Open my dashboard →</a></section>
+
  <section aria-labelledby="mu-h">
   <div class="sec-head"><div><p class="eyebrow">Matchups</p><h2 id="mu-h">Study both sides of a lane</h2></div><a href="#/matchups">All matchups →</a></div>
   <div class="mu-grid">${MATCHUPS.map(m=>`<a class="mu-card" href="#/matchup/${m.slug}"><strong>${esc(m.title)}</strong><small>${esc(m.kind)}</small><span>${esc(m.summary)}</span></a>`).join('')}</div>
@@ -98,10 +100,10 @@ function paintGrid(){
 
 function renderHome(state,initial){
  const mode=homeMode();if(!mode)return false;
- $('#content').innerHTML=mode==='home'?homeHtml():mode==='grid'?gridHtml():mode==='glossary'?glossaryHtml():matchupsHtml();
+ if(mode==='dashboard'){renderDash();}else $('#content').innerHTML=mode==='home'?homeHtml():mode==='grid'?gridHtml():mode==='glossary'?glossaryHtml():matchupsHtml();
  document.body.dataset.view=mode==='home'?'home':'grid';
- document.title=mode==='home'?'League.guide — Learn League of Legends by practising decisions':mode==='grid'?'Champion guides — League.guide':mode==='glossary'?'Glossary — League.guide':'Matchup studies — League.guide';
- const navKey={grid:'champions',mlist:'matchups',glossary:'glossary'}[mode];document.querySelectorAll('[data-index]').forEach(a=>{if(a.dataset.index===navKey)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
+ document.title=mode==='home'?'League.guide — Learn League of Legends by practising decisions':mode==='grid'?'Champion guides — League.guide':mode==='glossary'?'Glossary — League.guide':mode==='dashboard'?'My dashboard — League.guide':'Matchup studies — League.guide';
+ const navKey={grid:'champions',mlist:'matchups',glossary:'glossary',dashboard:'dashboard'}[mode];document.querySelectorAll('[data-index]').forEach(a=>{if(a.dataset.index===navKey)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
  if(mode==='grid'){
   paintGrid();
   $('#cg-q').oninput=e=>{champFilter.q=e.target.value;paintGrid();};
@@ -110,6 +112,7 @@ function renderHome(state,initial){
  }
  window.scrollTo(0,0);
  if(!initial)$('#content h1').focus({preventScroll:true});
+ const cur=document.querySelector('.topnav [aria-current]');if(cur)cur.scrollIntoView({block:'nearest',inline:'nearest'});
  return true;
 }
 
@@ -129,6 +132,7 @@ function buildIndex(){return [
  ...LESSONS.map(a=>({type:'Lesson',title:a.title,sub:a.summary,href:'#/lesson/'+a.slug,key:searchKey(a.title+' '+a.aliases.join(' ')),body:searchKey(a.summary+' '+a.category)})),
  ...CHAMPIONS.map(c=>({type:'Champion',title:c.title,sub:c.kind+' · '+c.tags.join(', '),href:'#/champion/'+c.slug,key:searchKey(c.title),body:searchKey(c.kind+' '+c.tags.join(' ')+' '+c.abilities.map(a=>a.name).join(' ')),c})),
  ...GLOSSARY.map(([t,d,l])=>({type:'Term',title:t,sub:d,href:'#/lesson/'+l,key:searchKey(t),body:searchKey(d)})),
+ {type:'Page',title:'My dashboard',sub:'Log games, set goals, rate skills',href:'#/dashboard',key:searchKey('dashboard stats profile'),body:searchKey('cs deaths vision goals log games')},
  ...MATCHUPS.map(m=>({type:'Matchup',title:m.title,sub:m.summary,href:'#/matchup/'+m.slug,key:searchKey(m.title),body:searchKey(m.summary)}))];}
 function searchAll(q){
  searchIndex=searchIndex||buildIndex();
