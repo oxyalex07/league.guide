@@ -52,6 +52,10 @@ The left sidebar has eight numbered expandable stages, with 56 lessons nested in
 
 `content/path.json` defines the curriculum. The builder checks that every concept appears exactly once and every named prerequisite in `content/prerequisites.json` comes earlier in the path. See CURRICULUM-REVIEW.md for the full before/after audit. Stage order and checkpoints are editorial teaching proposals, not a validated course or rank guarantee.
 
+## Role cheat sheets
+
+`content/roles/` holds one long article per position (top, jungle, mid, bot, support) in the lesson Markdown format, plus front-matter lines for the summary, starter champions and key lesson IDs. `build.py` renders them into `dist/roles.js`, checks that every key lesson and starter champion exists, and `verify_content.py` compares their text exactly like the lessons. `src/rolepage.js` renders `#/roles` and `#/role/<slug>`.
+
 ## Dark mode and stage quizzes
 
 Use the header theme button to switch light and dark modes. The initial theme follows your system; explicit choices persist in browser storage when available. Dark mode uses neutral charcoal surfaces. Diagrams follow the selected theme with dark backgrounds and high-contrast labels. Each of the eight stages ends with a worked scenario, replay drill and three-question quiz. Find these on the stage’s last lesson or the path overview. Check all three answers to get a score, explanations and review links. Retry clears that stage’s attempt; practice progress is separate. Latest checked answers persist locally with a page-memory fallback. See STAGE-QUIZZES.md for the full new material and answer key. Run `node verify_learning_upgrade.cjs` for feature checks.

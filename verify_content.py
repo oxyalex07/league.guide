@@ -8,8 +8,10 @@ class Text(HTMLParser):
  def handle_data(self,s): self.parts.append(s)
 def norm(s):return re.sub(r'\s+','',s).strip()
 checks=[]
-for a in lessons:
- source=next((root/'content/articles').glob('*/'+a['file'])).read_text()
+roles=json.loads((root/'dist/roles.js').read_text()[19:].strip().removesuffix(';'))
+for a in lessons+roles:
+ source=(root/'content/roles'/a['file']).read_text() if a in roles else next((root/'content/articles').glob('*/'+a['file'])).read_text()
+ a.setdefault('id','role:'+a.get('slug',''))
  assert hashlib.sha256(source.encode()).hexdigest()==a['sha256']
  body=source[source.index('## Short answer'):]
  body=re.sub(r'<!--.*?-->','',body,flags=re.S)

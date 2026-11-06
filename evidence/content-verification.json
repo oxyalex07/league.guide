@@ -64,5 +64,10 @@
   "MI25: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
   "MI26: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
   "MI27: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
-  "MI28: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded"
+  "MI28: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "role:top: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "role:jungle: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "role:mid: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "role:bot: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded",
+  "role:support: exact ordered body text, captions, source notes preserved; links mapped; input SHA-256 recorded"
 ]

@@ -53,6 +53,12 @@ function homeHtml(){
   <div class="stage-grid">${stageStats().map(({s,i,done:d,total,next:n})=>`<a class="stage-card" href="#/lesson/${n.slug}"><span class="sc-num">${i+1}</span><strong>${esc(s.title)}</strong><span class="sc-goal">${esc(s.goal)}</span><span class="sc-meta">${d} of ${total} practised</span><span class="sc-bar" style="--p:${Math.round(d/total*100)}%"></span></a>`).join('')}</div>
  </section>
 
+ <section aria-labelledby="role-h">
+  <div class="sec-head"><div><p class="eyebrow">Roles</p><h2 id="role-h">A cheat sheet for every role</h2></div><a href="#/roles">Compare all roles →</a></div>
+  <p class="sec-lead">Everything one position asks of you, on one page: your jobs, each phase of the game, what to track and how to practise.</p>
+  <div class="role-grid">${ROLE_GUIDES.map(roleCard).join('')}</div>
+ </section>
+
  <section aria-labelledby="champ-h">
   <div class="sec-head"><div><p class="eyebrow">Champions</p><h2 id="champ-h">Learn through a champion you play</h2></div><a href="#/champions">All ${CHAMPIONS.length} champions →</a></div>
   <p class="sec-lead">Every guide covers playstyle, strengths, weaknesses, a teamfight plan and a replay exercise. Pick a role to filter the list.</p>
@@ -132,6 +138,7 @@ function buildIndex(){return [
  ...LESSONS.map(a=>({type:'Lesson',title:a.title,sub:a.summary,href:'#/lesson/'+a.slug,key:searchKey(a.title+' '+a.aliases.join(' ')),body:searchKey(a.summary+' '+a.category)})),
  ...CHAMPIONS.map(c=>({type:'Champion',title:c.title,sub:c.kind+' · '+c.tags.join(', '),href:'#/champion/'+c.slug,key:searchKey(c.title),body:searchKey(c.kind+' '+c.tags.join(' ')+' '+c.abilities.map(a=>a.name).join(' ')),c})),
  ...GLOSSARY.map(([t,d,l])=>({type:'Term',title:t,sub:d,href:'#/lesson/'+l,key:searchKey(t),body:searchKey(d)})),
+ ...ROLE_GUIDES.map(r=>({type:'Role',title:r.title,sub:r.summary,href:'#/role/'+r.slug,key:searchKey(r.role+' '+r.title+(r.slug==='bot'?' adc marksman':'')),body:searchKey(r.summary+' '+r.where+' '+r.winBy)})),
  {type:'Page',title:'My dashboard',sub:'Log games, set goals, rate skills',href:'#/dashboard',key:searchKey('dashboard stats profile'),body:searchKey('cs deaths vision goals log games')},
  ...MATCHUPS.map(m=>({type:'Matchup',title:m.title,sub:m.summary,href:'#/matchup/'+m.slug,key:searchKey(m.title),body:searchKey(m.summary)}))];}
 function searchAll(q){

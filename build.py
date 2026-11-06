@@ -32,8 +32,8 @@ def inline(s):
  s=re.sub(r'\*\*(.+?)\*\*',r'<strong>\1</strong>',s)
  s=re.sub(r'\*([^*]+)\*',r'<em>\1</em>',s)
  return s
-for a in lessons:
- s=a['source'];body=s[s.index('## Short answer'):];blocks=re.split(r'\n\s*\n',body.strip());out=[];opened=False
+def to_html(body,stem):
+ blocks=re.split(r'\n\s*\n',body.strip());out=[];opened=False
  for block in blocks:
   if block.startswith('## '):
    if opened:out.append('</section>')
@@ -45,7 +45,7 @@ for a in lessons:
    out.append('<div class="widget" data-widget="'+name+'"></div>')
   elif '<!-- Figure:' in block:
    m=re.search(r'!\[([^\]]+)\]\(([^)]+)\)',block);assert m
-   stem=a['id'].lower();out.append('<figure><picture><source media="(max-width: 760px)" srcset="assets/'+stem+'-mobile.svg"><img src="assets/'+stem+'-desktop.svg" alt="'+html.escape(m[1],quote=True)+'" loading="lazy"></picture>')
+   out.append('<figure><picture><source media="(max-width: 760px)" srcset="assets/'+stem+'-mobile.svg"><img src="assets/'+stem+'-desktop.svg" alt="'+html.escape(m[1],quote=True)+'" loading="lazy"></picture>')
   elif block.startswith('*') and out[-1].startswith('<figure>'):
    out.append('<figcaption>'+inline(block)+'</figcaption></figure>')
   elif re.match(r'^\d+\. ',block):
@@ -53,7 +53,9 @@ for a in lessons:
   elif block.startswith('- '):
    out.append('<ul>'+''.join('<li>'+inline(line[2:])+'</li>' for line in block.splitlines())+'</ul>')
   else:out.append('<p>'+inline(block.replace('\n',' '))+'</p>')
- out.append('</section>');a['html']=''.join(out);a['search']=a['source'];a['minutes']=max(1,round(len(s.split())/220));a['sha256']=hashlib.sha256(s.encode()).hexdigest();del a['source']
+ out.append('</section>');return ''.join(out)
+for a in lessons:
+ s=a['source'];a['html']=to_html(s[s.index('## Short answer'):],a['id'].lower());a['search']=a['source'];a['minutes']=max(1,round(len(s.split())/220));a['sha256']=hashlib.sha256(s.encode()).hexdigest();del a['source']
 shutil.copytree(ROOT/'content/articles/visuals/assets',OUT/'assets',dirs_exist_ok=True)
 # Embedded SVG media queries inherit the host image's CSS color-scheme, so
 # manual theme changes and the system default both update figures immediately.
@@ -97,5 +99,21 @@ for stage in stages:
   assert q['prompt'] and q['explanation'] and q['review'] in stage['ids']
 (OUT/'path.js').write_text('const LEARNING_PATH = '+json.dumps(stages,ensure_ascii=False)+';\nconst PREREQS = '+json.dumps(prerequisites)+';\n')
 
+# Role cheat sheets: one long article per position, in the same Markdown format as lessons.
+ROLE_ORDER=['top','jungle','mid','bot','support']
+by_id={a['id']:a for a in lessons}
+roles=[]
+for slug in ROLE_ORDER:
+ f=ROOT/'content/roles'/(slug+'.md');s=f.read_text()
+ meta=dict(re.findall(r'^- ([A-Za-z ]+): (.+)$',s[:s.index('\n## ')],re.M))
+ assert meta['Slug']==slug,f
+ keys=[k.strip() for k in meta['Key lessons'].split(',')];assert all(k in by_id for k in keys),f
+ champs=[c.strip() for c in meta['Starter champions'].split(',')]
+ roles.append(dict(slug=slug,file=f.name,role=meta['Role'],title=re.search(r'^# (.+)',s,re.M)[1],summary=meta['Summary'],where=meta['Where you play'],winBy=meta['You win by'],champions=champs,lessons=keys,html=to_html(s[s.index('## Short answer'):],slug),minutes=max(1,round(len(s.split())/220)),sha256=hashlib.sha256(s.encode()).hexdigest()))
+(OUT/'roles.js').write_text('const ROLE_GUIDES = '+json.dumps(roles,ensure_ascii=False).replace('</','<\\/')+';\n')
+print(f'Built {len(roles)} role cheat sheets')
+
 from champions import build_champions
 build_champions(OUT)
+built_champs=set(re.findall(r'"slug":\s*"([^"]+)"',(OUT/'champions.js').read_text()))
+assert all(c in built_champs for r in roles for c in r['champions']),'Unknown starter champion in a role guide'
