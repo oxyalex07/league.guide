@@ -6,33 +6,31 @@ Picks and flank timing
 
 Use terrain routes to approach unseen and plan an exit before the burst. Combine spell hits and an attack to complete the passive sequence.
 
+Assassins win by removing one important enemy quickly, then leaving before the rest of the team can respond. That makes timing more important than raw damage: the same combo that wins a fight after enemy crowd control is spent can lose it when used first. Spend most of a fight threatening, watching and positioning, and only a short moment committing.
+
 ## Strengths
 
 Terrain mobility creates fast flanks and escape routes around small fights.
+
+Use this strength to make the enemy play around you even when you are not attacking. A carry who must stand further back, or a support who must stay beside them, is already giving your team space. When you do enter, choose a target your damage can actually finish and keep part of your movement for the exit.
 
 ## Weaknesses and how to respond
 
 Used terrain and exposed approaches reduce options. Check which walls remain useful before committing to a chase.
 
-## Before the teamfight
+Most assassin deaths come from entering too early or staying too long. Before you commit, name the enemy ability that would stop you; if it is still available, wait or pressure someone else. If the attempt fails, leave immediately rather than spending the rest of your cooldowns to rescue it.
 
-Find the enemy protection spell that prevents your kill and a route back after the attempt. Approach through checked cover; being unseen is useful only if the landing is safe.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Find the enemy protection spell that prevents your kill and a route back after the attempt. Approach through checked cover; being unseen is useful only if the landing is safe.
 
-Wait for a vulnerable enemy on the edge, then use the ultimate and terrain to enter and leave quickly. Do not linger in the enemy formation after the first sequence.
+2. **Your Talon plan.** Wait for a vulnerable enemy on the edge, then use the ultimate and terrain to enter and leave quickly. Do not linger in the enemy formation after the first sequence.
 
-## During the fight
+3. **During the fight.** Enter when allied pressure divides attention or a key response is unavailable. After the first damage sequence, leave or change angle rather than remaining exposed while waiting for cooldowns.
 
-Enter when allied pressure divides attention or a key response is unavailable. After the first damage sequence, leave or change angle rather than remaining exposed while waiting for cooldowns.
+4. **When behind or out of reach.** Help finish targets already damaged by allies and threaten an edge without forcing entry. Avoid spending the whole fight waiting for a solo kill that your damage cannot secure.
 
-## When behind or unable to reach your target
-
-Help finish targets already damaged by allies and threaten an edge without forcing entry. Avoid spending the whole fight waiting for a solo kill that your damage cannot secure.
-
-## After the fight
-
-Use the numbers advantage to return to your team and a nearby objective. A second distant target is lower priority if the enemy can collapse on your exit.
+5. **After the fight.** Use the numbers advantage to return to your team and a nearby objective. A second distant target is lower priority if the enemy can collapse on your exit.
 
 ## Teamfight positioning
 

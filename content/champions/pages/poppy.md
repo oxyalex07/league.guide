@@ -6,33 +6,31 @@ Protection and counter-engage
 
 Use the buckler and wall threat to control nearby space. Preserve Steadfast Presence for a dash that changes the fight.
 
+Protective champions keep allies alive and stop enemies who try to reach them. Your value comes from the damage your teammates deal because you kept them safe. Stay close enough to help, but not so close that one enemy ability catches both of you.
+
 ## Strengths
 
 Anti-dash control and displacement can deny a planned engage.
+
+Use this strength by staying near the ally most likely to win the fight and saving your best tool for the enemy most likely to kill them. Shields, heals and crowd control are strongest at the moment an enemy commits. A well-timed save can turn a lost fight into a win.
 
 ## Weaknesses and how to respond
 
 Wall angles are not always available. Do not charge an enemy away from allied damage just to use the ability.
 
-## Before the teamfight
+The usual weakness is spending your tools too early or on the wrong threat. Watch for the second attacker after the first one, and keep something for them. If an ally is too far ahead to save, protect the rest of the team rather than following them into a loss.
 
-Identify which ally is most able to keep dealing damage and which enemy can reach them. Position within support range without standing in the same exposed line.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Identify which ally is most able to keep dealing damage and which enemy can reach them. Position within support range without standing in the same exposed line.
 
-Stand between a diving champion and your carry. Stop the dash, stun against terrain when available, or use the ultimate to remove enemies from the contest.
+2. **Your Poppy plan.** Stand between a diving champion and your carry. Stop the dash, stun against terrain when available, or use the ultimate to remove enemies from the contest.
 
-## During the fight
+3. **During the fight.** Use your response when the threatening action begins, then move with the protected ally. Watch for a second attacker instead of spending every tool on the first one.
 
-Use your response when the threatening action begins, then move with the protected ally. Watch for a second attacker instead of spending every tool on the first one.
+4. **When behind or out of reach.** Protect the ally with a real escape route. Use control and shields to leave bad ground together; saving one teammate does not require walking into an unwinnable follow-up.
 
-## When behind or unable to reach your target
-
-Protect the ally with a real escape route. Use control and shields to leave bad ground together; saving one teammate does not require walking into an unwinnable follow-up.
-
-## After the fight
-
-Stay with the allies who remain vulnerable. Check health and available defensive spells before escorting them through an unwarded route.
+5. **After the fight.** Stay with the allies who remain vulnerable. Check health and available defensive spells before escorting them through an unwarded route.
 
 ## Teamfight positioning
 

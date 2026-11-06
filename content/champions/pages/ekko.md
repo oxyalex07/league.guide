@@ -6,33 +6,31 @@ Picks and flank timing
 
 Use Timewinder and attacks to trigger short bursts, then move away. Set Parallel Convergence where the fight will be, not where it was.
 
+Assassins win by removing one important enemy quickly, then leaving before the rest of the team can respond. That makes timing more important than raw damage: the same combo that wins a fight after enemy crowd control is spent can lose it when used first. Spend most of a fight threatening, watching and positioning, and only a short moment committing.
+
 ## Strengths
 
 Burst, delayed control and a return tool enable repeated attempts.
+
+Use this strength to make the enemy play around you even when you are not attacking. A carry who must stand further back, or a support who must stay beside them, is already giving your team space. When you do enter, choose a target your damage can actually finish and keep part of your movement for the exit.
 
 ## Weaknesses and how to respond
 
 The return point can be watched or become unsafe. Do not treat the ultimate as an unconditional rescue from control.
 
-## Before the teamfight
+Most assassin deaths come from entering too early or staying too long. Before you commit, name the enemy ability that would stop you; if it is still available, wait or pressure someone else. If the attempt fails, leave immediately rather than spending the rest of your cooldowns to rescue it.
 
-Find the enemy protection spell that prevents your kill and a route back after the attempt. Approach through checked cover; being unseen is useful only if the landing is safe.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Find the enemy protection spell that prevents your kill and a route back after the attempt. Approach through checked cover; being unseen is useful only if the landing is safe.
 
-Approach from an angle and threaten the delayed zone. Check the visible return location before committing; Chronobreak can recover position only if that location is useful.
+2. **Your Ekko plan.** Approach from an angle and threaten the delayed zone. Check the visible return location before committing; Chronobreak can recover position only if that location is useful.
 
-## During the fight
+3. **During the fight.** Enter when allied pressure divides attention or a key response is unavailable. After the first damage sequence, leave or change angle rather than remaining exposed while waiting for cooldowns.
 
-Enter when allied pressure divides attention or a key response is unavailable. After the first damage sequence, leave or change angle rather than remaining exposed while waiting for cooldowns.
+4. **When behind or out of reach.** Help finish targets already damaged by allies and threaten an edge without forcing entry. Avoid spending the whole fight waiting for a solo kill that your damage cannot secure.
 
-## When behind or unable to reach your target
-
-Help finish targets already damaged by allies and threaten an edge without forcing entry. Avoid spending the whole fight waiting for a solo kill that your damage cannot secure.
-
-## After the fight
-
-Use the numbers advantage to return to your team and a nearby objective. A second distant target is lower priority if the enemy can collapse on your exit.
+5. **After the fight.** Use the numbers advantage to return to your team and a nearby objective. A second distant target is lower priority if the enemy can collapse on your exit.
 
 ## Teamfight positioning
 

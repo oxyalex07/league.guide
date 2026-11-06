@@ -6,33 +6,31 @@ Initiation and disruption
 
 Use the threat of Rupture to control approaches and layer silence after allies restrict movement. Build durable presence through Feast opportunities.
 
+Engage champions start fights. You decide when and where the team fights by catching an enemy with crowd control or by entering the enemy formation. That power comes with responsibility: an engage is only good if your team can follow it. Before every start, check that your damage dealers are close and ready.
+
 ## Strengths
 
 Multiple forms of disruption and growing durability make him hard to ignore.
+
+Use this strength to choose fights your team wants: an enemy who walked forward alone, a carry without Flash, or a group standing in a narrow area. Even without casting, your threat makes enemies keep their distance. Holding that threat can be as useful as using it.
 
 ## Weaknesses and how to respond
 
 Delayed control can miss mobile targets. Follow allied setup or place it on a necessary route instead of always aiming at current position.
 
-## Before the teamfight
+The usual weakness is engaging when nobody can follow. Look back before you go in and count the allies who can reach the fight within a few seconds. If your engage misses, do not spend your remaining tools chasing; reposition and protect your team instead.
 
-Choose the target and the ally who will follow. Check that this ally is in range, has relevant abilities and is not occupied by a different threat.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Choose the target and the ally who will follow. Check that this ally is in range, has relevant abilities and is not occupied by a different threat.
 
-Stand between the enemy and your damage dealers. Use control on divers, and reserve Feast for a reachable finish or objective decision rather than chasing through the team.
+2. **Your Cho'Gath plan.** Stand between the enemy and your damage dealers. Use control on divers, and reserve Feast for a reachable finish or objective decision rather than chasing through the team.
 
-## During the fight
+3. **During the fight.** After the first control effect, look back at your damage dealers. Chain control on the original target only while the team can use it; otherwise turn toward the enemy reaching your carry.
 
-After the first control effect, look back at your damage dealers. Chain control on the original target only while the team can use it; otherwise turn toward the enemy reaching your carry.
+4. **When behind or out of reach.** Use control to punish an enemy crossing into your team. A defensive catch can be more useful than a long engage that your weaker team cannot finish.
 
-## When behind or unable to reach your target
-
-Use control to punish an enemy crossing into your team. A defensive catch can be more useful than a long engage that your weaker team cannot finish.
-
-## After the fight
-
-Once the target falls or escapes, stop moving forward until you know where the surviving enemies are. Help the team take safe space rather than beginning a second unsupported dive.
+5. **After the fight.** Once the target falls or escapes, stop moving forward until you know where the surviving enemies are. Help the team take safe space rather than beginning a second unsupported dive.
 
 ## Teamfight positioning
 

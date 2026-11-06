@@ -670,3 +670,16 @@ body[data-view=home] .reader,body[data-view=grid] .reader{overflow-x:clip}
 /* Six nav items: tighten them on mid-width screens so the header never overflows. */
 @media(min-width:561px) and (max-width:900px){.topnav{min-width:0;overflow-x:auto;scrollbar-width:none}.topnav a{padding-left:9px;padding-right:9px;font-size:14px}}
 @media(min-width:761px) and (max-width:860px){.topnav a{padding-left:7px;padding-right:7px;font-size:13.5px}.topnav{gap:0}}
+
+/* ---------- Champion teamfight plan (five steps in one section) ---------- */
+.cg-steps{list-style:none;padding:0;margin:18px 0 0;display:grid;gap:10px;counter-reset:cg}
+.cg-steps li{counter-increment:cg;position:relative;padding:14px 16px 14px 56px;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+.cg-steps li:before{content:counter(cg);position:absolute;left:16px;top:14px;width:28px;height:28px;border-radius:50%;background:var(--active);color:var(--active-ink);font:800 14px/28px system-ui;text-align:center}
+.cg-steps li:not(:last-child):after{content:"";position:absolute;left:29px;top:46px;bottom:-11px;width:2px;background:var(--line)}
+.cg-steps h3{margin:2px 0 4px;font-size:16px}
+.article .cg-steps p{margin:0;font-size:15.5px;line-height:1.55}
+.cg-steps .cg-own{border-color:var(--blue);background:var(--tint)}
+.cg-steps .cg-own:before{background:var(--blue);color:var(--accent-ink)}
+.article ol.cg-steps{padding-left:0;margin-left:0}
+.article .cg-steps>li{margin:0}
+.cg-steps li:not(:last-child):after{display:none}

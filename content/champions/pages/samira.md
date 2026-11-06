@@ -6,33 +6,31 @@ Dueling and selective entry
 
 Build Style by varying attacks and abilities while staying alive. Wait for allied control and an entry window rather than rushing to the ultimate.
 
+Duelists are strongest in one-versus-one fights and often scale into dangerous side-lane threats. Your pressure makes the enemy send someone to stop you, which can give your team a numbers advantage elsewhere. In grouped fights you usually want an edge position where you can reach a target without being the first one hit.
+
 ## Strengths
 
 Combo-driven area damage can clean up a clustered, damaged team.
+
+Use this strength by creating situations the enemy must answer: a side lane that needs a defender, or a flank that threatens their carry. Pick fights where you can isolate one target. When the enemy commits several players to stop you, ping it and make sure your team uses the time to take something.
 
 ## Weaknesses and how to respond
 
 Entering before Style and safety are ready invites control. Do not assume projectile defense stops every form of disruption.
 
-## Before the teamfight
+The weakness is getting caught alone or stopped by crowd control before you can fight. Push side lanes only when you know where the enemy team is, and leave before several enemies can reach you. In grouped fights, wait for the key crowd control to be used before entering.
 
-Compare side-lane pressure with joining the team. If grouping, identify which enemy control must be used before you can safely maintain close contact.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Compare side-lane pressure with joining the team. If grouping, identify which enemy control must be used before you can safely maintain close contact.
 
-Follow a disabled target, use Blade Whirl against a meaningful projectile response and start Inferno Trigger when interruption is less likely. Reassess each reset dash.
+2. **Your Samira plan.** Follow a disabled target, use Blade Whirl against a meaningful projectile response and start Inferno Trigger when interruption is less likely. Reassess each reset dash.
 
-## During the fight
+3. **During the fight.** Fight a reachable target and preserve the movement or defense needed for the response. Shift deeper only after your team creates a clear advantage.
 
-Fight a reachable target and preserve the movement or defense needed for the response. Shift deeper only after your team creates a clear advantage.
+4. **When behind or out of reach.** Avoid an isolated duel that the enemy can easily win. Catch safe resources and group for defensive control or a coordinated finish when side pressure is no longer safe.
 
-## When behind or unable to reach your target
-
-Avoid an isolated duel that the enemy can easily win. Catch safe resources and group for defensive control or a coordinated finish when side pressure is no longer safe.
-
-## After the fight
-
-Choose between regrouping and a safe side-lane objective. Account for missing enemies before converting a skirmish win into a solo chase.
+5. **After the fight.** Choose between regrouping and a safe side-lane objective. Account for missing enemies before converting a skirmish win into a solo chase.
 
 ## Teamfight positioning
 

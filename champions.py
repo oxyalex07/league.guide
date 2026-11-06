@@ -2,7 +2,7 @@
 from pathlib import Path
 import json, re, html
 from champion_diagrams import special_diagram
-from champion_depth import extended_sections, DEPTH, COMMON
+from champion_depth import extended_sections, DEPTH, COMMON, OVERVIEW
 ROOT=Path(__file__).resolve().parent
 DATA=ROOT/'content/champions'
 # These teaching patterns supplement each champion's individually written decisions.
@@ -88,12 +88,17 @@ def build_champions(out):
   glance='<div class="champ-glance"><div><h3>Leans on</h3><p>'+html.escape(strong)+'</p></div><div><h3>Watch for</h3><p>'+html.escape(weak)+'</p></div><div><h3>Core plan</h3><p>'+html.escape(fight)+'</p></div></div>'
   jump='<nav class="champ-jump" aria-label="On this page"><button type="button" data-jump="overview">Overview</button><button type="button" data-jump="fight">Teamfight</button><button type="button" data-jump="game">Across the game</button><button type="button" data-jump="practice">Practice</button></nav>'
   c['html']=hero+glance+jump
-  c['html']+=band('overview','Overview','Who this champion is and what to be careful of.')+''.join(sec(h,t) for h,t in sections[:3])
-  c['html']+=band('fight','Teamfight','Before, during and after the fight, plus a positioning sketch.')+''.join(sec(h,t) for h,t in sections[3:])+fig
+  ov=OVERVIEW[pattern]
+  def sec2(h,t,more):return f'<section><h2>{html.escape(h)}</h2><p>{html.escape(t)}</p><p>{html.escape(more)}</p></section>'
+  c['html']+=band('overview','Overview','Who this champion is and what to be careful of.')+sec2(*sections[0],ov['play'])+sec2(*sections[1],ov['strong'])+sec2(*sections[2],ov['weak'])
+  steps=[('Before the fight',p['before']),('Your '+raw['name']+' plan',fight),('During the fight',p['during']),('When behind or out of reach',p['behind']),('After the fight',p['after'])]
+  plan='<section class="cg-plan"><h2>Teamfight plan</h2><p>Work through a fight in five steps. Step 2 is specific to '+html.escape(raw['name'])+'; the other steps apply to any champion with the same playstyle ('+html.escape(p['label'].lower())+').</p><ol class="cg-steps">'+''.join(('<li class="cg-own">' if i==1 else '<li>')+f'<h3>{html.escape(h)}</h3><p>{html.escape(t)}</p></li>' for i,(h,t) in enumerate(steps))+'</ol></section>'
+  c['html']+=band('fight','Teamfight','Before, during and after the fight, plus a positioning sketch.')+plan+fig
   c['html']+=band('game','Across the game','How the plan changes by phase and game state.')+''.join(sec(h,t) for h,t in phase)
   c['html']+=band('practice','Practice','Turn the plan into decisions you can rehearse and review.')+river+''.join(sec(h,t) for h,t in worked+common)
   # Standalone reading copies preserve the complete editorial guide.
-  md=f'# {c["title"]}\n\n{c["kind"]}\n\n'+ '\n\n'.join('## '+h+'\n\n'+t for h,t in sections)
+  md=f'# {c["title"]}\n\n{c["kind"]}\n\n'+ '\n\n'.join('## '+h+'\n\n'+t+'\n\n'+more for (h,t),more in zip(sections[:3],[ov['play'],ov['strong'],ov['weak']]))
+  md+='\n\n## Teamfight plan\n\n'+'\n\n'.join(f'{i+1}. **{h}.** {t}' for i,(h,t) in enumerate(steps))
   md+='\n\n## Teamfight positioning\n\n'+caption+'\n\n![Teamfight positioning for '+c['title']+'](diagrams/'+slug+'.svg)\n\n## Apply it: a river contest\n\n'+c['scenario']
   md+='\n\n'+'\n\n'.join('## '+h+'\n\n'+t for h,t in depth_sections)
   md+='\n\n## Replay exercise\n\n'+c['drill']

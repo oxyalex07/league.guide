@@ -6,33 +6,31 @@ Sustained melee pressure
 
 Keep movement available through repeated spell hits and use the outer swing to pressure. Work around the edge of melee range.
 
+Bruisers are melee fighters who are durable enough to stay in contact but not so durable that they can ignore the enemy team. You win longer fights at close range, so your job is to choose fights where you can keep contact and to leave the ones where you cannot. Health, cooldowns and allied support all decide how long you can stay.
+
 ## Strengths
 
 Movement and multi-target sleep can turn scattered contact into a coordinated fight.
+
+Use this strength in extended fights near your team, where the enemy cannot easily walk away from you. Pressure the closest valuable target, and make the enemy carry decide between running from you or staying to fight. A bruiser who keeps contact for the whole fight often deals more damage than any single burst.
 
 ## Weaknesses and how to respond
 
 She must expose herself to apply effects. Do not run through the whole team solely to add one more sleep target.
 
-## Before the teamfight
+The usual weakness is being kited or focused before reaching anyone useful. Approach from cover, with allies, or after key slows and crowd control are used. If enemies spread out or keep moving away, stop chasing and return to protect your team rather than following them alone.
 
-Name a reachable first target and the enemy spell that could stop your contact. Approach beside allied pressure or through cover rather than absorbing the entire enemy opening alone.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Name a reachable first target and the enemy spell that could stop your contact. Approach beside allied pressure or through cover rather than absorbing the entire enemy opening alone.
 
-Apply Dream Dust to useful targets before the ultimate. Signal the sleep window so allies can prepare damage instead of taking an uncoordinated early hit.
+2. **Your Lillia plan.** Apply Dream Dust to useful targets before the ultimate. Signal the sleep window so allies can prepare damage instead of taking an uncoordinated early hit.
 
-## During the fight
+3. **During the fight.** Keep contact only while your damage, defensive window and allied support overlap. Between spell cycles, move toward your team if the target leaves useful range.
 
-Keep contact only while your damage, defensive window and allied support overlap. Between spell cycles, move toward your team if the target leaves useful range.
+4. **When behind or out of reach.** Take shorter contact windows and help stop a diver. Your control and body position can still help even when you cannot survive an extended duel.
 
-## When behind or unable to reach your target
-
-Take shorter contact windows and help stop a diver. Your control and body position can still help even when you cannot survive an extended duel.
-
-## After the fight
-
-Recheck health, resources and the next defensive cooldown. Winning the first exchange does not mean you can safely chase across the next screen.
+5. **After the fight.** Recheck health, resources and the next defensive cooldown. Winning the first exchange does not mean you can safely chase across the next screen.
 
 ## Teamfight positioning
 

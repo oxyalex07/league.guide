@@ -6,33 +6,31 @@ Initiation and disruption
 
 Use disguise and vision gaps to create uncertainty while managing waves with spells. Plan the approach before relying on surprise.
 
+Engage champions start fights. You decide when and where the team fights by catching an enemy with crowd control or by entering the enemy formation. That power comes with responsibility: an engage is only good if your team can follow it. Before every start, check that your damage dealers are close and ready.
+
 ## Strengths
 
 Disguise and area control can reward preparation with a strong teamfight entry.
+
+Use this strength to choose fights your team wants: an enemy who walked forward alone, a carry without Flash, or a group standing in a narrow area. Even without casting, your threat makes enemies keep their distance. Holding that threat can be as useful as using it.
 
 ## Weaknesses and how to respond
 
 Surprise fades once spotted. Do not continue the same approach after opponents have moved back and prepared a response.
 
-## Before the teamfight
+The usual weakness is engaging when nobody can follow. Look back before you go in and count the allies who can reach the fight within a few seconds. If your engage misses, do not spend your remaining tools chasing; reposition and protect your team instead.
 
-Choose the target and the ally who will follow. Check that this ally is in range, has relevant abilities and is not occupied by a different threat.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Choose the target and the ally who will follow. Check that this ally is in range, has relevant abilities and is not occupied by a different threat.
 
-Reach a useful group for Pop Blossom through cover or allied setup. Layer the root so enemies have less freedom to leave the ultimate area.
+2. **Your Neeko plan.** Reach a useful group for Pop Blossom through cover or allied setup. Layer the root so enemies have less freedom to leave the ultimate area.
 
-## During the fight
+3. **During the fight.** After the first control effect, look back at your damage dealers. Chain control on the original target only while the team can use it; otherwise turn toward the enemy reaching your carry.
 
-After the first control effect, look back at your damage dealers. Chain control on the original target only while the team can use it; otherwise turn toward the enemy reaching your carry.
+4. **When behind or out of reach.** Use control to punish an enemy crossing into your team. A defensive catch can be more useful than a long engage that your weaker team cannot finish.
 
-## When behind or unable to reach your target
-
-Use control to punish an enemy crossing into your team. A defensive catch can be more useful than a long engage that your weaker team cannot finish.
-
-## After the fight
-
-Once the target falls or escapes, stop moving forward until you know where the surviving enemies are. Help the team take safe space rather than beginning a second unsupported dive.
+5. **After the fight.** Once the target falls or escapes, stop moving forward until you know where the surviving enemies are. Help the team take safe space rather than beginning a second unsupported dive.
 
 ## Teamfight positioning
 

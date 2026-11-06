@@ -19,7 +19,7 @@ const evidence=[];function ok(v,s){if(!v)throw Error(s);evidence.push(s)}
     const a=document.querySelector('.article');const text=a.innerText;
     const diagram=a.querySelector('svg[role=img]');
     return {
-     sections:['Playstyle','Strengths','Weaknesses and how to respond','Before the teamfight','Your champion-specific teamfight plan','During the fight','When behind or unable to reach your target','After the fight','Teamfight positioning','Replay exercise','Sources and scope'].every(h=>Array.from(a.querySelectorAll('h2')).some(e=>e.textContent===h)),
+     sections:['Playstyle','Strengths','Weaknesses and how to respond','Teamfight plan','Teamfight positioning','Replay exercise','Sources and scope'].every(h=>Array.from(a.querySelectorAll('h2')).some(e=>e.textContent===h)),
      words:text.split(/\s+/).length,
      sources:a.querySelectorAll('a[href^="https://ddragon.leagueoflegends.com/"]').length,
      diagram:!!diagram?.querySelector('title')&&!!diagram?.querySelector('desc'),

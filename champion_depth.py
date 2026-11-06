@@ -79,3 +79,41 @@ def extended_sections(c, decision):
     sections.insert(2, ('Worked decision: when the first plan changes', 'Hypothetical practice situation. ' + decision))
     sections += COMMON
     return sections
+
+
+# Second paragraphs for the three overview sections, by playstyle. They explain what the
+# champion-specific note means in practice, so no overview section is a single sentence.
+OVERVIEW = {
+'assassin': dict(
+ play='Assassins win by removing one important enemy quickly, then leaving before the rest of the team can respond. That makes timing more important than raw damage: the same combo that wins a fight after enemy crowd control is spent can lose it when used first. Spend most of a fight threatening, watching and positioning, and only a short moment committing.',
+ strong='Use this strength to make the enemy play around you even when you are not attacking. A carry who must stand further back, or a support who must stay beside them, is already giving your team space. When you do enter, choose a target your damage can actually finish and keep part of your movement for the exit.',
+ weak='Most assassin deaths come from entering too early or staying too long. Before you commit, name the enemy ability that would stop you; if it is still available, wait or pressure someone else. If the attempt fails, leave immediately rather than spending the rest of your cooldowns to rescue it.'),
+'marksman': dict(
+ play='Marksmen provide steady damage over the whole fight rather than one burst. Your value grows with every second you stay alive and attacking, so position is your most important stat. Think of each fight as a series of attacks from safe spots, with short moves in between, rather than one big moment.',
+ strong='Turn this strength into an advantage by hitting whatever you can reach safely, usually the nearest enemy. Sustained damage on the frontline still wins fights because it forces enemies to commit early or retreat. Let your team create the openings; you make sure every opening costs the enemy health.',
+ weak='Your main risk is being reached. Track the enemies who can dash, pull or flank onto you, and keep allies or distance between you and them. If one of them is missing, play further back until you know where they are. Surviving with less damage is better than dying with a little more.'),
+'bruiser': dict(
+ play='Bruisers are melee fighters who are durable enough to stay in contact but not so durable that they can ignore the enemy team. You win longer fights at close range, so your job is to choose fights where you can keep contact and to leave the ones where you cannot. Health, cooldowns and allied support all decide how long you can stay.',
+ strong='Use this strength in extended fights near your team, where the enemy cannot easily walk away from you. Pressure the closest valuable target, and make the enemy carry decide between running from you or staying to fight. A bruiser who keeps contact for the whole fight often deals more damage than any single burst.',
+ weak='The usual weakness is being kited or focused before reaching anyone useful. Approach from cover, with allies, or after key slows and crowd control are used. If enemies spread out or keep moving away, stop chasing and return to protect your team rather than following them alone.'),
+'duelist': dict(
+ play='Duelists are strongest in one-versus-one fights and often scale into dangerous side-lane threats. Your pressure makes the enemy send someone to stop you, which can give your team a numbers advantage elsewhere. In grouped fights you usually want an edge position where you can reach a target without being the first one hit.',
+ strong='Use this strength by creating situations the enemy must answer: a side lane that needs a defender, or a flank that threatens their carry. Pick fights where you can isolate one target. When the enemy commits several players to stop you, ping it and make sure your team uses the time to take something.',
+ weak='The weakness is getting caught alone or stopped by crowd control before you can fight. Push side lanes only when you know where the enemy team is, and leave before several enemies can reach you. In grouped fights, wait for the key crowd control to be used before entering.'),
+'engage': dict(
+ play='Engage champions start fights. You decide when and where the team fights by catching an enemy with crowd control or by entering the enemy formation. That power comes with responsibility: an engage is only good if your team can follow it. Before every start, check that your damage dealers are close and ready.',
+ strong='Use this strength to choose fights your team wants: an enemy who walked forward alone, a carry without Flash, or a group standing in a narrow area. Even without casting, your threat makes enemies keep their distance. Holding that threat can be as useful as using it.',
+ weak='The usual weakness is engaging when nobody can follow. Look back before you go in and count the allies who can reach the fight within a few seconds. If your engage misses, do not spend your remaining tools chasing; reposition and protect your team instead.'),
+'protect': dict(
+ play='Protective champions keep allies alive and stop enemies who try to reach them. Your value comes from the damage your teammates deal because you kept them safe. Stay close enough to help, but not so close that one enemy ability catches both of you.',
+ strong='Use this strength by staying near the ally most likely to win the fight and saving your best tool for the enemy most likely to kill them. Shields, heals and crowd control are strongest at the moment an enemy commits. A well-timed save can turn a lost fight into a win.',
+ weak='The usual weakness is spending your tools too early or on the wrong threat. Watch for the second attacker after the first one, and keep something for them. If an ally is too far ahead to save, protect the rest of the team rather than following them into a loss.'),
+'control': dict(
+ play='Control mages shape fights with area spells, slows and crowd control. You decide which spaces are safe for the enemy to walk through. Your damage is high when enemies have to stand in your zones, and much lower when they can walk around them.',
+ strong='Use this strength before objectives and in narrow areas such as jungle entrances and river paths. Place spells where enemies must move, not only where they are standing now. Holding a zone that the enemy refuses to enter still helps your team, even if your spells deal little damage.',
+ weak='The main weakness is being reached by divers while your spells are on cooldown. Keep one defensive spell or a clear exit for the enemy who can bypass your zone. Stand behind your frontline and move back during cooldowns rather than waiting where you cast.'),
+'poke': dict(
+ play='Poke champions deal damage from long range before a fight starts. A team that has taken heavy poke must either fight at a disadvantage or give up the area. Your goal is to make the enemy lose health and options without giving them a chance to reach you.',
+ strong='Use this strength before objectives, sieges and planned fights. Damage that lands while the enemy waits for a dragon or defends a turret often decides whether they can contest at all. Keep landing safe hits, and tell your team when an enemy is low enough to force a fight.',
+ weak='The usual weakness is being engaged on or flanked while you focus on distant targets. Watch enemy engage champions and keep a retreat route. If an enemy closes the distance, stop poking and reposition. Poke is useful only while you are alive to keep casting.'),
+}

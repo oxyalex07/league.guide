@@ -6,33 +6,31 @@ Protected sustained damage
 
 Catch axes when the landing area is safe and keep pressure through attacks. Treat each catch as a movement decision.
 
+Marksmen provide steady damage over the whole fight rather than one burst. Your value grows with every second you stay alive and attacking, so position is your most important stat. Think of each fight as a series of attacks from safe spots, with short moves in between, rather than one big moment.
+
 ## Strengths
 
 Strong attack pressure rewards clean axe handling and sustained contact.
+
+Turn this strength into an advantage by hitting whatever you can reach safely, usually the nearest enemy. Sustained damage on the frontline still wins fights because it forces enemies to commit early or retreat. Let your team create the openings; you make sure every opening costs the enemy health.
 
 ## Weaknesses and how to respond
 
 Axe locations advertise movement. Give up an axe that would put you in a hook, stun or unsafe forward position.
 
-## Before the teamfight
+Your main risk is being reached. Track the enemies who can dash, pull or flank onto you, and keep allies or distance between you and them. If one of them is missing, play further back until you know where they are. Surviving with less damage is better than dying with a little more.
 
-Identify the nearest safe attack position and the enemy who can reach it. Keep an ally or controlled route between you and that threat.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Identify the nearest safe attack position and the enemy who can reach it. Keep an ally or controlled route between you and that threat.
 
-Attack the nearest safe target while steering catches toward protected ground. Use Stand Aside to interrupt an approach rather than chasing every dropped axe.
+2. **Your Draven plan.** Attack the nearest safe target while steering catches toward protected ground. Use Stand Aside to interrupt an approach rather than chasing every dropped axe.
 
-## During the fight
+3. **During the fight.** Attack the nearest target you can damage without entering lethal range. Move between attacks or casts, and shift forward only after the relevant enemy access is spent.
 
-Attack the nearest target you can damage without entering lethal range. Move between attacks or casts, and shift forward only after the relevant enemy access is spent.
+4. **When behind or out of reach.** Stay in the protected formation and accept a lower damage window. Clearing a safe wave or damaging a controlled frontline target is better than walking past allies to reach a carry.
 
-## When behind or unable to reach your target
-
-Stay in the protected formation and accept a lower damage window. Clearing a safe wave or damaging a controlled frontline target is better than walking past allies to reach a carry.
-
-## After the fight
-
-Keep distance from surviving threats before helping with an objective. Recheck enemy positions instead of allowing a takedown to turn into an uncontrolled chase.
+5. **After the fight.** Keep distance from surviving threats before helping with an objective. Recheck enemy positions instead of allowing a takedown to turn into an uncontrolled chase.
 
 ## Teamfight positioning
 

@@ -6,33 +6,31 @@ Area control and spell cycles
 
 Place Lay Waste where the opponent will move and use the wall to constrain their route. Manage mana before a long contest.
 
+Control mages shape fights with area spells, slows and crowd control. You decide which spaces are safe for the enemy to walk through. Your damage is high when enemies have to stand in your zones, and much lower when they can walk around them.
+
 ## Strengths
 
 Persistent area damage and a map-wide ultimate can contribute across distance.
+
+Use this strength before objectives and in narrow areas such as jungle entrances and river paths. Place spells where enemies must move, not only where they are standing now. Holding a zone that the enemy refuses to enter still helps your team, even if your spells deal little damage.
 
 ## Weaknesses and how to respond
 
 Dying early removes positioning choice even if spells remain available briefly. Do not treat the passive as a reason to give away a preventable death.
 
-## Before the teamfight
+The main weakness is being reached by divers while your spells are on cooldown. Keep one defensive spell or a clear exit for the enemy who can bypass your zone. Stand behind your frontline and move back during cooldowns rather than waiting where you cast.
 
-Choose the entrance or area your team wants to hold. Place yourself where you can affect that space without being the first target of an enemy engage.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Choose the entrance or area your team wants to hold. Place yourself where you can affect that space without being the first target of an enemy engage.
 
-Damage the reachable fight area from behind protection. If killed, use the passive window deliberately; choose an ultimate channel that will not waste the active fight opportunity.
+2. **Your Karthus plan.** Damage the reachable fight area from behind protection. If killed, use the passive window deliberately; choose an ultimate channel that will not waste the active fight opportunity.
 
-## During the fight
+3. **During the fight.** Cast where movement is constrained or an ally has created setup. Keep a defensive response for the enemy who can bypass the zone, then reposition during cooldowns.
 
-Cast where movement is constrained or an ally has created setup. Keep a defensive response for the enemy who can bypass the zone, then reposition during cooldowns.
+4. **When behind or out of reach.** Use spells to limit the enemy approach and clear safely. Do not walk into unknown ground to force a full damage sequence when a defensive zone can buy time.
 
-## When behind or unable to reach your target
-
-Use spells to limit the enemy approach and clear safely. Do not walk into unknown ground to force a full damage sequence when a defensive zone can buy time.
-
-## After the fight
-
-Move the zone forward with your allies only after checking vision. Conserve enough resources for the next contest rather than spending every spell on a retreating target.
+5. **After the fight.** Move the zone forward with your allies only after checking vision. Conserve enough resources for the next contest rather than spending every spell on a retreating target.
 
 ## Teamfight positioning
 

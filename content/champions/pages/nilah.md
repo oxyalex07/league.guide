@@ -6,33 +6,31 @@ Dueling and selective entry
 
 Use close-range attacks and ability hits to sustain pressure, with allied support nearby. Preserve Slipstream paths for repositioning.
 
+Duelists are strongest in one-versus-one fights and often scale into dangerous side-lane threats. Your pressure makes the enemy send someone to stop you, which can give your team a numbers advantage elsewhere. In grouped fights you usually want an edge position where you can reach a target without being the first one hit.
+
 ## Strengths
 
 Close clustered fights and allied protection support repeated melee-range damage.
+
+Use this strength by creating situations the enemy must answer: a side lane that needs a defender, or a flank that threatens their carry. Pick fights where you can isolate one target. When the enemy commits several players to stop you, ping it and make sure your team uses the time to take something.
 
 ## Weaknesses and how to respond
 
 Short reach makes the approach dangerous. Do not use every dash to enter when the enemy can still disengage and attack from range.
 
-## Before the teamfight
+The weakness is getting caught alone or stopped by crowd control before you can fight. Push side lanes only when you know where the enemy team is, and leave before several enemies can reach you. In grouped fights, wait for the key crowd control to be used before entering.
 
-Compare side-lane pressure with joining the team. If grouping, identify which enemy control must be used before you can safely maintain close contact.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Compare side-lane pressure with joining the team. If grouping, identify which enemy control must be used before you can safely maintain close contact.
 
-Join after the initial engage and pull reachable enemies with the ultimate. Use Jubilant Veil against the attack window that would otherwise stop your damage.
+2. **Your Nilah plan.** Join after the initial engage and pull reachable enemies with the ultimate. Use Jubilant Veil against the attack window that would otherwise stop your damage.
 
-## During the fight
+3. **During the fight.** Fight a reachable target and preserve the movement or defense needed for the response. Shift deeper only after your team creates a clear advantage.
 
-Fight a reachable target and preserve the movement or defense needed for the response. Shift deeper only after your team creates a clear advantage.
+4. **When behind or out of reach.** Avoid an isolated duel that the enemy can easily win. Catch safe resources and group for defensive control or a coordinated finish when side pressure is no longer safe.
 
-## When behind or unable to reach your target
-
-Avoid an isolated duel that the enemy can easily win. Catch safe resources and group for defensive control or a coordinated finish when side pressure is no longer safe.
-
-## After the fight
-
-Choose between regrouping and a safe side-lane objective. Account for missing enemies before converting a skirmish win into a solo chase.
+5. **After the fight.** Choose between regrouping and a safe side-lane objective. Account for missing enemies before converting a skirmish win into a solo chase.
 
 ## Teamfight positioning
 

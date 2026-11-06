@@ -6,33 +6,31 @@ Ranged pressure before commitment
 
 Build Overwhelm through safe spell and attack contact. Use Rebuttal against incoming projectiles while helping allies through its shield and speed.
 
+Poke champions deal damage from long range before a fight starts. A team that has taken heavy poke must either fight at a disadvantage or give up the area. Your goal is to make the enemy lose health and options without giving them a chance to reach you.
+
 ## Strengths
 
 Ranged pressure and projectile destruction can support an allied formation while threatening a finish.
+
+Use this strength before objectives, sieges and planned fights. Damage that lands while the enemy waits for a dragon or defends a turret often decides whether they can contest at all. Keep landing safe hits, and tell your team when an enemy is low enough to force a fight.
 
 ## Weaknesses and how to respond
 
 Rebuttal is not a universal answer to every attack. Respect non-projectile threats and avoid walking into melee expecting it to remove all danger.
 
-## Before the teamfight
+The usual weakness is being engaged on or flanked while you focus on distant targets. Watch enemy engage champions and keep a retreat route. If an enemy closes the distance, stop poking and reposition. Poke is useful only while you are alive to keep casting.
 
-Find a clear firing line and a safe location to move to after casting. Check flank routes before focusing on distant targets.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Find a clear firing line and a safe location to move to after casting. Check flank routes before focusing on distant targets.
 
-Keep space to land Solar Snare and repeated barrages. Use Rebuttal for a relevant projectile exchange, then use Golden Eclipse when accumulated marks make the follow-up useful.
+2. **Your Mel plan.** Keep space to land Solar Snare and repeated barrages. Use Rebuttal for a relevant projectile exchange, then use Golden Eclipse when accumulated marks make the follow-up useful.
 
-## During the fight
+3. **During the fight.** Use range to lower enemy health before a hard commitment. If a diver reaches you, switch to survival and repositioning instead of finishing a low-value long-range cast.
 
-Use range to lower enemy health before a hard commitment. If a diver reaches you, switch to survival and repositioning instead of finishing a low-value long-range cast.
+4. **When behind or out of reach.** Defend a clear line with allies and use safe wave pressure. Do not trade your life for one more spell on a distant opponent who can still return to safety.
 
-## When behind or unable to reach your target
-
-Defend a clear line with allies and use safe wave pressure. Do not trade your life for one more spell on a distant opponent who can still return to safety.
-
-## After the fight
-
-Turn the health advantage into controlled space with the team. If enemies leave your range, advance only after allies secure the next approach.
+5. **After the fight.** Turn the health advantage into controlled space with the team. If enemies leave your range, advance only after allies secure the next approach.
 
 ## Teamfight positioning
 

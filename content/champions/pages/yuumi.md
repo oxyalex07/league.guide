@@ -6,33 +6,31 @@ Protection and counter-engage
 
 Support the attached ally through aimed poke, shields and movement help. Track the Best Friend relationship when choosing who receives the strongest support.
 
+Protective champions keep allies alive and stop enemies who try to reach them. Your value comes from the damage your teammates deal because you kept them safe. Stay close enough to help, but not so close that one enemy ability catches both of you.
+
 ## Strengths
 
 Attachment lets her concentrate support on a moving ally through a fight.
+
+Use this strength by staying near the ally most likely to win the fight and saving your best tool for the enemy most likely to kill them. Shields, heals and crowd control are strongest at the moment an enemy commits. A well-timed save can turn a lost fight into a win.
 
 ## Weaknesses and how to respond
 
 The host's positioning still determines danger, and detaching can expose her. Do not assume attachment makes a doomed dive recoverable.
 
-## Before the teamfight
+The usual weakness is spending your tools too early or on the wrong threat. Watch for the second attacker after the first one, and keep something for them. If an ally is too far ahead to save, protect the rest of the team rather than following them into a loss.
 
-Identify which ally is most able to keep dealing damage and which enemy can reach them. Position within support range without standing in the same exposed line.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Identify which ally is most able to keep dealing damage and which enemy can reach them. Position within support range without standing in the same exposed line.
 
-Shield before the host takes the main hit and direct Final Chapter through useful ally and enemy lines. Move between allies only when the transfer is safe.
+2. **Your Yuumi plan.** Shield before the host takes the main hit and direct Final Chapter through useful ally and enemy lines. Move between allies only when the transfer is safe.
 
-## During the fight
+3. **During the fight.** Use your response when the threatening action begins, then move with the protected ally. Watch for a second attacker instead of spending every tool on the first one.
 
-Use your response when the threatening action begins, then move with the protected ally. Watch for a second attacker instead of spending every tool on the first one.
+4. **When behind or out of reach.** Protect the ally with a real escape route. Use control and shields to leave bad ground together; saving one teammate does not require walking into an unwinnable follow-up.
 
-## When behind or unable to reach your target
-
-Protect the ally with a real escape route. Use control and shields to leave bad ground together; saving one teammate does not require walking into an unwinnable follow-up.
-
-## After the fight
-
-Stay with the allies who remain vulnerable. Check health and available defensive spells before escorting them through an unwarded route.
+5. **After the fight.** Stay with the allies who remain vulnerable. Check health and available defensive spells before escorting them through an unwarded route.
 
 ## Teamfight positioning
 

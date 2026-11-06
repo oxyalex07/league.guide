@@ -6,33 +6,31 @@ Sustained melee pressure
 
 Build attack speed through farming and takedowns, then alternate attacks with directional dashes. Plan around which dash directions remain.
 
+Bruisers are melee fighters who are durable enough to stay in contact but not so durable that they can ignore the enemy team. You win longer fights at close range, so your job is to choose fights where you can keep contact and to leave the ones where you cannot. Health, cooldowns and allied support all decide how long you can stay.
+
 ## Strengths
 
 Extended attacks and transformation rewards can turn an initial takedown into momentum.
+
+Use this strength in extended fights near your team, where the enemy cannot easily walk away from you. Pressure the closest valuable target, and make the enemy carry decide between running from you or staying to fight. A bruiser who keeps contact for the whole fight often deals more damage than any single burst.
 
 ## Weaknesses and how to respond
 
 Coral can lure her into danger. Check surrounding enemies before consuming it, and do not assume the stationary channel is an escape.
 
-## Before the teamfight
+The usual weakness is being kited or focused before reaching anyone useful. Approach from cover, with allies, or after key slows and crowd control are used. If enemies spread out or keep moving away, stop chasing and return to protect your team rather than following them alone.
 
-Name a reachable first target and the enemy spell that could stop your contact. Approach beside allied pressure or through cover rather than absorbing the entire enemy opening alone.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Name a reachable first target and the enemy spell that could stop your contact. Approach beside allied pressure or through cover rather than absorbing the entire enemy opening alone.
 
-Fight a reachable target until a safe coral opportunity appears. Use Royal Maelstrom to weather a damage window, not as a reason to stand inside all enemy control.
+2. **Your Bel'Veth plan.** Fight a reachable target until a safe coral opportunity appears. Use Royal Maelstrom to weather a damage window, not as a reason to stand inside all enemy control.
 
-## During the fight
+3. **During the fight.** Keep contact only while your damage, defensive window and allied support overlap. Between spell cycles, move toward your team if the target leaves useful range.
 
-Keep contact only while your damage, defensive window and allied support overlap. Between spell cycles, move toward your team if the target leaves useful range.
+4. **When behind or out of reach.** Take shorter contact windows and help stop a diver. Your control and body position can still help even when you cannot survive an extended duel.
 
-## When behind or unable to reach your target
-
-Take shorter contact windows and help stop a diver. Your control and body position can still help even when you cannot survive an extended duel.
-
-## After the fight
-
-Recheck health, resources and the next defensive cooldown. Winning the first exchange does not mean you can safely chase across the next screen.
+5. **After the fight.** Recheck health, resources and the next defensive cooldown. Winning the first exchange does not mean you can safely chase across the next screen.
 
 ## Teamfight positioning
 

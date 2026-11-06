@@ -6,33 +6,31 @@ Dueling and selective entry
 
 Build Snip Snip stacks through attacks, then fight at a range where its center can connect. Use mist to control which opponents can affect you.
 
+Duelists are strongest in one-versus-one fights and often scale into dangerous side-lane threats. Your pressure makes the enemy send someone to stop you, which can give your team a numbers advantage elsewhere. In grouped fights you usually want an edge position where you can reach a target without being the first one hit.
+
 ## Strengths
 
 Sustained melee damage and mist can let her fight one part of a team at a time.
+
+Use this strength by creating situations the enemy must answer: a side lane that needs a defender, or a flank that threatens their carry. Pick fights where you can isolate one target. When the enemy commits several players to stop you, ping it and make sure your team uses the time to take something.
 
 ## Weaknesses and how to respond
 
 Enemies who enter the mist can still fight her. Do not treat it as general invulnerability or leave it for an unnecessary chase.
 
-## Before the teamfight
+The weakness is getting caught alone or stopped by crowd control before you can fight. Push side lanes only when you know where the enemy team is, and leave before several enemies can reach you. In grouped fights, wait for the key crowd control to be used before entering.
 
-Compare side-lane pressure with joining the team. If grouping, identify which enemy control must be used before you can safely maintain close contact.
+## Teamfight plan
 
-## Your champion-specific teamfight plan
+1. **Before the fight.** Compare side-lane pressure with joining the team. If grouping, identify which enemy control must be used before you can safely maintain close contact.
 
-Place Hallowed Mist to exclude distant threats while attacking an accessible frontliner. Advance only when the next mist position remains useful.
+2. **Your Gwen plan.** Place Hallowed Mist to exclude distant threats while attacking an accessible frontliner. Advance only when the next mist position remains useful.
 
-## During the fight
+3. **During the fight.** Fight a reachable target and preserve the movement or defense needed for the response. Shift deeper only after your team creates a clear advantage.
 
-Fight a reachable target and preserve the movement or defense needed for the response. Shift deeper only after your team creates a clear advantage.
+4. **When behind or out of reach.** Avoid an isolated duel that the enemy can easily win. Catch safe resources and group for defensive control or a coordinated finish when side pressure is no longer safe.
 
-## When behind or unable to reach your target
-
-Avoid an isolated duel that the enemy can easily win. Catch safe resources and group for defensive control or a coordinated finish when side pressure is no longer safe.
-
-## After the fight
-
-Choose between regrouping and a safe side-lane objective. Account for missing enemies before converting a skirmish win into a solo chase.
+5. **After the fight.** Choose between regrouping and a safe side-lane objective. Account for missing enemies before converting a skirmish win into a solo chase.
 
 ## Teamfight positioning
 
