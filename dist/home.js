@@ -70,7 +70,7 @@ function homeHtml(){
 
  <section aria-labelledby="mu-h">
   <div class="sec-head"><div><p class="eyebrow">Matchups</p><h2 id="mu-h">Study both sides of a lane</h2></div><a href="#/matchups">All matchups →</a></div>
-  <div class="mu-grid">${MATCHUPS.map(m=>`<a class="mu-card" href="#/matchup/${m.slug}"><strong>${esc(m.title)}</strong><small>${esc(m.kind)}</small><span>${esc(m.summary)}</span></a>`).join('')}</div>
+  <div class="mu-grid">${MATCHUPS.slice(0,4).map(m=>`<a class="mu-card" href="#/matchup/${m.slug}"><strong>${esc(m.title)}</strong><small>${esc(m.kind)}</small><span>${esc(m.summary)}</span></a>`).join('')}</div>
  </section>
 
  <footer class="site-foot"><p>Guidance is editorial interpretation of champion kits, not Riot recommendations or win-rate predictions. Ability names come from Riot Data Dragon ${esc(CHAMPIONS[0].version)}. League of Legends is a trademark of Riot Games; this site is not affiliated with Riot Games.</p></footer>

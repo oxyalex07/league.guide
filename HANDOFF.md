@@ -2,7 +2,7 @@
 
 All 173 champion pages now exceed three times their previous visible length. Each contains 1,667–1,723 words, including deeper game plans, an individually written worked decision and structured practice guidance.
 
-The website now contains 66 lessons in nine guided stages (including a new Climbing stage, interactive animated diagrams and a glossary), stage quizzes, dark mode, practice progress and two starter matchup studies. Use Lessons, Matchups and Champions in the left sidebar.
+The website now contains 66 lessons in nine guided stages (including a new Climbing stage, interactive animated diagrams and a glossary), stage quizzes, dark mode, practice progress and 16 matchup studies (two starter studies plus 14 Kog'Maw bot lane studies). Use Lessons, Matchups and Champions in the left sidebar.
 
 Unzip the entire website package and open `dist/index.html`. No installation or network is needed for reading; external source links require internet access. Rebuild and browser setup instructions are in README.md.
 

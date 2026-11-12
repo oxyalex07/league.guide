@@ -1,6 +1,6 @@
 # League.guide review build
 
-Open `dist/index.html` in a browser. No installation, account, server or network is required to read the 66 lessons, 173 champion guides, two matchup studies and the glossary. Unzip the whole package first; keep assets beside the HTML. External source links require internet access.
+Open `dist/index.html` in a browser. No installation, account, server or network is required to read the 66 lessons, 173 champion guides, 16 matchup studies (including 14 Kog'Maw bot lane studies) and the glossary. Unzip the whole package first; keep assets beside the HTML. External source links require internet access.
 
 Optional local HTTP preview (Python 3):
 
